@@ -1,8 +1,8 @@
-O primeiro passo para criar um personagem é definir quem ele é. Tenha em mente que talvez aqui seja o lugar onde você passe a maior parte do tempo. A melhor maneira de o definir é ter por base a estrutura da [[Campanha]] que você jogará. É a partir dela que você terá um norte, uma margem para de fato construir um personagem que faça sentido ao ser inserido nesse universo. Por isso, é sempre bom perguntar para o [[Mestre]] se há alguma orientação. Talvez você tenha pensado, na concepção do seu personagem como membro de uma raça vinda de um planeta distante, mas será que a campanha vai utilizar esses aspectos interplanetários ou haverão apenas seres humanos? Pergunte ao seu mestre e você terá uma boa base para tal. Vamos realizar aqui, juntos, a criação de um personagem; passando por cada capítulo deste livro. **Talvez com esse exemplo mais sólido, você consiga obter uma noção mais clara de como criar o seu próprio personagem.**
+O primeiro passo para criar um personagem é definir quem ele é. Tenha em mente que talvez aqui seja o lugar onde você passe a maior parte do tempo. A melhor maneira de o definir, é ter por base a estrutura da [[Campanha]] que você jogará. É a partir dela que você terá um norte, uma margem para de fato construir um personagem que faça sentido ao ser inserido nesse universo. Por isso, é sempre bom perguntar para o [[Mestre]] se há alguma orientação. Talvez você tenha pensado, na concepção do seu personagem como membro de uma raça vinda de um planeta distante, mas será que a *Campanha* vai utilizar esses aspectos interplanetários ou haverão apenas seres humanos? Pergunte ao seu *Mestre* e você terá uma boa base para tal. Vamos realizar aqui, juntos, a criação de um personagem; passando por cada capítulo deste livro. **Talvez com esse exemplo mais sólido, você consiga obter uma noção mais clara de como criar o seu próprio personagem.**
 
 ## Conceito
 
-Tudo começa por aqui: que tipo de personalidade você tem em mente? Que história há por trás desse sujeito? Pois bem, no nosso exemplo, vamos criar um vigilante. A campanha do qual ele faz parte foi definida pelo [[Mestre]], como um universo onde os personagens de cada jogador serão vigilantes de bairro. Justiceiros mascarados que adquiriram poderes, em que suas fontes originárias não possuirão limitações. Os únicos combinados serão que: **os personagem deverão ser jovens que ainda vivem sua vida universitária, e serão todos vigilantes com identidades ocultas**. Lidarão com os problemas de seu bairro de forma independente, enquanto tem de lidar com os conflitos e relacionamentos de suas reais identidades.
+Tudo começa por aqui: que tipo de personalidade você tem em mente? Que história há por trás desse sujeito? Pois bem, no nosso exemplo, vamos criar um vigilante. A [[Campanha]] do qual ele faz parte foi definida pelo [[Mestre]], como um universo onde os personagens de cada jogador serão vigilantes de bairro; justiceiros mascarados que adquiriram poderes, em que suas fontes originárias não possuirão limitações. Os únicos combinados serão que: **os personagem deverão ser jovens que ainda vivem sua vida universitária, e serão todos vigilantes com identidades ocultas**. Lidarão com os problemas de seu bairro de forma independente, enquanto tem de lidar com os conflitos e relacionamentos de suas reais identidades.
 
 
 > [!info] Nota
@@ -20,19 +20,19 @@ Tudo começa por aqui: que tipo de personalidade você tem em mente? Que histór
 ## Aparência
 
 > [!info] Nota
-> Aqui você pode descrever como o personagem se parece: sua pele, seus cabelos, olhos, marcas etc. Contudo ainda não pense em aspectos mensuráveis, como altura e peso. Esses últimos dados, vão influênciar em algumas outras métricas. Idealize o personagem e guarde essas informações. Elas serão utilizadas em breve. Vamos dizer que ela possui uma pele levemente bronzeada e um cabelo negro ondulado. Seus olhos são castanhos claros e ela possui algumas sardas no rosto.
+> Aqui você pode descrever como o personagem se parece: sua pele, seus cabelos, olhos, marcas etc. Contudo ainda não pense em aspectos mensuráveis, como altura e peso. Esses últimos dados, vão influenciar em algumas outras métricas. Idealize seu personagem e guarde essas informações. Elas serão utilizadas em breve. Vamos dizer que ela possui uma pele levemente bronzeada e um cabelo negro ondulado. Seus olhos são castanhos claros e ela possui algumas sardas no rosto.
 
 ## Apelido
 
 
 > [!info] Nota
-> Talvez esse seja um campo mais importante do que o próprio nome do personagem. Estamos falando de uma _Campanha_ de super-heróis e qual super herói não quer ter um apelido marcante! Ainda mais quando temos a informação que os heróis serão vigilantes mascarados. Não poderiamos ficar por ai sendo chamados por nosso nome de batismo. Digamos que a Dara decidiu se chamar Celeste. Seu gosto por estrelas e o fato da origem de seu poder ser advindo de um corpo celeste, parece fazer sentido para ela.
+> Talvez esse seja um campo mais importante do que o próprio nome do personagem. Estamos falando de uma [[Campanha]] de super-heróis e qual super herói não quer ter um apelido marcante! Ainda mais quando temos a informação que os heróis serão vigilantes mascarados. Não poderiamos ficar por ai sendo chamados por nosso nome de batismo. Digamos que a Dara decidiu se chamar Celeste. Seu gosto por estrelas e o fato da origem de seu poder ser advindo de um corpo celeste, parece fazer sentido para ela.
 
 # Personalidade
 
 Agora que já temos uma origem bem definida, podemos explorar nossa personagem ainda mais profundamente. Toda a identidade dela já foi escolhida. Temos um nome, uma aparência e um apelido. É hora de explorar agora alguns de seus fatores psicológicos. Assim como o [[Cenário]] é o fundamento para criar a origem e a identidade de um personagem, aqui abaixo você encontrará um modo de explorar e aprofundar sua personalidade. **Você é livre para determinar as ações, escolhas, o temperamento e alinhamento do seu personagem, mas esses fatores serão fortemente desenvolvidos na prática, enquanto você interpretar seu personagem e interagir com o universo ao seu redor e os personagens de cada outro jogador**. Os [[Capítulo 1 - Antecedentes#Traços|Traços]] de um personagem, são como que o norte, de onde surgem essas outras caracteristicas que você vai desenvolver e formar. São aquelas raízes psicológicas mais primitivas, dotadas de alguma irracionalidade e automatismo que foram adicionadas à sua psíque, não se sabe quando nem como. A parte mais legal é que elas estão distribuidas numa quantidade, que pode ser sorteada por um dado de 12 lados (**1d12**). Isso quer dizer que: você está livre para escolhê-las, mas também pode sorteá-las e arriscar-se a interpretar o que a sorte lhe trouxer.
 
-Além disso, cada *Traço* é importante não apenas descritiva e narrativamente, para que você deixe seu personagem mais único e detalhado, mas também porque esses *Traços* trazem consigo, uma [[Virtude]] e uma [[Mania]] que no decorrer da [[Campanha]] poderão colocá-lo em um estado de [[Prova]]. E são nesses momentos que ele poderá ficar [[Motivado]] ou [[Perturbado]]. Ao criar um personagem **você pode escolher até dois *Traços*** (durante a campanha, dependendo das situações e do [[Mestre]], também é possível que você ganhe ou perca um *Traço*).
+Além disso, cada *Traço* é importante não apenas descritiva e narrativamente, para que você deixe seu personagem mais único e detalhado, mas também porque esses *Traços* trazem consigo, uma [[Virtude]] e uma [[Mania]] que no decorrer da [[Campanha]] poderão colocá-lo em um estado de [[Conflito]]. E são nesses momentos que ele poderá ficar [[Motivado]] ou [[Perturbado]]. Ao criar um personagem **você pode escolher até dois *Traços*** (durante a campanha, dependendo das situações e do [[Mestre]], também é possível que você ganhe ou perca um *Traço*).
 
 ## Traços
 
@@ -170,7 +170,7 @@ O *Cientista* concentra-se em ciências naturais e laboratórios, incluindo biom
 
 *Clínico* é uma subdivisão do *Ofício Acadêmico*, que se concentra em áreas da saúde, como medicina, enfermagem, nutrição, fisioterapia, farmacologia, e veterinária. Esses personagens possuem conhecimento avançado sobre saúde e bem-estar, e são capazes de aplicar seus conhecimentos para ajudar a curar e tratar doenças e lesões. Eles são valorizados por suas habilidades em diagnósticos e tratamentos, e por sua dedicação ao bem-estar dos pacientes. Um clínico pode ter formação em nível superior nas áreas de saúde mencionadas, e pode atuar como médico, enfermeiro, nutricionista, fisioterapeuta, farmacêutico ou veterinário, entre outras profissões relacionadas à saúde.
 
-- **Especializações de Ofício:** **-2** CDs em [[content/Glosário/Teste de Tratamento]] e **-1** CD em [[Reação de Raciocício]] (se possuir relação com seu *Ofício*).
+- **Especializações de Ofício:** **-2** CDs em [[Teste de Tratamento]] e **-1** CD em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
 - **Inventário Inicial:** Lorem Ipsum.
 
 ### Humanista
@@ -198,7 +198,7 @@ O *Tecnólogo* se concentra em aplicar conhecimento técnico para resolver probl
 
 *Artífice* é um *Ofício* que se concentra em criar objetos com habilidade manual e técnica. Eles são habilidosos em trabalhar com materiais para criar objetos únicos e funcionais, como jóias, armas, armaduras, utensílios domésticos, entre outros. Os artífices possuem conhecimento especializado em sua área de atuação e são capazes de combinar habilidade manual, conhecimento técnico e criatividade para produzir objetos de alta qualidade. Eles podem atuar como joalheiros, ferreiros, ourives, artesãos, entre outros, e são valorizados por sua habilidade de transformar matéria-prima em objetos de beleza e utilidade.
 
-- **Especialidades de Ofício: -2** CDs em [[Teste de Sobreviência]] (no intuito de desenvolver algum objeto ou ferramenta improvisada) e **-1** CD em [[Teste de Prestidigitação]].
+- **Especialidades de Ofício: -2** CDs em [[Teste de Sobrevivência]] (no intuito de desenvolver algum objeto ou ferramenta improvisada) e **-1** CD em [[Teste de Prestidigitação]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Artista

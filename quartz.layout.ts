@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.MobileOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
@@ -51,7 +51,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.MobileOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
