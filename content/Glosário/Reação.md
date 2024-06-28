@@ -1,0 +1,1 @@
+>  Uma [[Reação]] trata-se de um [[Teste de Rolagem]] que será realizado quando o [[Mestre]] solicitar. Um personagem só deverá realizar uma _Reação_, quando sofrer influência de qualquer fonte externa à ele. Para cada tipo de ação externa contra o personagem, há uma *Reação* específica à ser utilizada.

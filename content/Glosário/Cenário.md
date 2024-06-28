@@ -1,0 +1,1 @@
+> Um *Cenário* pode ser compreendido como o tema. É o conjunto de regras não mecânicas, ou seja, que abrangem somente a criação de personagem e o possibilidades de ações do universo. Por exemplo: medieval, futurista, realista, gótico, mutante, espacial etc.

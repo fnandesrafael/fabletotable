@@ -1,0 +1,1 @@
+> O nome já é autoexplicativo. _Agilidade_ reflete a capidade de um personagem de se locomover ou realizar uma determinada ação em um curto periodo de tempo exigido. É muito comum que um personagem que tenha alta agilidade, seja quase sempre mais leve, perdendo assim um pouco de sua vitalidade.

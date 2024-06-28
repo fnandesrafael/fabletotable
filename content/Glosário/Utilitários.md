@@ -1,0 +1,1 @@
+> Conjunto de [[Intens]] que possuem uma função própria.

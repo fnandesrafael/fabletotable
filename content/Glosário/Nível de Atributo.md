@@ -1,0 +1,1 @@
+> Valor que vai de **-5** à **+5** (ignorando-se **0** e **-1**) e determina a quantidade de **d20s** que o jogador irá usar em [[Teste de Rolagem]] que se baseem nesse [[Atributo]]. O sinal negativo indica que dentre os d20s será usado o menor valor, enquanto o sinal positivo indica o inverso.

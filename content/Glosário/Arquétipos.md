@@ -1,0 +1,1 @@
+>Categorias de personagens, baseadas em sua forma de agir e combater. *Arquétipos* também englobam certas características psicológicas, como um pensamento tático ou uma mentalidade mais irracional

@@ -1,0 +1,1 @@
+> Ação ou circunstância que provoca um *Traço* negativo da personalidade do personagem, possibilitando o ganho da [[Condição]] [[Perturbado]].

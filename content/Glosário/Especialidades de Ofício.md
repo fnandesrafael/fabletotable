@@ -1,0 +1,1 @@
+> *Especialidades de Ofício* são um certo número de bônus que um personagem tem por possuir aquele *Ofício*. Dentre esses bônus se encontram uma redução de [[Classes de Dificuldade]] em algumas [[Perícia]] e [[Reação]], além de proficiência com certos [[Equipamentos]] e outros [[Itens]].

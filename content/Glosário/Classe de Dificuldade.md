@@ -1,0 +1,1 @@
+> *Classes de Dificuldade* nada mais são do que um certo valor que deve ser superado por um [[Teste de Rolagem]]. Essas *CDs* (*Classes de Dificuldade*) variam entre: *Rotina* (**6**), *Fácil* (**12**), *Médio* (**18**), *Difícil* (**24**) e *Impossível* (**30**).

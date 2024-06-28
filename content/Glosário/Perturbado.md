@@ -1,0 +1,1 @@
+>  Quando um personagem estiver Perturbado, será adicionado **1d20** extra à todos os seus [[Teste de Rolagem]], mantendo-se o módulo do valor do [[Atributo]] usado em cada momento, para determinar a quantidade de dados à serem lançados; considerando-se para o resultado, o menor valor obtido nas rolagens de d20s (dê vintes). O efeito dura **40min** reais.

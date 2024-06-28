@@ -1,0 +1,1 @@
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Capítulo 5 - Perícias|Perícia]] [[Capítulo 5 - Perícias#Blefe|Blefe]] de um personagem.

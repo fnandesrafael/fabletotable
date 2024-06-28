@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Fábula à Mesa 1ª Edição (v1.0.0)",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

@@ -1,0 +1,1 @@
+> Conjunto de características descritivas que um personagem possui e que devem ser levadas em conta embora não possuam exatamente regras mecânicas bem delineadas.

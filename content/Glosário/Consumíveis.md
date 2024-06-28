@@ -1,0 +1,1 @@
+> Conjunto de [[Itens]] que podem ser consumidos pelos personagens, favorecendo-os.

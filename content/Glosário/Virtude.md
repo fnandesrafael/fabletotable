@@ -1,0 +1,1 @@
+> Ação ou circunstância que provoca um *Traço* positivo da personalidade do personagem, possibilitando o ganho da [[Condição]] [[Motivado]].

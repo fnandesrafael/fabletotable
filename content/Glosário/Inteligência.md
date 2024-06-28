@@ -1,0 +1,1 @@
+> O _Atributo Inteligência,_ reflete a capacidade de um personagem de racionar corretamente dado uma dificuldade intelectual, seja a de perceber a realidade ao seu redor ou entender uma difícil equação, sendo capaz de resolvê-la.

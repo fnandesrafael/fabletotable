@@ -1,0 +1,1 @@
+> Valores que somados graduam um [[Atributo]].

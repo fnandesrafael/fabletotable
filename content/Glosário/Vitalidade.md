@@ -1,0 +1,1 @@
+> Relativo à resistência corporal de um personagem. O quanto ele aguenta resistir à envenenamentos, o arder de uma pela com ácido, ou até mesmo ficar submerso debaixo d’agua sem ser sufocado. _Vitalidade_ Pode ser entendido simplesmente como o vigor físico, mas também está atrelado à resistência psicológica.

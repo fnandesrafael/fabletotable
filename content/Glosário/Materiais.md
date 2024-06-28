@@ -1,0 +1,1 @@
+> Conjunto de [[Itens]] que não possuem função própria mas se combinado com outros, são capaces de gerar *Itens* [[Consumíveis]] ou [[Utilitários]].

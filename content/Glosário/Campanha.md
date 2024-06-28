@@ -1,0 +1,1 @@
+> Uma *Campanha* pode ser entendida como uma saga completa com começo, meio e fim que se passa dentro de um [[Cenário]] específico; esse último por sua vez, pode englobar diversas campanhas que podem ou não relacionar-se.

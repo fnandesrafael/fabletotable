@@ -1,0 +1,1 @@
+> *Pontos de Experiência* são um conjunto de valores obtidos ao longo de uma jogatina. Suas interações com outros personagens, suas investigaçõs, seus sucessos em combate e interpretação de personagem fazem com que você os obtenha. No entanto seus valores, quase sempre, são conhecidos apenas pelo [[Mestre]].

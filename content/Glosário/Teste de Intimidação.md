@@ -1,0 +1,1 @@
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Perícia]] [[Capítulo 5 - Perícias#Intimidação|Intimidação]] de um personagem.

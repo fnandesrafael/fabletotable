@@ -1,0 +1,1 @@
+> Conjunto de [[Itens]] que podem ser equipados por um personagem, sendo utilizados para garantir melhores ofensivas e defesas. Alguns *Itens* podem garantir melhores [[Atributo|Atributos]] ou efeitos especiais.

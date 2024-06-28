@@ -1,0 +1,1 @@
+> Conjunto de [[Itens]] que um personagem carrega consigo.

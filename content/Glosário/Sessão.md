@@ -1,0 +1,1 @@
+> Uma *Sessão* pode ser entendida como o tempo de duração de um encontro entre [[Protagonista|Protagonistas]] e [[Mestre]]. Em outras palavras, uma "partida".

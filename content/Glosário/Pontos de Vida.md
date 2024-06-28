@@ -1,0 +1,1 @@
+> Como é evidente, os *Pontos de Vida* de fato servem para marcar o valor vital de um persoangem. Esse valor pode ser diminuído ou aumentado de inúmeras formas. No entanto, **sempre que chegar à zero**, o personagem entrará em [[Morrendo]].  *Pontos de Vida* nunca podem exceder o valor máximo de [[Vida Total]] do personagem.

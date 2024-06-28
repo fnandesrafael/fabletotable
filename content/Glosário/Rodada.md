@@ -1,0 +1,1 @@
+> Uma *Rodada* nada mais é que o turno, ou a vez de um [[Protagonista]], onde ele poderá realizar suas ações e movimentar-se.

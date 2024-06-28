@@ -1,0 +1,1 @@
+> Jogador que interpreta um único personagem até sua morte; sendo responsável por suas ações, ou ao menos suas intenções que terão seus resultados determinados através da rolagem de dados.

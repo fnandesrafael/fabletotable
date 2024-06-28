@@ -1,0 +1,1 @@
+> Relativo à capacidade física do personagem. Tudo que envolve sua aptidão para elevar grandes pesos ou mover objetos massivos. Um personagem que possui altos valores em _Força_, é geralmente alguém que atua num combate mais próximo. Quase sempre utilizando seus punhos ou no máximo algum equipamente que canalize essa força.

@@ -1,0 +1,1 @@
+> Um *Combate* é um tipo de [[Cena]] específica, onde há um sistema próprio de [[Iniciativa]] e [[Rodada|Rodadas]].

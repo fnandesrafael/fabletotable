@@ -1,0 +1,1 @@
+> Um *Dado de Vida* determina o quanto de vitalidade um personagem adquire ao longo de suas graduações de [[Nível de Poder]] e o quanto o mesmo se cura nessa graduação. *Dados de Vida* podem variar em d6, d8, ou d12.

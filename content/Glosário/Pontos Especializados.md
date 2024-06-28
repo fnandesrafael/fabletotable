@@ -1,0 +1,1 @@
+> [[Pontos de Atributo]] adicionados à alguma [[Perícia]] ou [[Reação]]. Que são somados ao resultado do [[Teste de Rolagem|Teste de Rolagem]] junto com o [[Tabela de Bônus de Arquétipo|Bônus de Arquétipo]] e o [[Tabela de Bônus de Experiência|Bônus de Experiência]].

@@ -1,0 +1,1 @@
+> Teste no qual há o lançamento de uma certa quantidade de d20s (dê vintes), a fim de superar uma determinada [[Classes de Dificuldade|Classe de Dificuldade]].

@@ -1,0 +1,1 @@
+> Uma *Cena* possui uma definição um pouco relativa, tratando-se de um RPG. Mas pode ser entendida como momentos fora do [[Combate]], em que há algum objetivo particular à ser concluido. Após a conclusão desse objetivo, ou mesmo com sua interrupção por um outro, é possível dizer que houve uma "troca de *Cena*". No fim, essa é uma definição que estará nas mãos do seu [[Mestre]].

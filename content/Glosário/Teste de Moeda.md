@@ -1,0 +1,1 @@
+> Mecânica na qual há o lançamento de uma moeda onde "Cara" é sempre o pior resultado e "Coroa" o melhor resultado.

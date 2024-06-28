@@ -1,0 +1,1 @@
+> *Condições* são um tipo de estado especial no qual um personagem se encontra, e que demandam certas mecânicas específicas de resolução, como por exemplo: [[Agarrado]], [[Derrubado]], [[Motivado]] etc.

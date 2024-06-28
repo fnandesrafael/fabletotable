@@ -1,0 +1,1 @@
+> Esse é o atributo fundamental dentre todos. O _Nível de Poder_ determina o quão experiente seu personagem é. Servindo como uma escala ou medida, é com uma graduação com a qual você conseguirá novos aprimoramentos, novas vantagens e novos valores.

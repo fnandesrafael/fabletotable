@@ -1,0 +1,1 @@
+> O *Mestre* é o jogador responsável por desenvolver uma história, criar um universo, interpretar os personagens deste mesmo universo e conduzir os outros jogadores.

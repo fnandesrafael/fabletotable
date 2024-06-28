@@ -1,0 +1,1 @@
+> Conjunto de habilidades e proficiências que um determinado personagem possui, facilitando o manuseio de algumas determinadas ferramentas e equipamentos. Também dá ao personagem um plano de fundo geral de sua vida até o início da campanha, podendo continuarmente ser explorado e expandido.

@@ -1,0 +1,1 @@
+> Conjunto de objetos que os personagens podem adquirir, usar, ou interagir durante o jogo. Estes *Itens* podem variar amplamente em tipo e função, e desempenham um papel crucial na progressão do jogo, ajudando os personagens a superar desafios, melhorar suas habilidades e cumprir suas missões.
