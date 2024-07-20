@@ -317,25 +317,31 @@ Quando um *Místico* realizar qualquer [[Teste de Intuição]], [[Teste de Perce
 | Nível de Poder (NP) | Vantagem | Descrição |
 | ------------------- | -------- | --------- |
 | NP1                 | Místico  |           |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
+| NP2                 |          |           |
+| NP3                 |          |           |
+| NP4                 |          |           |
 | NP5                 | - - -    | - - -     |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
+| NP6                 |          |           |
+| NP7                 |          |           |
+| NP8                 |          |           |
+| NP9                 |          |           |
 | NP10                | - - -    | - - -     |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
+| NP11                |          |           |
+| NP12                |          |           |
+| NP13                |          |           |
+| NP14                |          |           |
 | NP15                | - - -    | - - -     |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
-|                     |          |           |
+| NP16                |          |           |
+| NP17                |          |           |
+| NP18                |          |           |
+| NP19                |          |           |
 | NP20                | - - -    | - --      |
+### Vantagens Especiais
+
+| Vantagem | Descrição |
+| -------- | --------- |
+|          |           |
+
 > [[Tabela de Vantagens do Místico]]
 
 ## Tático
