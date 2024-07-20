@@ -159,35 +159,35 @@ Agora, veja a descrição de cada um deles e **escolha um** para seu personagem:
 
 Para adquirir o *Ofício Acadêmico*, primeiro você deverá decidir qual o seu campo de conhecimento. Todos acadêmicos possuem [[Itens ]]em comum, mas dadas suas áreas, terão [[Especialidades de Ofício]] diferentes, e alguns [[Utilitários]] e [[Materiais]] ou até [[Consumíveis]] específicos.
 
-### Cientista
+### Acadêmico-Cientista
 
 O *Cientista* concentra-se em ciências naturais e laboratórios, incluindo biomedicina, biologia, química, física, matemática ou até pseudociências e alquimia, à depender do [[Cenário]] em que estiver inserido (isso também se reflete em qualquer outro *Ofício*). Esses personagens possuem habilidades excepcionais em resolução de problemas e descoberta de novos conhecimentos através de experimentos e pesquisas. Eles são conhecidos por sua curiosidade insaciável e sua dedicação ao avanço da ciência. O cientista pode ter formação em nível superior nas áreas de biomedicina, biologia, química, física, matemática e inúmeras outras. Podendo atuar como pesquisador, professor, engenheiro, e quaisquer profissões relacionadas ao avanço científico. Eles são valorizados por sua capacidade de desenvolver soluções inovadoras para os desafios do mundo, e por sua habilidade de aplicar conhecimento científico para a resolução de problemas práticos.
 
 - **Especialidades de Ofício:** **-1** CD em [[Teste de Ciência]] e **-2** CDs em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
 - **Inventário Inicial:** Lorem ipsum.
 
-### Clínico
+### Acadêmico-Clínico
 
 *Clínico* é uma subdivisão do *Ofício Acadêmico*, que se concentra em áreas da saúde, como medicina, enfermagem, nutrição, fisioterapia, farmacologia, e veterinária. Esses personagens possuem conhecimento avançado sobre saúde e bem-estar, e são capazes de aplicar seus conhecimentos para ajudar a curar e tratar doenças e lesões. Eles são valorizados por suas habilidades em diagnósticos e tratamentos, e por sua dedicação ao bem-estar dos pacientes. Um clínico pode ter formação em nível superior nas áreas de saúde mencionadas, e pode atuar como médico, enfermeiro, nutricionista, fisioterapeuta, farmacêutico ou veterinário, entre outras profissões relacionadas à saúde.
 
 - **Especializações de Ofício:** **-2** CDs em [[Teste de Tratamento]] e **-1** CD em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
 - **Inventário Inicial:** Lorem Ipsum.
 
-### Humanista
+### Acadêmico-Humanista
 
 Um *Humanista* é mais uma subdivisão de *Acadêmico* que se concentra em estudar as humanidades, incluindo filosofia, história, literatura, artes, antropologia, religiões comparadas, entre outras. Eles são habilidosos em compreender e analisar culturas, sociedades e valores humanos. O humanista pode ter formação em nível superior em filosofia, história, literatura, artes, antropologia, entre outras áreas, e pode atuar como professor, pesquisador, curador, escritor, entre outras profissões relacionadas às humanidades. Eles são valorizados por sua compreensão profunda da natureza humana e sua habilidade de aplicar esse conhecimento para ajudar a resolver problemas sociais, históricos e políticos.
 
 - **Especialidades de Ofício:** **-2** CDs em [[Teste de Cultura]] e **-1** CD em [[Teste de Idiomas]].
 - **Inventário Inicial:** Lorem Ipsum.
 
-### Tecnólogo
+### Acadêmico-Tecnólogo
 
 O *Tecnólogo* se concentra em aplicar conhecimento técnico para resolver problemas práticos. Eles possuem formação em áreas tecnológicas como engenharia de programas, desenvolvimento de tecnologias, informática, segurança da informação, entre outras ciências da computação. São habilidosos em utilizar tecnologia para melhorar processos e desenvolver novos produtos e soluções. O tecnólogo pode atuar como engenheiro, desenvolvedor de programas e entre outras profissões. É valorizado por sua habilidade de criar soluções eficientes e inovadoras.
 
 - **Especialidades de Ofício:** **-2** CDs em [[Teste de Tecnologia]] e **-1** CD em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
 - **Inventário Inicial:** Lorem Ipsum.
 
-### Terapeuta
+### Acadêmico-Terapeuta
 
 *Terapeuta* é outra subdivisão do *Ofício* *Acadêmico* que se concentra em áreas das ciências comportamentais, neurologia, neurociência e psicologia. Esses personagens possuem conhecimento avançado sobre a mente e o comportamento humano, e são capazes de aplicar seus conhecimentos para ajudar as pessoas a lidar com questões psicológicas e emocionais. Eles são valorizados por sua habilidade em compreender as motivações e emoções das pessoas, e por sua dedicação à ajudar e apoiar pessoas em suas necessidades. O terapeuta pode ter formação em nível superior nas áreas de ciências comportamentais, neurologia, neurociência, psicologia, psiquiatria e pode atuar como psicólogo, terapeuta, conselheiro, entre outras profissões relacionadas ao bem-estar mental e emocional.
 

@@ -122,7 +122,6 @@ Por fim um dos bônus mais importantes que um personagem pode ter, é o seu [[Ta
 | 20                          | +10                              |
 > [[Tabela de Proficiência de Arquétipo]].
 
-# Arquétipos
 ## Vantagens
 
 Sempre que seu personagem ganhar um novo [[Nível de Poder]], você realizará uma série de mudanças em sua [[Ficha de Personagem]]. Adicionando novos [[Pontos de Atributo]], criando e modificando seus [[Poderes]], somando novos [[Dado de Vida|Dados de Vida]] etc. Além de tudo isso, ele ganhará ainda uma nova [[#Vantagens|Vantagem]]. *Vantagens* são um conjunto de **bônus circunstanciais que podem ser ativados baseados em suas descrições**. Eles são obtidos a cada novo *Nível de Poder*. Todas as *Vantagens* são específicas de cada [[#Arquétipos|Arquétipos]]; o que especializa cada vez mais seu personagem fazendo-o mais próximo de como seu *Arquétipo* o descreve.
@@ -132,6 +131,7 @@ A ordem das *Vantagens* é predefinida. O que quer dizer que para cada novo *Ní
 > [!info] Nota
 >  É hora de conhecer cada um dos *Arquétipos* e escolher qual deles mais se encaixa com a nossa heroína Celeste. Você pode escolher livremente qualquer um dos *Arquétipos*. Mas lembre-se, cada escolha que você faz adiciona uma nova página na história do seu personagem, escolha com sabedoria o mais ideal para o conceito de herói que você desenvolveu até agora. Outra coisa importante de se lembrar é que os *Arquétipos* **são imutáveis; uma vez escolhidos não podem ser alterados.**
 
+# Arquétipos
 ## Briguento
 
 De pavio curto e grande dano, *Briguentos* estabelecem poucas relações com outros indivíduos, porém são de extrema lealdade quando se familiarizam. Além de preferirem combates individuais, *Briguentos* conseguem causar grandes danos a médias e sobretudo curtas distâncias. Além de possuírem uma resistência considerável, são de grande personalidade e verdadeiros fanfarrões. Um *Briguento*, em geral, representa uma ideia ou objetivo específico a ser protegido. É de extrema força, extrema resistência, uma velocidade considerável e enorme versatilidade em combate. São extremamente provocativos e buscam sempre combates contra alvos únicos, adequando isso ao seu estilo de luta. Além de quase sempre agirem como sendo o “maioral”, tem relativa brutalidade e carisma amedrontador.
@@ -340,6 +340,9 @@ Quando um *Místico* realizar qualquer [[Teste de Intuição]], [[Teste de Perce
 
 | Vantagem | Descrição |
 | -------- | --------- |
+|          |           |
+|          |           |
+|          |           |
 |          |           |
 
 > [[Tabela de Vantagens do Místico]]
