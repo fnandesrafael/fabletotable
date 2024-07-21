@@ -1,1 +1,1 @@
-> [[Teste de Rolagem]] no qual se utilizam os valores da [[Reação]] [[Capítulo 4 - Reações#Raciocínio|Raciocínio]] de u personagem.
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Reação]] [[Capítulo 4 - Perícias e Reações#Raciocínio|Raciocínio]] de u personagem.

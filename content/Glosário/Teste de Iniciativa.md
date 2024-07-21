@@ -1,1 +1,1 @@
-> [[Teste de Rolagem]] no qual se utilizam os valores da [[Reação]] [[Capítulo 4 - Reações#Mobilidade|Mobilidade]] para definir a [[Ordem de Iniciativa]] dos jogadores.
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Reação]] [[Capítulo 4 - Perícias e Reações#Mobilidade|Mobilidade]] para definir a [[Ordem de Iniciativa]] dos jogadores.

@@ -1,1 +1,1 @@
-> [[Teste de Rolagem]] no qual se utilizam os valores da [[Perícia]] [[Capítulo 5 - Perícias#Atletismo|Atletismo]] de um personagem.
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Perícia]] [[Capítulo 4 - Perícias e Reações#Atletismo|Atletismo]] de um personagem.

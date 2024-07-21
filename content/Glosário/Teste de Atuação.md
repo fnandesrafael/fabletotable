@@ -1,1 +1,1 @@
-> [[Teste de Rolagem]] no qual se utilizam os valores da [[Capítulo 5 - Perícias|Perícia]] [[Capítulo 5 - Perícias#Atuação|Atuação]] de um personagem.
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Perícia]] [[Capítulo 4 - Perícias e Reações#Atuação|Atuação]] de um personagem.

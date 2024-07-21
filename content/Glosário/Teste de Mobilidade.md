@@ -1,1 +1,1 @@
-> [[Teste de Rolagem]] no qual se utilizam os valores da [[Reação]] [[Capítulo 4 - Reações#Mobilidade|Mobilidade]] de um personagem.
+> [[Teste de Rolagem]] no qual se utilizam os valores da [[Reação]] [[Capítulo 4 - Perícias e Reações#Mobilidade|Mobilidade]] de um personagem.

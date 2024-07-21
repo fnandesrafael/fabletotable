@@ -1,6 +1,9 @@
+
+# Perícias
+
 Comparando [[Perícia|Perícias]] e [[Reação|Reações]], temos que nessa última, temos o conceito de: nuances de um personagem, que mensuram sua capacidade de reagir à uma situação externa que possa vir à lhe causar algum prejuízo. [[Perícia|Perícias]] no entanto são o inverso disso. **Se [[Reação|Reações]] são testes realizados no intuito de contornar uma situação danosa ao herói, [[Perícia|Perícias]] geram situações que o favoreçam**. Formas únicas de lidar com o ambiente ao seu redor e criar novas possibilidades de ação. Ambas no entanto estão atreladas ao momento atual em que o personagem se encontra. Assim dando capacidade aos personagens de poder modificá-las. Para concluir: [[Reação|Reações]] somente serão realizados quando o [[Mestre]] pedir. Enquanto [[Perícia|Perícias]] serão realizados em suma, quando os [[Protagonista|Protagonistas]] acharem interessante intervir, e em alguns casos específicos, quando o [[Mestre]] pedir que sejam realizados.
 
-Assim como [[Reação|Reações]], [[Perícia|Perícias]] são baseadas em determinados [[Capítulo 3 - Atributos|Atributos]]. Abaixo você verá uma [[Tabela de Perícias e Atributos Base]] que demonstra qual [[Perícia]] é especializada por qual [[Capítulo 3 - Atributos#Atributos|Atributo]]. Também há - logo em seguida - uma descrição de cada uma delas, com exemplos de como e quando utilizá-las.
+Assim como [[Reação|Reações]], [[Perícia|Perícias]] são baseadas em determinados [[Capítulo 3 - Atributos Base|Atributos]]. Abaixo você verá uma [[Tabela de Perícias e Atributos Base]] que demonstra qual [[Perícia]] é especializada por qual [[Capítulo 3 - Atributos Base#Atributos|Atributo]]. Também há - logo em seguida - uma descrição de cada uma delas, com exemplos de como e quando utilizá-las.
 
 | Perícia      | Atributo Base | Perícia         | Atributo Base |
 | ------------ | ------------- | --------------- | ------------- |
@@ -18,7 +21,6 @@ Assim como [[Reação|Reações]], [[Perícia|Perícias]] são baseadas em deter
 | Imobilização | Força         | Tratamento      | Inteligência  |
 > [[Tabela de Perícias e Atributos Base]]
 
-# Perícias
 ## Acrobacia
 
 Quando se deparar numa situação, em que precisa alcançar um local de difícil acesso. Você poderá optar por um [[Teste de Acrobacia]], realizando movimentos de extrema dificuldade e precisão para alcançar o local de difícil acesso.
@@ -115,5 +117,46 @@ A [[Perícia]] [[#Tecnologia]] é utilizada quando houver um contato com qualque
 
 Um [[Teste de Tratamento]] será sempre utilizado quando for necessário analisar qualquer matéria orgânica humana. Desde um cadáver, à uma tentativa de perceber alguma infecção ou ferida num aliado. É com essa [[Perícia]] que você poderá também encontrar uma [[Lesão Grave]], que será mais definida no [[Capítulo X: Lorem Ipsum]].
 
+
+# Reações
+
+Em resumo, [[Reação|Reações]] são [[Teste de Rolagem|Testes de Rolagem]] que serão realizados quando o [[Mestre]] solicitar. Um personagem só deverá realizar uma [[Reação]], quando sofrer influência de qualquer fonte externa à ele. Para cada tipo de ação externa contra o personagem, há uma [[Reação]] específica à ser utilizada. Abaixo você verá uma [[Tabela de Reações e Atributos Base 1]] que mostra em qual [[Capítulo 3 - Atributos Base#Atributos|Atributo]] cada [[Reação]] se baseia; logo em seguida, uma descrição mais completa de como cada uma delas funciona. Como explicado no [[Capítulo 3 - Atributos Base]], seus [[Pontos de Atributo]] poderão ser especializados nelas, como [[Bônus de Atributo]]. Lembrando que a soma dos [[Bônus de Atributo]] em [[#Reações]] baseadas num mesmo [[Atributo]], não devem superar a quantidade de [[Pontos de Atributo]] graduados no mesmo. Assim como o [[Bônus de Atributo]] de uma [[Reação]], não deve ultrapassar o valor máximo de **20** pontos.
+
+
+| **Reação**   | Atributo Base | Reação     | Atributo Base |
+| ------------ | ------------- | ---------- | ------------- |
+| Constituição | Vitalidade    | Raciocínio | Agilidade     |
+| Fortitude    | Vitalidade    | Reflexo    | Agilidade     |
+| Mobilidade   | Vitalidade    | Vontade    | Vitalidade    |
+> [[Tabela de Reações e Atributos Base]]
+
+## Constituição
+
+Uma reação de [[#Constituição]] sempre será solicitada quando um personagem precisar resistir à qualquer situação que o ponha em risco de envenenamento, tortura, afogamento ou qualquer outra ação no qual se não resistir suficientemente, sua vida estará em risco.
+
+## Fortitude
+
+Uma reação de [[#Fortitude]] sempre será utilizada quando o personagem precisar resistir contra algo que precise de sua força física como: parar um objeto pesado em movimento, segurar as estruturas de um prédio caindo etc.
+
+## Mobilidade
+
+Uma reação de [[#Mobilidade]] pressupõe qualquer situção no qual o personagem precisará superar uma distância, ou uma ação que possua algum limite de tempo para ser cumprido como correr até o final de um corredor antes que a porta se feche. Também para momentos onde deva se mover rapidamente em meio a um ambiente com muitas pessoas ou algo do tipo.
+
+## Raciocínio
+
+Reações de [[#Raciocínio]] são utilizadas quando o personagem precisar investigar, analisar ou calcular algo de forma muito rápida. Até mesmo para exercícios que exijam uma alta agilidade mental.
+
+## Reflexo
+
+Uma reação de [[#Reflexo]] sempre será utilizada quando um personagem precisar reagir contra algum tipo de queda, esquiva de armadilha ou ações que exijam uma reação instantânea, praticamente instintiva.
+
+## Vontade
+
+Serão sempre realizadas reações de [[#Vontade]] quando um personagem estiver tentando ser colocado sob influência de qualquer enfeitiçamento ou lábia encantadora. Seja uma [[#Persuasão]] ou uma [[#Intimidação]]. [[#Vontade]] se traduz na resistência psicológica que um personagem possui.
+
+
+> [!NOTE] Nota
+> > [[Reação|Reações]] sempre serão testadas de forma passiva. Algo deverá ocorrer para que você possa ativar uma delas. No geral é o [[Mestre]] quem vai solicitar. Isso vai desde situações ocorridas no ambiente até [[Perícia|Perícias]] e [[Condições]] infligidas à seu personagem. Como o [[Arquétipos|Arquétipo]] da Celeste é [[Capítulo 2 - Atributos Vitais e Arquétipos#Detonador|Detonador]], sabemos que ela possui uma [[Capítulo 2 - Atributos Vitais e Arquétipos#Bônus de Arquétipo|Proficiência de Arquétipo]] na reação de [[#Mobilidade]]. Isso quer dizer que: quando ela for realizar um [[Teste de Mobilidade]], por possuir [[Capítulo 3 - Atributos Base#Agilidade|Agilidade]] **+1**, ela roda 1d20 + os pontos que ela possui especializados em mobilidade ([[Bônus de Atributo]]) + sua [[Capítulo 2 - Atributos Vitais e Arquétipos#Proficiência de Arquétipo|Proficiência de Arquétipo]].
+
 ***
-**Próximo Conteúdo: [[Capítulo 6 - Descritivos]]**
+**Próximo Conteúdo: [[Capítulo 5 - Descritivos]]**
