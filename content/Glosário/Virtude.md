@@ -1,1 +1,1 @@
-> Ação ou circunstância que provoca um *Traço* positivo da personalidade do personagem, possibilitando o ganho da [[Condição]] [[Motivado]].
+> Ação com o qual você supera as más inclinações de seu [[Capítulo 1 - Antecedentes#Traços|Traço]] e ganha a [[Condição]] [[Motivado]].

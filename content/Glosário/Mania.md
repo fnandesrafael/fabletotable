@@ -1,1 +1,1 @@
-> Ação ou circunstância que provoca um *Traço* negativo da personalidade do personagem, possibilitando o ganho da [[Condição]] [[Perturbado]].
+> Ação com o qual você mantém as más inclinações de seu [[Capítulo 1 - Antecedentes#Traços|Traço]] e ganha a [[Condição]] [[Perturbado]].
