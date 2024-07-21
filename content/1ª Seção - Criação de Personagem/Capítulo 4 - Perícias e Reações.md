@@ -51,7 +51,7 @@ Com grandes valores em [[Força]] você pode se especializar na [[Perícia]] [[#
 
 ## Desarme
 
-Ao se especializar nessa [[Perícia]], você se torna cada vez mais hábil em conseguir [[Desarmar]] um personagem. Caso ele possua algum [[Equipáveis|Equipável]], se você conseguir superá-lo atravéz do seu [[Teste de Desarme]] contra sua [[Reação de Reflexo]], então você conseguirá remover o [[Equipáveis|Equipável]] da posse do alvo.
+Ao se especializar nessa [[Perícia]], você se torna cada vez mais hábil em conseguir desarmar um personagem. Caso ele possua algum [[Equipáveis|Equipável]], se você conseguir superá-lo atravéz do seu [[Teste de Desarme]] contra sua [[Reação de Reflexo]], então você conseguirá remover o [[Equipáveis|Equipável]] da posse do alvo.
 
 ## Direção
 
@@ -156,7 +156,7 @@ Serão sempre realizadas reações de [[#Vontade]] quando um personagem estiver 
 
 
 > [!NOTE] Nota
-> > [[Reação|Reações]] sempre serão testadas de forma passiva. Algo deverá ocorrer para que você possa ativar uma delas. No geral é o [[Mestre]] quem vai solicitar. Isso vai desde situações ocorridas no ambiente até [[Perícia|Perícias]] e [[Condições]] infligidas à seu personagem. Como o [[Arquétipos|Arquétipo]] da Celeste é [[Capítulo 2 - Atributos Vitais e Arquétipos#Detonador|Detonador]], sabemos que ela possui uma [[Capítulo 2 - Atributos Vitais e Arquétipos#Bônus de Arquétipo|Proficiência de Arquétipo]] na reação de [[#Mobilidade]]. Isso quer dizer que: quando ela for realizar um [[Teste de Mobilidade]], por possuir [[Capítulo 3 - Atributos Base#Agilidade|Agilidade]] **+1**, ela roda 1d20 + os pontos que ela possui especializados em mobilidade ([[Bônus de Atributo]]) + sua [[Capítulo 2 - Atributos Vitais e Arquétipos#Proficiência de Arquétipo|Proficiência de Arquétipo]].
+> [[Reação|Reações]] sempre serão testadas de forma passiva. Algo deverá ocorrer para que você possa ativar uma delas. No geral é o [[Mestre]] quem vai solicitar. Isso vai desde situações ocorridas no ambiente até [[Perícia|Perícias]] e [[Condições]] infligidas à seu personagem. Como o [[Arquétipos|Arquétipo]] da Celeste é [[Capítulo 2 - Atributos Vitais e Arquétipos#Detonador|Detonador]], sabemos que ela possui uma [[Capítulo 2 - Atributos Vitais e Arquétipos#Bônus de Arquétipo|Proficiência de Arquétipo]] na reação de [[#Mobilidade]]. Isso quer dizer que: quando ela for realizar um [[Teste de Mobilidade]], por possuir [[Capítulo 3 - Atributos Base#Agilidade|Agilidade]] **+1**, ela roda 1d20 + os pontos que ela possui especializados em mobilidade ([[Bônus de Atributo]]) + sua [[Capítulo 2 - Atributos Vitais e Arquétipos#Proficiência de Arquétipo|Proficiência de Arquétipo]].
 
 ***
 **Próximo Conteúdo: [[Capítulo 5 - Descritivos]]**
