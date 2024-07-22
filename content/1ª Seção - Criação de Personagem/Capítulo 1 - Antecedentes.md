@@ -30,9 +30,9 @@ Tudo começa por aqui. Que tipo de personalidade você tem em mente? Que histór
 
 # Personalidade
 
-Agora que já temos uma origem bem definida, podemos explorar nossa personagem ainda mais profundamente. Toda a identidade dela já foi escolhida. Temos um nome, uma aparência e um apelido. É hora de explorar agora alguns de seus fatores psicológicos. Assim como o [[Cenário]] é o fundamento para criar a origem e a identidade de um personagem, aqui abaixo você encontrará um modo de explorar e aprofundar sua personalidade. **Você é livre para determinar as ações, escolhas, o temperamento e alinhamento do seu personagem, mas esses fatores serão fortemente desenvolvidos na prática, enquanto você interpretar seu personagem e interagir com o universo ao seu redor e os personagens de cada outro jogador**. Os [[Capítulo 1 - Antecedentes#Traços|Traços]] de um personagem, são como que o norte, de onde surgem essas outras caracteristicas que você vai desenvolver e formar. São aquelas raízes psicológicas mais primitivas, dotadas de alguma irracionalidade e automatismo que foram adicionadas à sua psíque, não se sabe quando nem como. A parte mais legal é que elas estão distribuidas numa quantidade, que pode ser sorteada por um dado de 12 lados (**1d12**). Isso quer dizer que: você está livre para escolhê-las, mas também pode sorteá-las e arriscar-se a interpretar o que a sorte lhe trouxer.
+Agora que já temos uma origem bem definida, podemos explorar nossa personagem ainda mais profundamente. Toda a identidade dela já foi escolhida. Temos um nome, uma aparência e um apelido. É hora de explorar agora alguns de seus fatores psicológicos. Assim como o [[Cenário]] é o fundamento para criar a origem e a identidade de um personagem, aqui abaixo você encontrará um modo de explorar e aprofundar sua personalidade. **Você é livre para determinar as ações, escolhas, o temperamento e alinhamento do seu personagem, mas esses fatores serão fortemente desenvolvidos na prática, enquanto você interpretar seu personagem e interagir com o universo ao seu redor e os personagens de cada outro jogador**. Os [[Capítulo 1 - Antecedentes#Traços|Traços]] de um personagem, são como que o norte, de onde surgem essas outras caracteristicas que você vai desenvolver e formar. São aquelas raízes psicológicas mais primitivas, dotadas de alguma irracionalidade e automatismo que foram adicionadas à sua psíque, não se sabe quando nem como. A parte mais legal é que elas estão distribuidas numa quantidade, que pode ser sorteada por um dado de **12** lados (**1d12**). Isso quer dizer que: você está livre para escolhê-las, mas também pode sorteá-las e arriscar-se a interpretar o que a sorte lhe trouxer.
 
-Além disso, cada [[#Traços|Traço]] é importante para que você deixe seu personagem ainda mais único e detalhado, mas também porque esses [[#Traços]] trazem consigo, uma [[Virtude]] e uma [[Mania]] que no decorrer da [[Campanha]] poderão colocá-lo em um estado de [[Conflito]]. E são nesses momentos que ele poderá ficar [[Motivado]] ou [[Perturbado]]. Ao criar um personagem **você pode escolher até dois [[#Traços]]** (durante a campanha, dependendo das situações e do [[Mestre]], também é possível que você ganhe ou perca um *Traço*).
+Além disso, cada [[#Traços|Traço]] é importante para que você deixe seu personagem ainda mais único e detalhado, mas também porque esses [[#Traços]] trazem consigo, uma [[Virtude]] e uma [[Mania]] que no decorrer da [[Campanha]] poderão colocá-lo em um estado de [[Conflito]]. E são nesses momentos que ele poderá ficar [[Motivado]] ou [[Perturbado]]. Ao criar um personagem **você pode escolher até dois [[#Traços]]** (durante a campanha, dependendo das situações e do [[Mestre]], também é possível que você ganhe ou perca um [[#Traços|Traço]]).
 
 ## Traços
 
@@ -98,7 +98,7 @@ Você é uma pessoa que guarda ressentimentos profundamente. Quando alguém te m
 
 Uma outra característica importantíssima dos [[Antecedentes]] de um personagem, é o seu [[Ofício]]. Essa característica se trata da maneira mais inicial de como seu personagem está inserido no universo da [[Campanha]]. Com ela você pode dar um tipo de plano de fundo ao seu personagem; demonstrando o que ele fazia antes da campanha em sí começar. Isso abre margem tanto para desenvolver melhor as outras características aqui já apresentadas, mas também de dar um tipo de norte ao qual você pretende que seu personagem siga durante suas aventuras.
 
-Um [[Ofício]] porém, não se trata apenas de um detalhe descritivo, é com a escolha de um deles que você irá adquirir suas [[Especialidades de Ofício]] e seu [[Inventário Inicial]]. As especialidades, dão ao seu personagem, uma redução de [[Classe de Dificuldade]] para alguns [[Teste de Rolagem|Testes de Rolagem]] com certas [[Capítulo 4 - Perícias e Reações|Reações]] ou [[Capítulo 4 - Perícias e Reações|Perícias]]. E essas circunstâncias por sua vez possuem [[Classe de Dificuldade|Classes de Dificuldade]] (*CD*) distintas. Com suas especializações, essas [[Classe de Dificuldade|CDs]] podem ser reduzidas, fazendo com que os [[Teste de Rolagem]] sejam facilitados, não porque você possui mais valores na rolagem, mas porque dada sua experiência prévia, eles são de fato, mais fáceis para você; assim atingindo o resultado desejado com um valor mais baixo a ser alcançado.
+Um [[Ofício]] porém, não se trata apenas de um detalhe descritivo, é com a escolha de um deles que você irá adquirir suas [[Especialidades de Ofício]] e seu [[Inventário Inicial]]. As especialidades, dão ao seu personagem, uma redução de [[Classe de Dificuldade]] para alguns [[Teste de Rolagem|Testes de Rolagem]] com certas [[Capítulo 4 - Perícias e Reações|Reações]] ou [[Capítulo 4 - Perícias e Reações|Perícias]]. E essas circunstâncias por sua vez possuem [[Classe de Dificuldade|Classes de Dificuldade (CD)]] distintas. Com suas especializações, essas [[Classe de Dificuldade|CDs]] podem ser reduzidas, fazendo com que os [[Teste de Rolagem]] sejam facilitados, não porque você possui mais valores na rolagem, mas porque dada sua experiência prévia, eles são de fato, mais fáceis para você; assim atingindo o resultado desejado com um valor mais baixo a ser alcançado.
 
 Com relação ao [[Inventário]], todo personagem começa com alguns itens, e essa distribuição inicial depende do [[Ofício]] escolhido. Isso porque mesmo que você seja um especialista, em alguns casos, se torna necessário que você tenha em mãos alguns [[Utilitários]]. Por exemplo, um [[Capítulo 1 - Antecedentes#Criminoso|Criminoso]] consegue garantir uma [[Classe de Dificuldade]] menor num [[Teste de Prestidigitação]] ao tentar arrombar uma porta, mas para isso ele deve ter em mãos uma [[Ferramenta de Crime]]. Caso contrário terá de se virar com a [[Classe de Dificuldade]] padrão. No entanto é preciso saber que, uma ferramenta de crime, só pode ser utilizada por um [[#Criminoso]], do contrário seu personagem não possui nenhuma noção de como utilizá-la. Apesar de todo personagem poder carregar [[Materiais]] e [[Utilitários]] de outro [[Ofício]], ele não poderá utilizá-los a menos que tenha o [[Ofício]] requisitado, ou que ao decorrer da aventura, ele aprenda um novo. Você verá mais sobre as questões relativas à [[Itens]] no [[Capítulo X: Lorem Ipsum]] e sobre como adquirir um novo [[Ofício]] no decorrer da campanha, no [[Capítulo X: Lorem Ipsum]].
 
@@ -110,7 +110,7 @@ Agora, veja a descrição de cada um deles e **escolha um** para seu personagem:
 
 Os [[#Artífice|Artífices]] podem atuar em diversos contextos: em um cenário medieval, podem ser ferreiros que forjam espadas e armaduras; em um ambiente moderno, atuam como engenheiros ou designers criando ferramentas e dispositivos; em um futuro avançado, podem desenvolver gadgets tecnológicos e equipamentos sofisticados; e em um cenário mágico, podem ser encantadores que imbuem itens com propriedades mágicas. Eles são valorizados por sua capacidade de transformar matéria-prima em objetos de grande beleza e utilidade, adaptando suas habilidades às necessidades e especificidades de cada ambiente e situação.
 
-- **Especialidades de Ofício: -2** CDs em [[Teste de Sobrevivência]] (no intuito de desenvolver algum objeto ou ferramenta improvisada) e **-1** CD em [[Teste de Prestidigitação]].
+- **Especialidades de Ofício: -2** [[Classe de Dificuldade|CDs]] em [[Teste de Sobrevivência]] (no intuito de desenvolver algum objeto ou ferramenta improvisada) e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Prestidigitação]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Artista
@@ -119,7 +119,7 @@ Os [[#Artífice|Artífices]] podem atuar em diversos contextos: em um cenário m
 
 Os [[#Artista|Artistas]] podem se destacar em muitos contextos: em um cenário medieval, podem criar tapeçarias e afrescos; em um ambiente moderno, podem ser músicos, escritores ou cineastas; em um futuro avançado, podem trabalhar com realidade virtual e mídias digitais para criar experiências imersivas; e em um cenário mágico, podem desenvolver artefatos encantados ou realizar performances que influenciam a realidade. Valorizados por sua criatividade e capacidade de capturar e transformar a essência das coisas em algo belo e inspirador, os [[#Artista|Artistas]] conectam as pessoas e provocam emoções profundas com seu trabalho.
 
-- **Especialidades de Ofício: -2** CDs em [[Teste de Atuação]] e **-1** CD [[Teste de Blefe]].
+- **Especialidades de Ofício: -2** [[Classe de Dificuldade|CDs]] em [[Teste de Atuação]] e **-1** [[Classe de Dificuldade|CD]] [[Teste de Blefe]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Atleta
@@ -128,7 +128,7 @@ Os [[#Artista|Artistas]] podem se destacar em muitos contextos: em um cenário m
 
 Os [[#Atleta|Atletas]] podem atuar em diversos contextos: em um cenário medieval, podem competir em torneios de combate ou corridas de carruagens; em um ambiente moderno, podem ser atletas profissionais em esportes como futebol ou atletismo; em um futuro avançado, podem participar de competições em arenas de realidade virtual ou esportes cibernéticos; e em um cenário mágico, podem utilizar habilidades sobrenaturais em desafios e provas. Conhecidos por sua dedicação, determinação e espírito competitivo, os [[#Atleta|Atletas]] são valorizados por sua capacidade de superar desafios, alcançar metas e servir como exemplos de liderança e trabalho em equipe em suas comunidades.
 
-- **Especialidades de Ofício: -1** CD em [[Reação de Mobilidade]], **-1** CD em [[Teste de Atletismo]] e **-1** CD em [[Teste de Acrobacia]].
+- **Especialidades de Ofício: -1** [[Classe de Dificuldade|CD]] em [[Reação de Mobilidade]], **-1** [[Classe de Dificuldade|CD]] em [[Teste de Atletismo]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Acrobacia]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Cientista
@@ -137,7 +137,7 @@ Os [[#Atleta|Atletas]] podem atuar em diversos contextos: em um cenário medieva
 
 [[#Cientista|Cientistas]] são conhecidos por sua curiosidade insaciável e habilidade para resolver problemas através de experimentos e pesquisas. Em qualquer cenário, são profissionais altamente qualificados, com formação que pode incluir graduação, mestrado, doutorado, ou equivalente. Eles desenvolvem soluções inovadoras e aplicam seu conhecimento para resolver problemas práticos, sempre avançando no entendimento das ciências e da magia.
 
-- **Especialidades de Ofício:** **-1** CD em [[Teste de Ciência]] e **-2** CDs em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
+- **Especialidades de Ofício:** **-1** [[Classe de Dificuldade|CD]] em [[Teste de Ciência]] e **-2** [[Classe de Dificuldade|CDs]] em [[Reação de Raciocínio]].
 - **Inventário Inicial:** Lorem ipsum.
 
 ## Clínico
@@ -146,7 +146,7 @@ Os [[#Atleta|Atletas]] podem atuar em diversos contextos: em um cenário medieva
 
 Os [[#Clínico|Clínicos]] podem operar em diversos contextos: em um cenário medieval, podem preparar poções e elixires; em um ambiente moderno, atuam como médicos, fisioterapeutas ou nutricionistas; em um futuro distante, podem manipular nanomáquinas para regeneração celular; e em um contexto sobrenatural, podem empregar rituais místicos e encantamentos para curar ou remover maldições. Eles são valorizados por sua capacidade de adaptar suas habilidades e técnicas às necessidades específicas de cada situação e ambiente, sempre buscando resolver problemas de saúde e melhorar a qualidade de vida dos pacientes.
 
-- **Especializações de Ofício:** **-2** CDs em [[Teste de Tratamento]] e **-1** CD em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
+- **Especializações de Ofício:** **-2** [[Classe de Dificuldade|CDs]] em [[Teste de Tratamento]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Ciência]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Criminoso
@@ -155,7 +155,7 @@ Os [[#Clínico|Clínicos]] podem operar em diversos contextos: em um cenário me
 
 Os [[#Criminoso|Crimonosos]] podem se destacar em diversos contextos: em um cenário medieval, podem ser ladrões ou assassinos contratados; em um ambiente moderno, podem atuar como hackers, traficantes ou golpistas; em um futuro avançado, podem estar envolvidos em contrabando de tecnologias proibidas ou crimes cibernéticos; e em um cenário mágico, podem praticar feitiçaria ilegal ou realizar roubos de artefatos encantados. Motivados por dinheiro, poder, vingança ou falta de escrúpulos, eles buscam ganhos pessoais às custas dos outros, frequentemente ignorando as consequências de suas ações e desafiando a ordem estabelecida.
 
-- **Especialidades de Ofício: -2** CDs em [[Teste de Prestidigitação]] e **-1** CD em [[Teste de Furtividade]].
+- **Especialidades de Ofício: -2** [[Classe de Dificuldade|CDs]] em [[Teste de Prestidigitação]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Furtividade]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Figura Pública
@@ -164,7 +164,7 @@ Os [[#Criminoso|Crimonosos]] podem se destacar em diversos contextos: em um cen�
 
 As [[#Figura Pública|Figuras Públicas]] exercem considerável influência sobre a sociedade, moldando políticas e decisões que afetam a vida cotidiana dos cidadãos. Em um cenário medieval, podem ser nobres ou clérigos com grande poder político e social; em um ambiente moderno, podem ser políticos, CEOs ou líderes de grandes organizações; em um futuro avançado, podem ser governantes de mega-corporações ou líderes de colônias espaciais; e em um cenário mágico, podem ser líderes de ordens místicas ou governantes de reinos encantados. Esses indivíduos são valorizados por sua capacidade de direcionar e impactar o curso da sociedade através de suas ações e decisões.
 
-- **Especialidades de Ofício:** -1 CD em [[Teste de Blefe]], -1 CD em  [[Teste de Persuasão]] e -1 CD em [[Teste de Atuação]].
+- **Especialidades de Ofício:** **-1** [[Classe de Dificuldade|CD]] em [[Teste de Blefe]], **-1** [[Classe de Dificuldade|CD]] em  [[Teste de Persuasão]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Atuação]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Humanista
@@ -173,7 +173,7 @@ As [[#Figura Pública|Figuras Públicas]] exercem considerável influência sobr
 
 Com formação em áreas como filosofia, história ou artes, o [[Humanista]] pode atuar como professor, pesquisador, curador ou escritor. Em diversos contextos, eles podem interpretar textos antigos em cenários medievais, pesquisar artefatos culturais em ambientes modernos, analisar sociedades avançadas em futuros distantes ou estudar tradições místicas em universos mágicos. Valorizados por sua profunda compreensão da natureza humana, os [[#Humanista|Humanistas]] são essenciais para a análise crítica e a aplicação de conhecimentos históricos e culturais em várias esferas da sociedade.
 
-- **Especialidades de Ofício:** **-2** CDs em [[Teste de Cultura]] e **-1** CD em [[Teste de Idiomas]].
+- **Especialidades de Ofício:** **-2** [[Classe de Dificuldade|CDs]] em [[Teste de Cultura]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Idiomas]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Militar
@@ -182,7 +182,7 @@ Com formação em áreas como filosofia, história ou artes, o [[Humanista]] pod
 
 Os [[#Militar|Militares]] podem se especializar em várias áreas: em cenários medievais, podem ser cavaleiros ou soldados com treinamento em combate corpo a corpo e estratégias de batalha; em ambientes modernos, podem atuar como soldados, pilotos ou agentes de inteligência; em futuros avançados, podem estar envolvidos em operações espaciais ou combate com tecnologia de ponta; e em cenários mágicos, podem ser guerreiros treinados em feitiçaria militar ou guardiões de artefatos encantados. Valorizados por sua capacidade de seguir ordens e executar operações complexas, os [[#Militar|Militares]] desempenham papéis cruciais na proteção e na condução de ações estratégicas em qualquer contexto.
 
-- **Especialides de Ofício:** **-1** CD em [[Teste de Tática]], **-1** CD em [[Teste de Direção]] e **-1** CD em [[Teste de Intimidação]].
+- **Especialides de Ofício:** **-1** [[Classe de Dificuldade|CD]] em [[Teste de Tática]], **-1** [[Classe de Dificuldade|CD]] em [[Teste de Direção]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Intimidação]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Operário
@@ -191,7 +191,7 @@ Os [[#Militar|Militares]] podem se especializar em várias áreas: em cenários 
 
 Os [[#Operário|Operários]] podem se destacar em vários contextos: em um cenário medieval, podem ser ferreiros, pedreiros ou carpinteiros; em um ambiente moderno, atuam como operários de fábricas, trabalhadores da construção civil ou prestadores de serviços; em futuros avançados, podem operar máquinas automatizadas ou trabalhar em ambientes de alta tecnologia; e em cenários mágicos, podem ser artesãos que criam itens encantados ou ajudantes em guildas de magia. Valorizados por sua dedicação e trabalho árduo, os [[#Operário|Operários]] enfrentam desafios como salários baixos e jornadas extensas, enquanto buscam garantir o sustento de suas famílias e melhorar suas condições de trabalho.
 
-- **Especialidades de Ofício: -1** CD em [[Teste de Percepção]], **-1** CD em [[Reação de Constituição]] e **-1** CD em [[Reação de Vontade]].
+- **Especialidades de Ofício: -1** [[Classe de Dificuldade|CD]] em [[Teste de Percepção]], **-1** [[Classe de Dificuldade|CD]] em [[Reação de Constituição]] e **-1** CD em [[Reação de Vontade]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Períto
@@ -200,7 +200,7 @@ Os [[#Operário|Operários]] podem se destacar em vários contextos: em um cená
 
 Os [[#Perito|Peritos]] podem atuar em diversos contextos: em cenários medievais, podem ser investigadores especializados em detecção de venenos ou análise de sinais mágicos; em ambientes modernos, trabalham como cientistas forenses ou analistas de crime; em futuros avançados, podem usar tecnologias avançadas para rastreamento e análise de dados; e em cenários sobrenaturais, podem empregar habilidades arcanas para resolver mistérios e encontrar pistas. Valorizados por sua capacidade de desenterrar a verdade e fornecer informações cruciais, os [[#Perito|Peritos]] desempenham papéis fundamentais na resolução de casos e na manutenção da justiça.
 
-- **Especialidades de Ofício: -1** CD em [[Teste de Investigação]], **-1** CD em [[Teste de Intuição]] e **-1** CD em [[Teste de Psicologia]].
+- **Especialidades de Ofício: -1** [[Classe de Dificuldade|CD]] em [[Teste de Investigação]], **-1** [[Classe de Dificuldade|CD]] em [[Teste de Intuição]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Psicologia]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Proprietário
@@ -209,7 +209,7 @@ Os [[#Perito|Peritos]] podem atuar em diversos contextos: em cenários medievais
 
 Os [[#Proprietário|Proprietários]] podem atuar em vários contextos: em um cenário medieval, podem ser senhores de feudos ou mestres de guildas; em um ambiente moderno, atuam como CEOs ou empresários de diferentes setores, como tecnologia ou comércio; em um futuro avançado, podem dirigir corporações interplanetárias ou startups de alta tecnologia; e em cenários mágicos, podem ser guardiões de lojas de artefatos encantados ou líderes de guildas mágicas. Valorizados por sua astúcia e criatividade, os [[#Proprietário|Proprietários]] enfrentam desafios e concorrência, sempre buscando inovar e expandir seus negócios.
 
-- **Especialidades de Ofício: -1** CD em [[Teste de Persuasão]], **-1** CD em [[Teste de Direção]] e **-1** CD em [[Teste de Idiomas]].
+- **Especialidades de Ofício: -1** [[Classe de Dificuldade|CD]] em [[Teste de Persuasão]], **-1** [[Classe de Dificuldade|CD]] em [[Teste de Direção]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Idiomas]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Religioso
@@ -218,7 +218,7 @@ Os [[#Proprietário|Proprietários]] podem atuar em vários contextos: em um cen
 
 Os [[#Religioso|Religiosos]] lideram cerimônias e rituais sagrados, oferecem orientação espiritual e conforto emocional, e frequentemente atuam como intermediários entre o divino e o mortal. Em diversos contextos, eles podem ser clérigos que conduzem serviços em templos medievais, guias espirituais em comunidades modernas, líderes de cultos em futuros distantes ou xamãs que realizam rituais de cura em cenários sobrenaturais. Valorizados por sua capacidade de inspirar e unir seguidores através da fé, os [[#Religioso|Religiosos]] desempenham um papel fundamental na orientação espiritual e na coesão de suas comunidades.
 
-- **Especialidades de Ofício:** -1 CD em [[Reação de Vontade]], - 1CD em [[Teste de Cultura]] e -1 CD em [[Teste de Idiomas]].
+- **Especialidades de Ofício:** **-1** [[Classe de Dificuldade|CD]] em [[Reação de Vontade]], - 1CD em [[Teste de Cultura]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Idiomas]].
 - **Inventário Inicial:** Lorem Ipsum.
 ## Tecnologista
 
@@ -226,7 +226,7 @@ O [[#Tecnologista]] é um [[Ofício]] focado na aplicação de conhecimento téc
 
 Os [[#Tecnologista|Tecnologistas]] podem se destacar em diversos contextos: em um ambiente moderno, atuam como engenheiros de sistemas ou especialistas em cibersegurança; em um futuro avançado, podem trabalhar com tecnologias de ponta ou gerenciamento de redes complexas; em cenários mágicos, podem estudar e utilizar dispositivos encantados; e em contextos históricos, podem ser técnicos de máquinas ou especialistas em engenharia mecânica. Valorizados por sua capacidade de entender, desativar e aplicar tecnologias, os Tecnologistas desempenham um papel crucial na resolução de problemas técnicos e na implementação de soluções inovadoras.
 
-- **Especialidades de Ofício:** **-2** CDs em [[Teste de Tecnologia]] e **-1** CD em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
+- **Especialidades de Ofício:** **-2** [[Classe de Dificuldade|CDs]] em [[Teste de Tecnologia]] e **-1** [[Classe de Dificuldade|CD]] em [[Reação de Raciocínio]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 ## Terapeuta
@@ -235,7 +235,7 @@ O [[#Terapeuta]] é um [[Ofício]] especializado em ciências comportamentais, n
 
 Os [[#Terapeuta|Terapeutas]] podem atuar em diversos contextos: em um ambiente moderno, podem ser psicólogos ou conselheiros; em um futuro avançado, podem trabalhar com neurotecnologias ou terapias virtuais; em cenários mágicos, podem utilizar práticas místicas para curar traumas emocionais; e em contextos históricos, podem ser especialistas em técnicas de cura mental tradicionais. Valorizados por sua capacidade de compreender e apoiar as emoções e motivações das pessoas, eles desempenham um papel essencial no bem-estar mental e emocional, ajudando indivíduos a encontrar equilíbrio e resolver conflitos internos.
 
-- **Especialidades de Ofício:** **-2** CDs em [[Teste de Psicologia]] e **-1** CD em [[Reação de Raciocínio]] (se possuir relação com seu *Ofício*).
+- **Especialidades de Ofício:** **-2** [[Classe de Dificuldade|CDs]] em [[Teste de Psicologia]] e **-1** [[Classe de Dificuldade|CD]] em [[Teste de Intuição]].
 - **Inventário Inicial:** Lorem Ipsum.
 
 > [!info] Nota
