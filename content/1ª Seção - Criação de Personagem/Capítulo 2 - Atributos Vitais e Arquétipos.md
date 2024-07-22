@@ -314,28 +314,28 @@ Quando um [[#Místico]] realizar qualquer [[Teste de Intuição]], [[Teste de Pe
 
 ### Vantagens do Místico
 
-| Nível de Poder (NP) | Vantagem | Descrição |
-| ------------------- | -------- | --------- |
-| NP1                 | Místico  |           |
-| NP2                 |          |           |
-| NP3                 |          |           |
-| NP4                 |          |           |
-| NP5                 | - - -    | - - -     |
-| NP6                 |          |           |
-| NP7                 |          |           |
-| NP8                 |          |           |
-| NP9                 |          |           |
-| NP10                | - - -    | - - -     |
-| NP11                |          |           |
-| NP12                |          |           |
-| NP13                |          |           |
-| NP14                |          |           |
-| NP15                | - - -    | - - -     |
-| NP16                |          |           |
-| NP17                |          |           |
-| NP18                |          |           |
-| NP19                |          |           |
-| NP20                | - - -    | - --      |
+| Nível de Poder (NP) | Vantagem          | Descrição                                                                                                                                                                                                                                                                                             |
+| ------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NP1                 | Místico           | Você pode escolher qualquer [[#Vantagens Especiais\|Vantagem Especial]] de qualquer [[Arquétipos\|Arquétipo]]. E atribuí-la como sua [[#Vantagens\|Vantagem]] de **[[Nível de Poder\|NP]] 1**.<br>                                                                                                    |
+| NP2                 | Exame             | 1 vez por sessão, você pode fazer um [[Teste de Rolagem]] antes de qualquer ação para decidir se vale a pena ou não realizá-la.                                                                                                                                                                       |
+| NP3                 | Manipulação Fina  | Você poder mudar o resultado de qualquer [[Teste de Rolagem]] em **+1** ou **-1**.                                                                                                                                                                                                                    |
+| NP4                 | Absorção          | Dentro de um [[Combate]], quando sofrer [[Dano Máximo]], ganhe **1 [[#Pontos de Ação (PA)\|PA]]** na próxima rodada.                                                                                                                                                                                  |
+| NP5                 | - - -             | - - -                                                                                                                                                                                                                                                                                                 |
+| NP6                 | Último Instante   | Se for alvo de algum inimigo, você pode esperar ele realizar sua [[Ofensiva]] e depois de obter seus resultados, poderá decidir se quer [[Aparar]], [[Reagir]] ou [[Contra-Atacar]].                                                                                                                  |
+| NP7                 | Tente Novamente   | Uma vez por [[Combate]] você pode refazer o seu [[Teste de Rolagem]] e o de seu inimigo, tentando fazê-lo obter um resultado pior.                                                                                                                                                                    |
+| NP8                 |                   |                                                                                                                                                                                                                                                                                                       |
+| NP9                 | Pressa            | Se você for alvo de alguma [[Condição]] poderá reduzir seu [[Efeito]] em **50%**                                                                                                                                                                                                                      |
+| NP10                | - - -             | - - -                                                                                                                                                                                                                                                                                                 |
+| NP11                | Laço Desastroso   | Após determinar um alvo, ambos os seus próximos [[Crítico\|Críticos]] serão considerados [[Desastre\|Desastres]].                                                                                                                                                                                     |
+| NP12                | Destino           | Uma vez por [[Descanso Curto]] você realiza um [[Teste de Rolagem]] simples com apenas **1d20** (um dê vinte) e a partir desse resultado, poderá decidir onde esse valor será usado.                                                                                                                  |
+| NP13                |                   |                                                                                                                                                                                                                                                                                                       |
+| NP14                |                   |                                                                                                                                                                                                                                                                                                       |
+| NP15                | - - -             | - - -                                                                                                                                                                                                                                                                                                 |
+| NP16                | Favorecimento     | Some o resultado do [[Teste de Rolagem]] de **1d20** ao resultado do [[Teste de Rolagem]] de algum aliado.                                                                                                                                                                                            |
+| NP17                | Oráculo Sinistro  | Você realiza uma sequência de [[Teste de Rolagem\|Testes de Rolagem]] baseados no seu [[Nível de Poder\|NP]] antes de um [[Combate]]. Essa será a sequência de resultados que você terá. Portanto deverá escolher com astúcia quais ações tomará com cada resultado na respectiva ordem estabelecida. |
+| NP18                | Ambiguidade       | Uma vez por [[Sessão]], você pode fazer um [[Teste de Moeda]] no lugar de qualquer [[Teste de Rolagem]], onde **Cara** equivale à [[Desastre]] e **Coroa** é equivalente à [[Crítico]].                                                                                                               |
+| NP19                | Ventos Favoráveis | Uma vez por [[Descanso Longo]] você pode elevar qualquer um de seus [[Atributos Base]] em **+1**. Esse efeito também vale para seus aliados.                                                                                                                                                          |
+| NP20                | - - -             | - - -                                                                                                                                                                                                                                                                                                 |
 ### Vantagens Especiais
 
 | Vantagem | Descrição |
