@@ -32,7 +32,7 @@ Tudo começa por aqui. Que tipo de personalidade você tem em mente? Que histór
 
 Agora que já temos uma origem bem definida, podemos explorar nossa personagem ainda mais profundamente. Toda a identidade dela já foi escolhida. Temos um nome, uma aparência e um apelido. É hora de explorar agora alguns de seus fatores psicológicos. Assim como o [[Cenário]] é o fundamento para criar a origem e a identidade de um personagem, aqui abaixo você encontrará um modo de explorar e aprofundar sua personalidade. **Você é livre para determinar as ações, escolhas, o temperamento e alinhamento do seu personagem, mas esses fatores serão fortemente desenvolvidos na prática, enquanto você interpretar seu personagem e interagir com o universo ao seu redor e os personagens de cada outro jogador**. Os [[Capítulo 1 - Antecedentes#Traços|Traços]] de um personagem, são como que o norte, de onde surgem essas outras caracteristicas que você vai desenvolver e formar. São aquelas raízes psicológicas mais primitivas, dotadas de alguma irracionalidade e automatismo que foram adicionadas à sua psíque, não se sabe quando nem como. A parte mais legal é que elas estão distribuidas numa quantidade, que pode ser sorteada por um dado de **12** lados (**1d12**). Isso quer dizer que: você está livre para escolhê-las, mas também pode sorteá-las e arriscar-se a interpretar o que a sorte lhe trouxer.
 
-Além disso, cada [[#Traços|Traço]] é importante para que você deixe seu personagem ainda mais único e detalhado, mas também porque esses [[#Traços]] trazem consigo, uma [[Virtude]] e uma [[Mania]] que no decorrer da [[Campanha]] poderão colocá-lo em um estado de [[Conflito]]. E são nesses momentos que ele poderá ficar [[Motivado]] ou [[Perturbado]]. Ao criar um personagem **você pode escolher até dois [[#Traços]]** (durante a campanha, dependendo das situações e do [[Mestre]], também é possível que você ganhe ou perca um [[#Traços|Traço]]).
+Além disso, cada [[Capítulo 1 - Antecedentes#Traços|Traço]] é importante para que você deixe seu personagem ainda mais único e detalhado, mas também porque esses [[Capítulo 1 - Antecedentes#Traços|Traços]] estão atrelados a uma mecânica que no decorrer da [[Campanha]] poderá colocá-lo em estado de [[Conflito]]. E são nesses momentos que ele poderá ficar [[Motivado]] ou [[Perturbado]]. Ao criar um personagem **você pode escolher até dois [[Capítulo 1 - Antecedentes#Traços|Traços]]** (durante a campanha, dependendo das situações e do [[Mestre]], também é possível que você ganhe ou perca um [[Capítulo 1 - Antecedentes#Traços|Traço]]).
 
 ## Traços
 
@@ -72,7 +72,7 @@ Você se considera a autoridade máxima em decidir o que é justo e aplicar sua 
 
 ### Limitado
 
-Você enfrenta desafios diários devido a uma limitação, sentindo-se às vezes restrito pelas barreiras físicas ou sociais que encontra. No entanto, sua determinação e criatividade para superar essas limitações são admiráveis, mostrando que a força interior pode vencer obstáculos externos. Para ter esse [[#Traços|Traço]], obrigatóriamente você deverá ter a [[Condição]] [[Incapacitado]] de modo **permanente**.
+Você enfrenta desafios diários devido a uma limitação, sentindo-se às vezes restrito pelas barreiras físicas ou sociais que encontra. No entanto, sua determinação e criatividade para superar essas limitações são admiráveis, mostrando que a força interior pode vencer obstáculos externos. Para ter esse [[Capítulo 1 - Antecedentes#Traços|Traço]], obrigatóriamente você deverá ter a [[Condição]] [[Incapacitado]] de modo **permanente**.
 
 ### Patriota
 
