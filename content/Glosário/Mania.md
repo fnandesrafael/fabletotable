@@ -1,1 +1,1 @@
-> Ação com o qual você mantém as más inclinações de seu [[Capítulo 1 - Antecedentes#Traços|Traço]] e ganha a [[Condição]] [[Perturbado]].
+> Ação com o qual você mantém as más inclinações de seu [[(OLD) Capítulo 1 - Antecedentes#Traços|Traço]] e ganha a [[Condição]] [[Perturbado]].
