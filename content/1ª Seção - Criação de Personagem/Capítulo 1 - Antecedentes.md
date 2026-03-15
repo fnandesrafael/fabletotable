@@ -126,13 +126,13 @@ Acadêmicos dedicam suas vidas ao estudo, à pesquisa e à busca por conheciment
 
 ## Comerciante
 
-Mercadores vivem do fluxo constante de bens, informações e oportunidades. Alguns mantêm lojas em ruas movimentadas, outros viajam entre cidades transportando mercadorias raras ou negociando contratos lucrativos. O verdadeiro talento de um comerciante não está apenas em vender produtos, mas em compreender o valor das coisas — e, principalmente, o valor das pessoas.
+Comerciantes vivem do fluxo constante de bens, informações e oportunidades. Alguns mantêm lojas em ruas movimentadas, outros viajam entre cidades transportando mercadorias raras ou negociando contratos lucrativos. O verdadeiro talento de um comerciante não está apenas em vender produtos, mas em compreender o valor das coisas — e, principalmente, o valor das pessoas.
 
 Personagens com esse Ofício estão acostumados a negociar, persuadir e avaliar situações em busca de vantagem. Sua experiência em mercados, tavernas e salões comerciais lhes permite navegar com facilidade por diferentes ambientes sociais, identificando oportunidades onde outros enxergam apenas conversas triviais.
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma — Empatia — Retórica — Estratégia**.
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma / Empatia / Retórica / Estratégia**.
 
 ## Criminoso
 
@@ -192,7 +192,7 @@ Seja por escolha ou necessidade, párias vivem guiados por seus próprios códig
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude — Vitalidade — Presença — Intuição**.
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Intuição**.
 
 
 # Economia
