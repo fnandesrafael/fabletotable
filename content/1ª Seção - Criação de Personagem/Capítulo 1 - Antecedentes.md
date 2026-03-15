@@ -33,11 +33,11 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 -** Como é a aparência física do seu personagem (altura, porte físico, cores de cabelo, olhos ou pele)?  
+> **Q1 -** Como é a aparência física do seu personagem (altura, porte físico, cores de cabelo, olhos ou pele)?
+> </br>
+> **Q2 -** Quais são suas características físicas mais marcantes (marcas, cicatrizes, próteses ou traços incomuns)?
 > </br>  
-> **Q2 -** Quais são suas características físicas mais marcantes (marcas, cicatrizes, próteses ou traços incomuns)?  
-> </br>  
-> **Q3 -** Como seu personagem costuma se vestir ou se apresentar?  
+> **Q3 -** Como seu personagem costuma se vestir ou se apresentar?
 > </br>  
 > **Q4 -** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
 
