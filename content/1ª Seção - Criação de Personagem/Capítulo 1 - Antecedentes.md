@@ -31,10 +31,30 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 
 # Aparência
 
+> [!faq] Perguntas Fundamentais
+> 
+> **Q1 -** Como é a aparência física do seu personagem (altura, porte físico, cores de cabelo, olhos ou pele)?  
+> </br>  
+> **Q2 -** Quais são suas características físicas mais marcantes (marcas, cicatrizes, próteses ou traços incomuns)?  
+> </br>  
+> **Q3 -** Como seu personagem costuma se vestir ou se apresentar?  
+> </br>  
+> **Q4 -** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
 
+A aparência do seu personagem define como ele é percebido à primeira vista. Antes mesmo de ouvir seu nome ou conhecer sua história, as pessoas formam impressões a partir de sua postura, de suas feições e da forma como ele se apresenta.
 
-- Passado
-- Ofício
-- Relações
-- Motivações
-- Conflitos
+Algumas dessas características podem ser comuns, enquanto outras tornam-se facilmente reconhecíveis. Uma cicatriz profunda, uma prótese mecânica, olhos de cor incomum ou mesmo um modo peculiar de se vestir podem fazer com que alguém seja lembrado com facilidade — ou até mesmo temido.
+
+Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, a aparência também contribui para a imagem que os outros guardam. Muitas vezes são justamente esses detalhes — físicos ou comportamentais — que fazem com que um personagem seja reconhecido à distância, antes mesmo de pronunciar uma única palavra.
+
+> [!example] Exemplos
+> 
+> **Seraphine Mordaine** é lembrada por sua silhueta elegante envolta em longos casacos negros, contrastando com a palidez quase sobrenatural de seu rosto e o hábito de falar sempre em um tom baixo e controlado. **Otto Krane**, um veterano das guerras industriais, caminha com o peso de um braço protético que substitui o membro perdido anos atrás, ajustando constantemente as engrenagens da prótese com gestos impacientes. **Elijah Crowe** tornou-se facilmente reconhecível nas ruas enevoadas das principais capitais por seus olhos de um cinza opaco, pela longa cicatriz que atravessa seu semblante e pelo costume inquietante de nunca sustentar o olhar de ninguém por muito tempo.
+
+# To-do
+
+- [ ] Passado
+- [ ] Ofício
+- [ ] Relações
+- [ ] Motivações
+- [ ] Conflitos
