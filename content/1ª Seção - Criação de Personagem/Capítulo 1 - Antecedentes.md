@@ -172,11 +172,14 @@ Operários são trabalhadores que lidam diariamente com esforço físico, ferram
 > 
 > Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Intuição / Empatia**.
 
+# Economia
+
 ***
 # To-do
 
 - [x] Histórico
 - [x] Ofícios
+- [ ] Economia
 - [ ] Relações
 - [ ] Motivações
 - [ ] Conflitos
