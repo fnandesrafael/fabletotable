@@ -4,7 +4,7 @@ Mas… antes disso — ou melhor, **até esse momento** — qual era a história
 
 Essa ambientação, se assim podemos chamá-la, é um dos primeiros fundamentos que podemos usar para nortear a construção dessa figura tão importante que é o seu personagem. É a partir desse ponto que começamos a compreender não apenas **de onde ele veio**, mas também **quem ele é** dentro do mundo. Ao longo deste capítulo, desenvolveremos justamente esses elementos fundamentais — identidade, aparência, passado, ofício, relações, motivações e conflitos — explorando como cada um deles contribui para transformar uma simples ficha de personagem em alguém que parece vivo dentro da história. É desse ponto inicial que poderemos partir para todos os outros.
 
-Para isso, utilize as descrições de cada antecedente para compreender sua importância e responda a cada uma das perguntas. A ideia é que você de fato escreva uma biografia — em texto corrido mesmo — como se estivesse contando a história do seu personagem, usando cada pergunta como guia para descrevê-lo.
+Para isso, utilize as descrições de cada antecedente para compreender sua importância e responda a cada uma das perguntas. A ideia é que você de fato escreva uma biografia — em texto corrido mesmo — como se estivesse contando a história do seu personagem, usando cada pergunta como guia para descrevê-lo. Você pode fazer isso num pequeno bloco de papel, ou em algum documento digital, ou até mesmo aproveitar a plataforma online da [[Ficha de Personagem]] que conta com um recurso próprio para responder essas perguntas e criar esse resumo biográfico de forma automática.
 
 # Identidade
 
@@ -15,7 +15,7 @@ Para isso, utilize as descrições de cada antecedente para compreender sua impo
 > </br>
 > **Q2 -** Existe algum apelido ou alcunha pelo qual ele é conhecido? Se sim qual?
 > </br>
-> **Q3** - O nome do seu personagem tem algum significado ou origem?
+> **Q3** - O nome e/ou apelido do seu personagem tem algum significado ou origem?
 
 Desenvolver a [[#Identidade]] do seu personagem pode parecer a parte mais simples de sua criação, mas ela é o primeiro elemento que define como ele será conhecido no mundo. Em sua forma mais básica, essa característica é representada pelo nome — a palavra que outras pessoas usarão para chamá-lo, mencioná-lo ou lembrar de sua existência.
 
@@ -26,7 +26,7 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 
 > [!example] Exemplos
 > 
-> **Lucien Valois** carrega um sobrenome antigo, pertencente a uma linhagem de engenheiros aristocratas cujas máquinas ajudaram a erguer as primeiras máquinas de aço. **Gregor Halbrecht**, um caçador com uma prótese mandíbular brutal e presença intimidadora, acabou sendo apelidado no submundo como **Ironjaw**. **Adrian Valcari**, por sua vez, tornou-se muito mais conhecido como **Adrian Hellblessed** após ser o único sobrevivente de um incêndio que consumiu metade de um distrito industrial.
+> **Lucien Valois** carrega um sobrenome antigo, pertencente a uma linhagem de engenheiros aristocratas que ajudaram a erguer as primeiras fábricas de aço pálido. **Gregor Halbrecht**, um caçador com uma prótese mandíbular brutal e presença intimidadora, acabou sendo apelidado no submundo como **Ironjaw**. **Adrian Valcari**, por sua vez, tornou-se muito mais conhecido como **Adrian Hellblessed** após ser o único sobrevivente de um incêndio que consumiu metade de um distrito industrial.
 
 
 # Aparência
