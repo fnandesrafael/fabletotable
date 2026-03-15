@@ -205,12 +205,16 @@ Para determinar a Economia de um personagem, é necessário realizar um [[Teste 
 
 A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu iventário base.
 
-| **Resuldado da Rolagem (2d4)** | **Economia** | **Vaalaques** |
-| ------------------------------ | ------------ | ------------- |
-| 2                              | Miserável    | V$50          |
-| 3-5                            | Plebeu       | V$150         |
-| 6-7                            | Abastado     | V$900         |
-| 8                              | Opulento     | V$8100        |
+| **Resuldado da Rolagem (2d4)** | **Economia**  | **Vaalaques** |
+| ------------------------------ | ------------- | ------------- |
+| 2                              | **Miserável** | V$50          |
+| 3-5                            | **Plebeu**    | V$150         |
+| 6-7                            | **Abastado**  | V$900         |
+| 8                              | **Opulento**  | V$8100        |
+# Relações
+
+> Lorem ipsum
+
 
 ***
 # To-do
