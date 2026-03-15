@@ -197,30 +197,27 @@ Seja por escolha ou necessidade, párias vivem guiados por seus próprios códig
 
 # Economia
 
-> Introdução
+A [[#Economia]] determina a quantidade de [[Vaalaques]] (V$) que seu personagem possui ao começar a aventura. Essa reserva inicial servirá para comprar equipamentos, suprimentos e quaisquer itens que considerar necessários antes de enfrentar os perigos do mundo.
 
-## Miserável
+A riqueza inicial não define tudo: durante a aventura, os personagens podem ganhar, perder ou trocar Vaalaques, permitindo que até os mais miseráveis busquem conforto ou que os opulentos enfrentem perdas inesperadas.
 
-> Descrição
+Para determinar a Economia de um personagem, é necessário realizar um [[Teste de Rolagem]] com **2d4**. A partir do resultado atingido pela soma de ambos os dados, o valor resultande determinará sua economia inicial, ou seja, quantos [[Vaalaques|V$]] você possui inicialmente.
 
-## Pobre
+A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu iventário base.
 
-> Descrição
-
-## Abastado
-
-> Descrição
-
-## Opulento
-
-> Descrição
+| **Resuldado da Rolagem (2d4)** | **Economia** | **Vaalaques** |
+| ------------------------------ | ------------ | ------------- |
+| 2                              | Miserável    | V$50          |
+| 3-5                            | Plebeu       | V$150         |
+| 6-7                            | Abastado     | V$900         |
+| 8                              | Opulento     | V$8100        |
 
 ***
 # To-do
 
 - [x] Histórico
 - [x] Ofícios
-- [ ] Economia
+- [x] Economia
 - [ ] Relações
 - [ ] Motivações
 - [ ] Conflitos
