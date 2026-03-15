@@ -1,4 +1,4 @@
-Talvez o primeiro passo para criar um personagem seja **pensar em sua origem**. Toda história, assim como toda [[Campanha]] de _RPG_ se inicia em algum ponto no tempo e em algum lugar do mundo. Provavelmente seu [[Mestre]] determinou — durante a chamada _Sessão Zero_ — o tema, o tom e o teor geral da história que será construída em conjunto por vocês. Nesse caso, já existe um começo estabelecido: um momento em que algo acontece, um encontro marcado ou ao acaso que faz com que todos os [[Protagonista|Protagonistas]] se encontrem e a história se inicie. Esse primeiro momento funciona como o ponto de partida da narrativa compartilhada, a ocasião em que diferentes trajetórias finalmente convergem e a aventura começa de fato.
+Talvez o primeiro passo para criar um personagem seja **pensar em sua origem**. Toda história, assim como toda [[Campanha]] de _RPG_ se inicia em algum ponto no tempo e em algum lugar do mundo. Provavelmente seu [[Mestre]] determinou — durante a chamada _Sessão Zero_ — o tema, o tom e o teor geral da história que será construída em conjunto por vocês. Nesse caso, já existe um começo estabelecido: um momento em que algo acontece, um encontro marcado ou ao acaso que faz com que todos os [[Protagonista|Protagonistas]] se reúnam e a história se inicie. Esse primeiro momento funciona como o ponto de partida da narrativa compartilhada, a ocasião em que diferentes trajetórias finalmente convergem e a aventura começa de fato.
 
 Mas… antes disso — ou melhor, **até esse momento** — qual era a história do seu personagem? Onde ele estava e o que fazia? Quem ele era, como se apresentava ao mundo e qual lugar ocupava dentro dele? Que trabalho exercia, que caminhos percorreu e que experiências moldaram sua identidade? Que pessoas fizeram parte de sua vida até então — aliados, amigos, mentores ou rivais — e que tipo de relações ele construiu ao longo do tempo? O que o motivava a seguir em frente e quais objetivos ou desejos guiavam suas decisões? Quais conflitos já estavam presentes em sua vida antes mesmo da campanha começar? Dilemas pessoais, disputas antigas, promessas não cumpridas ou circunstâncias que o empurraram para a situação em que agora se encontra.
 
@@ -40,11 +40,11 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 > **Q3 -** Como seu personagem costuma se vestir ou se apresentar?</br>
 > **Q4 -** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
 
-A [[#Aparência]] do seu personagem define como ele é percebido à primeira vista. Antes mesmo de ouvir seu nome ou conhecer sua história, as pessoas formam primeiras impressões a partir de sua aparência; da forma como você se veste, se porta e se comunica.
+A [[#Aparência]] do seu personagem define como ele é percebido à primeira vista. Antes mesmo de ouvir seu nome ou conhecer sua história, as pessoas formam primeiras impressões a partir de seu visual; da forma como você se veste, se porta e se comunica.
 
 Algumas dessas características podem ser comuns, enquanto outras tornam-se facilmente reconhecíveis. Uma cicatriz profunda, uma prótese mecânica, olhos de cor incomum ou mesmo um modo peculiar de se vestir podem fazer com que alguém seja lembrado com facilidade ou até mesmo temido.
 
-Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, a aparência também contribui para a imagem que os outros guardam. Muitas vezes são justamente esses detalhes — físicos ou comportamentais — que fazem com que um personagem seja reconhecido à distância, ou por descrições dadas em conversas e notícias.
+Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, a aparência também contribui para a imagem que os outros guardam de você. Muitas vezes são justamente esses detalhes — físicos ou comportamentais — que fazem com que um personagem seja reconhecido à distância, ou por descrições dadas em conversas e notícias.
 
 > [!example] Exemplos
 > 
@@ -124,6 +124,16 @@ Acadêmicos dedicam suas vidas ao estudo, à pesquisa e à busca por conheciment
 > 
 > Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Observação / Evocação / Linguística**.
 
+## Comerciante
+
+Mercadores vivem do fluxo constante de bens, informações e oportunidades. Alguns mantêm lojas em ruas movimentadas, outros viajam entre cidades transportando mercadorias raras ou negociando contratos lucrativos. O verdadeiro talento de um comerciante não está apenas em vender produtos, mas em compreender o valor das coisas — e, principalmente, o valor das pessoas.
+
+Personagens com esse Ofício estão acostumados a negociar, persuadir e avaliar situações em busca de vantagem. Sua experiência em mercados, tavernas e salões comerciais lhes permite navegar com facilidade por diferentes ambientes sociais, identificando oportunidades onde outros enxergam apenas conversas triviais.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma — Empatia — Retórica — Estratégia**.
+
 ## Criminoso
 
 Criminosos vivem à margem da lei e desenvolveram habilidades voltadas à sobrevivência em ambientes hostis ou clandestinos. Podem ser ladrões, contrabandistas, falsificadores ou membros de organizações secretas. Acostumados a agir nas sombras, sabem como se mover discretamente, avaliar riscos e lidar com situações perigosas.
@@ -171,6 +181,19 @@ Operários são trabalhadores que lidam diariamente com esforço físico, ferram
 > [!info] Bônus de Ofício
 > 
 > Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Intuição / Empatia**.
+
+## Pária
+
+Nem todos encontram um lugar dentro da sociedade. Alguns são expulsos dela; outros simplesmente escolhem viver longe de suas regras. Párias são indivíduos que sobreviveram à margem do mundo civilizado — nas estradas, nas florestas, em ruínas esquecidas ou nos cantos mais sombrios das cidades industriais.
+
+Acostumados a confiar apenas em si mesmos, esses personagens desenvolveram resistência física, presença intimidadora e um instinto aguçado para perceber perigos antes que seja tarde demais. Muitos são caçadores, eremitas, mercenários solitários ou sobreviventes de conflitos que preferiram abandonar as estruturas rígidas de exércitos e instituições.
+
+Seja por escolha ou necessidade, párias vivem guiados por seus próprios códigos e pela capacidade de suportar adversidades que esmagariam a maioria das pessoas.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude — Vitalidade — Presença — Intuição**.
+
 
 # Economia
 
