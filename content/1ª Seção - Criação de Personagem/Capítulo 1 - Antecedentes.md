@@ -174,6 +174,24 @@ Operários são trabalhadores que lidam diariamente com esforço físico, ferram
 
 # Economia
 
+> Introdução
+
+## Miserável
+
+> Descrição
+
+## Pobre
+
+> Descrição
+
+## Abastado
+
+> Descrição
+
+## Opulento
+
+> Descrição
+
 ***
 # To-do
 
