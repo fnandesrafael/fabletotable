@@ -10,7 +10,9 @@ Essa ambientação, se assim podemos chamá-la, é um dos primeiros fundamentos 
 > [!faq] Perguntas Fundamentais
 > 
 > **Q1 -** Qual o nome do seu personagem (nome e sobrenome)?
+> </br>
 > **Q2 -** Existe algum apelido ou alcunha pelo qual ele é conhecido? Se sim qual?
+> </br>
 > **Q3** - O nome do seu personagem tem algum significado ou origem?
 
 Desenvolver a [[#Identidade]] do seu personagem pode parecer a parte mais simples de sua criação, mas ela é o primeiro elemento que define como ele será conhecido no mundo. Em sua forma mais básica, essa característica é representada pelo nome — a palavra que outras pessoas usarão para chamá-lo, mencioná-lo ou lembrar de sua existência.
