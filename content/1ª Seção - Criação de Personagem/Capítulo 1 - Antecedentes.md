@@ -4,7 +4,27 @@ Mas… antes disso — ou melhor, **até esse momento** — qual era a história
 
 Essa ambientação, se assim podemos chamá-la, é um dos primeiros fundamentos que podemos usar para nortear a construção dessa figura tão importante que é o seu personagem. É a partir desse ponto que começamos a compreender não apenas **de onde ele veio**, mas também **quem ele é** dentro do mundo. Ao longo deste capítulo, desenvolveremos justamente esses elementos fundamentais — identidade, aparência, passado, ofício, relações, motivações e conflitos — explorando como cada um deles contribui para transformar uma simples ficha de personagem em alguém que parece vivo dentro da história. É desse ponto inicial que poderemos partir para todos os outros.
 
-- Identidade
+# Identidade
+
+
+> [!faq] Perguntas Fundamentais
+> 
+> **Q1 -** Qual o nome do seu personagem (nome e sobrenome)?
+> **Q2 -** Existe algum apelido ou alcunha pelo qual ele é conhecido? Se sim qual?
+> **Q3** - O nome do seu personagem tem algum significado ou origem?
+
+Desenvolver a [[#Identidade]] do seu personagem pode parecer a parte mais simples de sua criação, mas ela é o primeiro elemento que define como ele será conhecido no mundo. Em sua forma mais básica, essa característica é representada pelo nome — a palavra que outras pessoas usarão para chamá-lo, mencioná-lo ou lembrar de sua existência.
+
+Além do nome verdadeiro, muitos personagens também são reconhecidos por apelidos ou alcunhas. Esses títulos podem surgir de feitos marcantes, peculiaridades incomuns ou simplesmente da forma como outros passaram a chamá-lo ao longo da vida.
+
+Seja um nome de família respeitado ou um apelido conquistado em circunstâncias extraordinárias, são essas poucas palavras que permitem que os outros identifiquem seu personagem e associem a elas uma figura única dentro do mundo.
+
+
+> [!example] Exemplos
+> 
+> **Lucien Valois** carrega um sobrenome antigo, pertencente a uma linhagem de engenheiros aristocratas cujas máquinas ajudaram a erguer as primeiras máquinas de aço. **Gregor Halbrecht**, um caçador com uma prótese mandíbular brutal e presença intimidadora, acabou sendo apelidado no submundo como **Ironjaw**. **Adrian Valcari**, por sua vez, tornou-se muito mais conhecido como **Adrian Hellblessed** após ser o único sobrevivente de um incêndio que consumiu metade de um distrito industrial.
+
+
 - Aparência
 - Passado
 - Ofício
