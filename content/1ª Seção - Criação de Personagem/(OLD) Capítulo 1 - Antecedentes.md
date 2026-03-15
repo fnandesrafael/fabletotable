@@ -241,3 +241,13 @@ Os [[#Terapeuta|Terapeutas]] podem atuar em diversos contextos: em um ambiente m
 ***
 **Próximo Conteúdo:** [[Capítulo 2 - Atributos Vitais e Arquétipos]]
 
+- **Artista** - Atuação, Expressividade, Semiótica, 1 Perícia de Percepção
+- **Artífice** - Lógica, Contato, Manipulação, Precisão
+- **Atleta** - Vitalidade, Condicionamento, Mobilidade, Carisma
+- **Acadêmico** - Erudição, Observação, Evocação, Linguística
+- **Crimonoso** - Reflexo, Mobilidade, Perspectiva, (Presença ou Carisma)
+- **Figura Pública** - Carisma, Estratégia ou Moral, Retórica, Expressividade
+- **Investigador** - Lógica, Retórica, Perspectiva, Criatividade
+- **Medicante** - Erudição, Intuição, Empatia, Precisão
+- **Militar** - Moral, Estratégia, Tolerância, Primalidade
+- **Operário** - Fortitude, Tolerância, Intuição, Empatia

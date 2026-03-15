@@ -74,12 +74,109 @@ Pense neste antecedente como uma pequena linha do tempo pessoal. Cada evento rep
 
 # Ofícios
 
-## 
+Os [[#Ofícios]] representam o tipo de trabalho ou atividade que seu personagem exerceu antes do início da história. Mais do que simples ocupações, eles indicam as experiências práticas, habilidades e conhecimentos adquiridos ao longo de sua vida.
 
+Enquanto outros antecedentes ajudam a definir quem seu personagem é ou de onde ele veio, o Ofício descreve **o que ele fazia**. Um artista pode ter passado anos se apresentando em tavernas ou teatros decadentes; um operário pode ter trabalhado nas fundições e fábricas das grandes cidades industriais; já um investigador pode ter construído sua reputação resolvendo mistérios e perseguindo pistas pelas ruas das capitais.
+
+Essas experiências moldam a forma como o personagem interage com o mundo e influenciam diretamente sua competência em determinadas áreas.
+
+Cada Ofício concede uma redução na [[Classe de Dificuldade]] (CD) ao realizar [[Teste de Rolagem|Testes de Rolagem]] envolvendo determinadas perícias relacionadas àquela profissão.
+
+A quantidade de redução depende do **Nível do Personagem (NP)**, que ao longo de sua progressão, representa exatamente a experiência acumulada do personagem em seu [[#Ofício]] durante sua vida.
+
+| Nível do Personagem (NP) | Redução na Classe de Dificuldade (CD) |
+| ------------------------ | ------------------------------------- |
+| NP 1–5                   | **-5**                                |
+| NP 6–10                  | **-10**                               |
+| NP 11–15                 | **-15**                               |
+| NP 16–20                 | **-20**                               |
+> [[Tabela de Bônus de Ofício]]
+
+## Artista
+
+Artistas são indivíduos dedicados à expressão estética, emocional ou simbólica. Podem ser músicos, atores, pintores, dançarinos, escultores ou qualquer pessoa cuja habilidade esteja ligada à criação e interpretação de obras artísticas. Muitos artistas percorrem tavernas, salões aristocráticos ou teatros decadentes em busca de reconhecimento, enquanto outros utilizam sua arte como forma de crítica, protesto ou simples sobrevivência.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Subjetividade / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
+
+## Artífice
+
+Artífices são criadores e manipuladores de objetos, máquinas e mecanismos. Podem ser relojoeiros, engenheiros, inventores ou artesãos especializados em dispositivos complexos. Em cidades industriais ou capitais tecnológicas, muitos artífices trabalham em oficinas repletas de ferramentas e engrenagens, dedicados a construir ou reparar as máquinas que sustentam o funcionamento do mundo moderno.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Lógica / Contato / Manipulação / Precisão**.
+
+## Atleta
+
+Atletas dedicam suas vidas ao desenvolvimento físico e ao domínio do próprio corpo. Podem ser lutadores, corredores, gladiadores, artistas marciais ou competidores profissionais. Muitos treinam em arenas ou academias, enquanto outros aprimoram suas habilidades em batalhas reais, torneios ou desafios públicos.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Vitalidade / Condicionamento / Mobilidade / Carisma**.
+
+## Acadêmico
+
+Acadêmicos dedicam suas vidas ao estudo, à pesquisa e à busca por conhecimento. Podem ser professores, historiadores, filósofos, ocultistas ou estudiosos de diversas áreas do saber. Muitos passam anos em bibliotecas, universidades ou instituições científicas, investigando teorias, decifrando textos antigos ou explorando conceitos que poucos compreendem.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Observação / Evocação / Linguística**.
+
+## Criminoso
+
+Criminosos vivem à margem da lei e desenvolveram habilidades voltadas à sobrevivência em ambientes hostis ou clandestinos. Podem ser ladrões, contrabandistas, falsificadores ou membros de organizações secretas. Acostumados a agir nas sombras, sabem como se mover discretamente, avaliar riscos e lidar com situações perigosas.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Reflexo / Mobilidade / Perspectiva / Presença ou Carisma**.
+
+## Figura Pública
+
+Figuras públicas são indivíduos cuja reputação e influência dependem da visibilidade social. Podem ser políticos, líderes comunitários, celebridades, diplomatas ou personalidades conhecidas em determinadas regiões. Estão acostumados a falar diante de multidões, negociar interesses e influenciar opiniões.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma / Estratégia ou Moral / Retórica / Expressividade**.
+
+## Investigador
+
+Investigadores são especialistas em reunir informações, interpretar pistas e compreender situações complexas. Podem atuar como detetives, agentes particulares, repórteres investigativos ou caçadores de mistérios. Seu trabalho exige atenção aos detalhes, raciocínio analítico e habilidade para interpretar o comportamento humano.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Lógica / Retórica / Perspectiva / Criatividade**.
+
+## Medicante
+
+Medicantes dedicam suas vidas ao cuidado e à preservação da vida. Podem ser médicos, curandeiros, cirurgiões ou estudiosos da anatomia e da medicina. Seu trabalho exige conhecimento técnico, sensibilidade humana e precisão em situações delicadas.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Intuição / Empatia / Precisão**.
+
+## Militar
+
+Militares são treinados para atuar em conflitos armados e situações de comando. Podem ser soldados, oficiais, estrategistas ou veteranos de guerra. Sua formação enfatiza disciplina, liderança e resistência diante de circunstâncias extremas.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Moral / Estratégia / Tolerância / Primalidade**.
+
+## Operário
+
+Operários são trabalhadores que lidam diariamente com esforço físico, ferramentas e ambientes exigentes. Podem atuar em minas, fábricas, portos ou obras de construção. A rotina de trabalho pesado desenvolve resistência, percepção prática e uma forte capacidade de adaptação.
+
+> [!info] Bônus de Ofício
+> 
+> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Intuição / Empatia**.
+
+***
 # To-do
 
 - [x] Histórico
-- [ ] Ofícios
+- [x] Ofícios
 - [ ] Relações
 - [ ] Motivações
 - [ ] Conflitos
