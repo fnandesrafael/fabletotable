@@ -203,7 +203,7 @@ A riqueza inicial não define tudo: durante a aventura, os personagens podem gan
 
 Para determinar a Economia de um personagem, é necessário realizar um [[Teste de Rolagem]] com **2d4**. A partir do resultado atingido pela soma de ambos os dados, o valor resultande determinará sua economia inicial, ou seja, quantos [[Vaalaques|V$]] você possui inicialmente.
 
-A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu iventário base.
+A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu inventário base.
 
 | **Resuldado da Rolagem (2d4)** | **Economia**  | **Vaalaques** |
 | ------------------------------ | ------------- | ------------- |
@@ -211,9 +211,36 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 | 3-5                            | **Plebeu**    | V$150         |
 | 6-7                            | **Abastado**  | V$900         |
 | 8                              | **Opulento**  | V$8100        |
-# Relações
+# Vínculos
 
-> Lorem ipsum
+> [!faq] Perguntas Fundamentais
+> 
+> **Q1 - Quem são as pessoas mais importantes para o seu personagem?</br>
+> **Q2 -** A quais grupos, organizações ou comunidades ele está ligado?</br>
+> **Q3 - Quais lugares, objetos, datas e/ou eventos possuem valor significativo para ele?</br>
+> **Q4 - O que o seu personagem mais teme perder? Em outras palavras, qual é o fim que ele faria de tudo para evitar?**
+
+
+Os vínculos representam as conexões que ligam o personagem ao mundo ao seu redor. Eles dizem respeito às pessoas, lugares, grupos e elementos que possuem algum valor em sua vida, funcionando como pontos de referência emocional, social ou até mesmo moral.
+
+Diferente de outros aspectos do antecedente, os vínculos não tratam apenas do que o personagem viveu, mas daquilo que ele mantém — laços que influenciam suas decisões, motivações e comportamento ao longo da história. São essas conexões que ajudam a definir o que ele protege, o que valoriza e o que o mantém em movimento.
+
+Os vínculos podem assumir diversas formas. Eles podem estar presentes em relações pessoais, como familiares, amigos ou mentores; em ligações com grupos ou organizações; em locais que carregam significado especial; ou até mesmo em objetos e eventos que marcaram profundamente sua vida. Não é necessário listar tudo, apenas aquilo que realmente possui importância.
+
+Pense neste antecedente como um conjunto de âncoras narrativas. Cada vínculo representa algo que mantém o personagem conectado ao mundo, oferecendo oportunidades para desenvolvimento, conflitos e decisões ao longo da história.
+
+> [!example] Exemplo
+> 
+> Elena Vargos mantém um forte vínculo com sua irmã mais nova, que ainda vive na cidade onde ambas cresceram. Mesmo após anos longe, Elena envia parte de seus ganhos regularmente, determinada a garantir que a irmã tenha uma vida melhor do que a que tiveram.
+> 
+> Ela também possui uma ligação com a antiga companhia mercenária da qual fez parte. Embora não mantenha contato frequente, ainda respeita seus antigos companheiros e sabe que pode procurá-los em momentos de necessidade.
+> 
+> Entre seus poucos pertences, carrega um medalhão simples que pertencia à sua mãe. O objeto não possui grande valor material, mas representa tudo aquilo que Elena teme esquecer sobre suas origens.
+> 
+> Por fim, Elena nunca esqueceu o dia em que abandonou sua terra natal após um conflito que fugiu do seu controle. Esse evento continua a influenciar suas decisões, especialmente quando se vê diante de situações semelhantes.
+
+# Motivações
+
 
 
 ***
@@ -222,6 +249,6 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 - [x] Histórico
 - [x] Ofícios
 - [x] Economia
-- [ ] Relações
+- [x] Vínculos
 - [ ] Motivações
 - [ ] Conflitos
