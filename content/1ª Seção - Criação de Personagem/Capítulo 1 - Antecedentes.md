@@ -215,9 +215,9 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 - Quem são as pessoas mais importantes para o seu personagem?</br>
+> **Q1 -** Quem são as pessoas mais importantes para o seu personagem?</br>
 > **Q2 -** A quais grupos, organizações ou comunidades ele está ligado?</br>
-> **Q3 - Quais lugares, objetos, datas e/ou eventos possuem valor significativo para ele?</br>
+> **Q3** - Quais lugares, objetos, datas e/ou eventos possuem valor significativo para ele?</br>
 > **Q4 - O que o seu personagem mais teme perder? Em outras palavras, qual é o fim que ele faria de tudo para evitar?**
 
 
@@ -231,7 +231,7 @@ Pense neste antecedente como um conjunto de âncoras narrativas. Cada vínculo r
 
 > [!example] Exemplo
 > 
-> Elena Vargos mantém um forte vínculo com sua irmã mais nova, que ainda vive na cidade onde ambas cresceram. Mesmo após anos longe, Elena envia parte de seus ganhos regularmente, determinada a garantir que a irmã tenha uma vida melhor do que a que tiveram.
+> **Elena Vargos** mantém um forte vínculo com sua irmã mais nova, que ainda vive na cidade onde ambas cresceram. Mesmo após anos longe, Elena envia parte de seus ganhos regularmente, determinada a garantir que a irmã tenha uma vida melhor do que a que tiveram.
 > 
 > Ela também possui uma ligação com a antiga companhia mercenária da qual fez parte. Embora não mantenha contato frequente, ainda respeita seus antigos companheiros e sabe que pode procurá-los em momentos de necessidade.
 > 
