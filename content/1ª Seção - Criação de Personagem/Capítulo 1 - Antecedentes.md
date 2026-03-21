@@ -318,7 +318,7 @@ Pense neste antecedente como uma fonte de tensão. São essas limitações que t
 
 [[#Aflições]] **são opcionais, mas oferecem uma vantagem significativa** para aqueles que escolhem assumi-las.
 
-Cada aflição adiciona um nível de dificuldade extra a determinadas situações. Dessa forma, seu personagem irá realizar um [[Teste de Rolagem|Teste de Rolagem em Aflição]] caso o respectivo teste envolva a mesma.
+Cada aflição adiciona um nível de dificuldade extra a determinadas situações. Dessa forma, seu personagem irá realizar um [[Teste de Rolagem em Aflição]] caso o respectivo teste envolva a mesma.
 
 | Aflição             | Descrição                                                      | Requisitos                                                           | Quando pode ser ativada                                                                             |
 | ------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -340,10 +340,12 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 
 > [!info] Caso o personagem supere essa CD aumentada:
 > - Ele recebe um [[Bônus Motivacional]] por **2d4 [[Teste de Rolagem|Testes de Rolagem]]**.
+> - Não precisará realizar mais [[Teste de Rolagem com Aflição]] até o fim da [[Sessão]].
+
 
 # Conclusão
 
 Ao final deste capítulo, seu personagem agora deixa de ser apenas um conjunto de ideias soltas e passa a existir como alguém inserido no mundo — com [[#Identidade]], [[#Aparência]], [[#Histórico]], [[#Ofícios|Ofício]], [[#Economia]], [[#Motivações]] e [[#Aflições]] que o tornam único. Esses elementos formam a base narrativa sobre a qual todas as suas decisões serão construídas ao longo da campanha. No entanto, essa é apenas parte do caminho. No próximo capítulo, avançaremos para além da história e conheceremos os [[Capítulo 2 Atributos Vitais e Arquétipos|Atributos Vitais]].
 
 ***
-**Próximo Capítulo: [[Capítulo 2 Atributos Vitais e Arquétipos]]**
+**Próximo Capítulo: [[Capítulo 2 - Atributos Vitais]]**
