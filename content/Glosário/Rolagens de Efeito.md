@@ -1,1 +1,0 @@
-> [[Teste de Rolagem]] no qual se verifica quanto de [[Efeito]] será obtido. No geral são rolagens feitas com outros dados que não o **d20**.

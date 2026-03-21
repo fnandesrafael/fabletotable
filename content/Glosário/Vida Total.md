@@ -1,1 +1,0 @@
-> É o valor determinado pela quantidade de *Pontos de Vida* máximo que seu personagem pode ter naquele [[Nível de Poder]].

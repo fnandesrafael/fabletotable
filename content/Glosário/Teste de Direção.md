@@ -1,1 +1,0 @@
-> [[Teste de Rolagem]] no qual se utilizam os valores da [[Perícia]] [[Capítulo 4 - Perícias e Reações#Direção|Direção]] de um personagem.

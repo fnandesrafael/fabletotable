@@ -1,1 +1,0 @@
-> Antes que um inimigo atinja sua [[Armadura Equipada]] é necessário zerar qualquer valor de *Armadura Adicional*, que basicamente são originadas de [[Proteção]] ou [[Capítulo 2 - Atributos Vitais#Vantagens|Vantagens]] de [[Capítulo 2 - Atributos Vitais#Arquétipos|Arquétipos]].

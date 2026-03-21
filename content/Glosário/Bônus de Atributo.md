@@ -1,1 +1,0 @@
-> Quantidade de [[Pontos de Atributo]] que foram adicionados à uma [[Perícia]] ou [[Reação]] baseada naquele [[Atributo]].

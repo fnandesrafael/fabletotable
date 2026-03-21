@@ -1,1 +1,0 @@
-> A *Armadura Corporal*, se refere ao valor base de [[Capítulo 2 - Atributos Vitais#Armadura|Armadura]] que você possui baseado em seus [[Atributos Base]] e em seu [[Capítulo 2 - Atributos Vitais#Arquétipos|Arquétipo]].

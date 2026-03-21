@@ -1,1 +1,1 @@
-> A *Ordem de Iniciativa* nada mais é que a ordem de [[Rodada|Rodadas]] entre os [[Protagonistas]] e adversários.
+> Ordem de [[Rodada|Rodadas]] entre os [[Protagonistas]] e adversários.

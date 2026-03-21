@@ -334,13 +334,13 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 > [[Tabela de Aflições]]
 
 > [!info] Dessa forma:
-> - A **[[Classe de Dificuldade|CD]] do teste aumenta** segundo a [[Tabela de Aflições]]
+> - A **[[Classe de Dificuldade|CD]] do teste aumenta em 2 Graus** segundo a [[Tabela de Classes de Dificuldade]]
 > - Esse aumento se aplica apenas ao personagem afetado.
 > - A situação deve estar diretamente relacionada à natureza da aflição.
 
 > [!info] Caso o personagem supere essa CD aumentada:
 > - Ele recebe um [[Bônus Motivacional]] por **2d4 [[Teste de Rolagem|Testes de Rolagem]]**.
-> - Não precisará realizar mais [[Teste de Rolagem com Aflição]] até o fim da [[Sessão]].
+> - Não precisará realizar mais [[Teste de Rolagem em Aflição]] até o fim da [[Sessão]].
 
 
 # Conclusão

@@ -1,1 +1,0 @@
-> Atributos nada mais são, do que as características constitutivas de um personagem, traduzidas em números.

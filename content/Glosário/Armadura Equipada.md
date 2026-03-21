@@ -1,1 +1,0 @@
-> Esse é um valor que provêm de seus [[Itens]] [[Equipáveis]]. Alguns desses *Equipáveis* concedem à você um bônus de [[Capítulo 2 - Atributos Vitais#Armadura|Armadura]].

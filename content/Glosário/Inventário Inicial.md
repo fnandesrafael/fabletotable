@@ -1,1 +1,1 @@
-> O *Inventário Inicial* é o conjunto de [[Itens]] que um personagem possui desde o início da [[Campanha]].
+> Conjunto de [[Itens]] que um personagem possui desde o início da [[Campanha]].

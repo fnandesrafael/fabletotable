@@ -1,1 +1,0 @@
->  Quando um personagem estiver *Perturbado*, será considerado para o resultado de um [[Teste de Rolagem]], o menor valor obtido nas rolagens de d20s (dê vintes). O efeito dura **40min** reais.

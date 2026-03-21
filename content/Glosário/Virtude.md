@@ -1,1 +1,0 @@
-> Ação com o qual você supera as más inclinações de seu [[(OLD) Capítulo 1 - Antecedentes#Traços|Traço]] e ganha a [[Condição]] [[Motivado]].

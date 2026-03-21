@@ -1,1 +1,0 @@
-> É o valor determinado pela quantidade de *Pontos de Vida* que lhe restam. Esse é valor que é sempre alterado quando você sofre [[Dano]] ou quando recebe [[Cura]].
