@@ -23,7 +23,7 @@ Todo nome carrega um significado. Seu persnagem possui um nome de batismo. Um no
 
 Além do nome verdadeiro, muitos personagens também são reconhecidos por apelidos ou alcunhas. Esses títulos podem surgir de feitos marcantes, peculiaridades incomuns ou simplesmente da forma como outros passaram a chamá-lo ao longo da vida.
 
-Seja um nome de família respeitado ou um apelido conquistado em circunstâncias extraordinárias, é esse conjunto de letras que permitem que os outros identifiquem seu personagem e associem a elas uma figura única dentro do mundo.
+Seja um nome de família respeitado ou um apelido conquistado em circunstâncias extraordinárias, é esse conjunto de letras que permite que outros identifiquem seu personagem e associem a esse nome uma figura única dentro do mundo.
 
 
 > [!example] Exemplos
@@ -56,9 +56,9 @@ Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, 
 > 
 > **Q1 —** Como foi a infância e juventude do seu personagem?</br>
 > **Q2 —** Quais foram os eventos mais marcantes na história do seu personagem e como eles influenciaram em quem ele se tornou?</br>
-> **Q3 —** O que aconteceu com seu personagem até o momento atual da história (definido pelo Mestre)?
+> **Q3 —** O que levou seu personagem até o momento atual da história (definido pelo Mestre)?
 
-O histórico do seu personagem reúne os acontecimentos que marcaram sua vida até o início da história. Diferente de uma biografia completa, ele não precisa descrever cada detalhe da trajetória do personagem, mas sim destacar os momentos que tiveram maior impacto em sua formação.
+O [[#Histórico]] do seu personagem reúne os acontecimentos que marcaram sua vida até o início da campanha. Diferente de uma biografia completa, ele não precisa descrever cada detalhe da trajetória do personagem, mas sim destacar os momentos que tiveram maior impacto em sua formação.
 
 Esses eventos podem incluir sua criação, experiências marcantes, perdas, conquistas ou qualquer situação que tenha influenciado suas escolhas e moldado sua visão de mundo. Em vez de tentar registrar toda a sua vida, concentre-se apenas nos acontecimentos mais importantes.
 
@@ -221,9 +221,9 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 > **Q4 - O que o seu personagem mais teme perder? Em outras palavras, qual é o fim que ele faria de tudo para evitar?**
 
 
-Os vínculos representam as conexões que ligam o personagem ao mundo ao seu redor. Eles dizem respeito às pessoas, lugares, grupos e elementos que possuem algum valor em sua vida, funcionando como pontos de referência emocional, social ou até mesmo moral.
+Os [[#Vínculos]] representam as conexões que ligam o personagem ao mundo ao seu redor. Eles dizem respeito às pessoas, lugares, grupos e elementos que possuem algum valor em sua vida, funcionando como pontos de referência emocional, social ou até mesmo moral.
 
-Diferente de outros aspectos do antecedente, os vínculos não tratam apenas do que o personagem viveu, mas daquilo que ele mantém — laços que influenciam suas decisões, motivações e comportamento ao longo da história. São essas conexões que ajudam a definir o que ele protege, o que valoriza e o que o mantém em movimento.
+Diferente de outros [[Capítulo 1 - Antecedentes|Antecedentes]], os vínculos não tratam apenas do que o personagem viveu, mas daquilo que ele mantém — laços que influenciam suas decisões, motivações e comportamento ao longo da história. São essas conexões que ajudam a definir o que ele protege, o que valoriza e o que o mantém em movimento.
 
 Os vínculos podem assumir diversas formas. Eles podem estar presentes em relações pessoais, como familiares, amigos ou mentores; em ligações com grupos ou organizações; em locais que carregam significado especial; ou até mesmo em objetos e eventos que marcaram profundamente sua vida. Não é necessário listar tudo, apenas aquilo que realmente possui importância.
 
@@ -249,7 +249,7 @@ Pense neste antecedente como um conjunto de âncoras narrativas. Cada vínculo r
 
 As [[#Motivações]] representam a força que impulsiona o personagem a agir. Elas indicam não apenas para onde ele está indo, mas também por que ele escolheu esse caminho e o que o mantém avançando, mesmo diante de dificuldades.
 
-Diferente de outros aspectos do antecedente, as motivações estão voltadas para o presente e o futuro. Elas dizem respeito aos objetivos que o personagem busca alcançar e às razões que sustentam essas ambições. Em outras palavras, são aquilo que dá direção às suas escolhas e sentido às suas ações.
+As motivações estão voltadas para o presente e o futuro. Elas dizem respeito aos objetivos que o personagem busca alcançar e às razões que sustentam essas ambições. Em outras palavras, são aquilo que dá direção às suas escolhas e sentido às suas ações.
 
 Toda motivação nasce de algum lugar. Ela pode ser resultado de experiências passadas, de vínculos importantes ou de crenças pessoais. Independentemente de sua origem, é importante que exista uma coerência entre o que o personagem deseja e o que ele viveu até aqui.
 
@@ -320,16 +320,16 @@ Pense neste antecedente como uma fonte de tensão. São essas limitações que t
 
 Cada aflição adiciona um nível de dificuldade extra a determinadas situações. Dessa forma, seu personagem irá realizar um [[Teste de Rolagem|Teste de Rolagem em Aflição]] caso o respectivo teste envolva a mesma.
 
-| Aflição     | Descrição                                                                 | Requisitos                                                                 | Quando pode ser ativada                                                                 |
-|------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Fobia      | Medo intenso e debilitante diante de algo específico.                   | Definir a fonte da fobia (criatura, ambiente, situação, etc.).            | Quando o personagem se depara diretamente com a fonte da fobia ou algo que a represente claramente. |
-| Vício      | Dependência física ou psicológica de substância ou hábito.              | Definir o objeto do vício e sua frequência de consumo.                    | Quando o personagem está em abstinência ou em situação onde não pode satisfazer o vício. |
-| Juramento  | Compromisso rígido que limita ações do personagem.                      | Listar claramente ações proibidas pelo juramento ou código de honra.      | Quando uma situação exige diretamente que o personagem viole seu juramento para ter sucesso. |
-| Trauma     | Marca psicológica causada por evento passado.                           | Definir o evento traumático e seus gatilhos específicos.                  | Quando a situação remete diretamente ao evento ou ativa um dos gatilhos definidos. |
-| Deficiência| Limitação física permanente que reduz capacidades.                      | Escolher uma condição (ex: cegueira, surdez, amputação).                  | Quando a limitação impacta diretamente a ação realizada ou o ambiente exige sua superação. |
-| Apego      | Dependência emocional de pessoa ou objeto específico.                   | Definir a pessoa ou objeto ao qual o personagem é apegado.                | Quando o alvo do apego está em risco, ausente ou inacessível. |
-| Segredo    | Informação que o personagem precisa esconder a qualquer custo.          | Definir o segredo e suas possíveis consequências se revelado.             | Quando há risco real de descoberta, investigação direta ou exposição iminente. |
-| Estigma    | Marca social que gera rejeição ou preconceito.                          | Definir a natureza do estigma e os grupos que o reconhecem.               | Quando o personagem interage com indivíduos ou grupos que reconhecem ou reagem ao estigma. |
+| Aflição             | Descrição                                                      | Requisitos                                                           | Quando pode ser ativada                                                                             |
+| ------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **1 - Fobia**       | Medo intenso e debilitante diante de algo específico.          | Definir a fonte da fobia (criatura, ambiente, situação, etc.).       | Quando o personagem se depara diretamente com a fonte da fobia ou algo que a represente claramente. |
+| **2 - Vício**       | Dependência física ou psicológica de substância ou hábito.     | Definir o objeto do vício e sua frequência de consumo.               | Quando o personagem está em abstinência ou em situação onde não pode satisfazer o vício.            |
+| **3 - Juramento**   | Compromisso rígido que limita ações do personagem.             | Listar claramente ações proibidas pelo juramento ou código de honra. | Quando uma situação exige diretamente que o personagem viole seu juramento para ter sucesso.        |
+| **4 - Trauma**      | Marca psicológica causada por evento passado.                  | Definir o evento traumático e seus gatilhos específicos.             | Quando a situação remete diretamente ao evento ou ativa um dos gatilhos definidos.                  |
+| **5 - Deficiência** | Limitação física permanente que reduz capacidades.             | Escolher uma condição (ex: cegueira, surdez, amputação).             | Quando a limitação impacta diretamente a ação realizada ou o ambiente exige sua superação.          |
+| **6 - Apego**       | Dependência emocional de pessoa ou objeto específico.          | Definir a pessoa ou objeto ao qual o personagem é apegado.           | Quando o alvo do apego está em risco, ausente ou inacessível.                                       |
+| **7 - Segredo**     | Informação que o personagem precisa esconder a qualquer custo. | Definir o segredo e suas possíveis consequências se revelado.        | Quando há risco real de descoberta, investigação direta ou exposição iminente.                      |
+| **8 - Estigma**     | Marca social que gera rejeição ou preconceito.                 | Definir a natureza do estigma e os grupos que o reconhecem.          | Quando o personagem interage com indivíduos ou grupos que reconhecem ou reagem ao estigma.          |
 
 > [[Tabela de Aflições]]
 
@@ -341,13 +341,9 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 > [!info] Caso o personagem supere essa CD aumentada:
 > - Ele recebe um [[Bônus Motivacional]] por **2d4 [[Teste de Rolagem|Testes de Rolagem]]**.
 
+# Conclusão
+
+Ao final deste capítulo, seu personagem agora deixa de ser apenas um conjunto de ideias soltas e passa a existir como alguém inserido no mundo — com [[#Identidade]], [[#Aparência]], [[#Histórico]], [[#Ofícios|Ofício]], [[#Economia]], [[#Motivações]] e [[#Aflições]] que o tornam único. Esses elementos formam a base narrativa sobre a qual todas as suas decisões serão construídas ao longo da campanha. No entanto, essa é apenas parte do caminho. No próximo capítulo, avançaremos para além da história e conheceremos os [[Capítulo 2 Atributos Vitais e Arquétipos|Atributos Vitais]].
 
 ***
-# To-do
-
-- [x] Histórico
-- [x] Ofícios
-- [x] Economia
-- [x] Vínculos
-- [x] Motivações
-- [x] Conflitos
+**Próximo Capítulo: [[Capítulo 2 Atributos Vitais e Arquétipos]]**
