@@ -241,8 +241,29 @@ Pense neste antecedente como um conjunto de âncoras narrativas. Cada vínculo r
 
 # Motivações
 
+> [!faq] Perguntas Fundamentais
+> 
+> **Q1 -** Quais são os objetivos atuais do seu personagem?</br>
+> **Q2 -** Qual ou quais motivos levaram seu personagem à almejar esses objetivos?</br>
+> **Q3** - Do que seu personagem abriria mão para conquistar esses objetivos? Para ser mais claro: **o que ele está disposto a sacrificar?**</br>
 
+As [[#Motivações]] representam a força que impulsiona o personagem a agir. Elas indicam não apenas para onde ele está indo, mas também por que ele escolheu esse caminho e o que o mantém avançando, mesmo diante de dificuldades.
 
+Diferente de outros aspectos do antecedente, as motivações estão voltadas para o presente e o futuro. Elas dizem respeito aos objetivos que o personagem busca alcançar e às razões que sustentam essas ambições. Em outras palavras, são aquilo que dá direção às suas escolhas e sentido às suas ações.
+
+Toda motivação nasce de algum lugar. Ela pode ser resultado de experiências passadas, de vínculos importantes ou de crenças pessoais. Independentemente de sua origem, é importante que exista uma coerência entre o que o personagem deseja e o que ele viveu até aqui.
+
+Além disso, objetivos só ganham peso quando existe algo em jogo. Por isso, definir o que o personagem está disposto a sacrificar é tão importante quanto definir o que ele deseja. São essas escolhas que revelam a intensidade de sua determinação e ajudam a construir conflitos significativos ao longo da história.
+
+Pense neste antecedente como o motor do personagem. É a partir das motivações que suas decisões se tornam compreensíveis e sua jornada passa a ter direção.
+
+> [!example] Exemplo
+> 
+> **Darian Holt** busca recuperar um antigo artefato que pertenceu à sua família e foi perdido durante a queda de sua casa. Mais do que um objeto de valor, ele acredita que o artefato é a última prova de que seu nome ainda possui algum significado no mundo.
+> 
+> Sua motivação nasce do orgulho e da ruína. Criado entre privilégios, Darian viu tudo o que conhecia desaparecer em questão de dias, forçando-o a sobreviver como alguém comum. Desde então, sua busca não é apenas pelo artefato, mas pela chance de restaurar aquilo que acredita ter sido injustamente tomado.
+> 
+> Para alcançar esse objetivo, Darian abriu mão de conforto, status e da pouca segurança que conseguiu reconstruir. Ele se envolve em negociações perigosas e alianças instáveis, muitas vezes ignorando riscos evidentes. Ainda assim, sua determinação o leva a um dilema constante: quanto mais se aproxima do artefato, mais precisa decidir se está tentando recuperar seu legado — ou se recusa a aceitar que ele já se perdeu.
 ***
 # To-do
 
@@ -250,5 +271,5 @@ Pense neste antecedente como um conjunto de âncoras narrativas. Cada vínculo r
 - [x] Ofícios
 - [x] Economia
 - [x] Vínculos
-- [ ] Motivações
+- [x] Motivações
 - [ ] Conflitos
