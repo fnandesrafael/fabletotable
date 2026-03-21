@@ -265,6 +265,35 @@ Pense neste antecedente como o motor do personagem. É a partir das motivações
 > 
 > Para alcançar esse objetivo, Darian abriu mão de conforto, status e da pouca segurança que conseguiu reconstruir. Ele se envolve em negociações perigosas e alianças instáveis, muitas vezes ignorando riscos evidentes. Ainda assim, sua determinação o leva a um dilema constante: quanto mais se aproxima do artefato, mais precisa decidir se está tentando recuperar seu legado — ou se recusa a aceitar que ele já se perdeu.
 ***
+
+## Jogabilidade
+
+As [[#Motivações]] também possuem um papel mecânico. Quando um personagem age diretamente em alinhamento com sua motivação — especialmente em momentos de risco, tensão ou decisão importante — ele pode ativar um [[Bônus Motivacional]].
+
+Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma delas. Você pode escolher no máximo uma motivação, embora ao longo da campanha você possa trocar de motivação caso o desenvolvimento do seu personagem o leve à isso.
+
+| Motivação              | Descrição                                                                                                                                                                                           | Quando pode ser ativada                                                                                                                                                    |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 - Reconhecimento** | Busca por validação e prestígio. Internamente, o personagem precisa ser visto e reconhecido; fisicamente, se esforça para se destacar em momentos decisivos; socialmente, busca aprovação e status. | Quando o personagem está sob observação direta de uma audiência relevante ou em uma situação onde sua reputação está sendo julgada ou pode ser significativamente afetada. |
+| **2 - Adrenalina**     | Desejo por intensidade e risco. Internamente, o personagem se sente vivo em situações extremas; fisicamente, se lança em ações perigosas; socialmente, tende a assumir riscos diante de outros.     | Quando o personagem está em uma situação de perigo imediato com risco real de dano grave, falha crítica ou consequências severas.                                          |
+| **3 - Ambição**        | Desejo de conquistar algo maior. Internamente, é guiado por metas claras; fisicamente, age para alcançá-las; socialmente, disputa espaço, poder ou recursos.                                        | Quando surge uma oportunidade concreta e imediata de avanço significativo em direção a um objetivo central do personagem.                                                  |
+| **4 - Dever**          | Compromisso com pessoas, causas ou responsabilidades. Internamente, sente obrigação moral; fisicamente, age para proteger ou cumprir; socialmente, assume papéis de responsabilidade.               | Quando alguém, grupo ou responsabilidade direta do personagem está em risco claro, imediato ou prestes a sofrer consequências.                                             |
+| **5 - Patriotismo**    | Lealdade a um povo, nação ou causa maior. Internamente, acredita em algo coletivo; fisicamente, luta por isso; socialmente, representa e defende esse grupo.                                        | Quando indivíduos, símbolos ou interesses do grupo ao qual o personagem é leal estão sob ameaça direta ou sendo desafiados.                                                |
+| **6 - Excentricidade** | Afirmação da própria identidade e valor. Internamente, o personagem se vê como único ou superior; fisicamente, age para provar isso; socialmente, busca destaque ou ruptura de padrões.             | Quando há uma audiência, rival ou situação onde o personagem pode ser comparado, desafiado ou reconhecido publicamente.                                                    |
+| **7 - Revolução**      | Desejo de romper estruturas e transformar o mundo. Internamente, rejeita o status quo; fisicamente, confronta sistemas ou autoridades; socialmente, inspira mudança ou questiona normas.            | Quando o personagem se depara com uma estrutura opressiva, autoridade dominante ou limitação clara que pode ser desafiada, subvertida ou transformada.                     |
+| **8 - Liberdade**      | Necessidade de autonomia e rejeição a limitações. Internamente, teme ser controlado; fisicamente, resiste a contenção; socialmente, evita obrigações que o aprisionem.                              | Quando o personagem está sob risco de restrição direta de sua liberdade, como captura, coerção, controle ou perda de autonomia.                                            |
+> [[Tabela de Motivações]]
+
+> [!info] Regras de Uso
+> Ao ativar sua motivação:
+> 
+> - Durante **1d6 rodadas**, o personagem passa a **somar os dois maiores resultados** obtidos em qualquer teste que realizar.
+> 
+> - A ativação deve ser coerente com a situação narrativa e com a natureza da motivação escolhida.
+> 
+> - O [[Mestre]] tem a palavra final sobre quando a ativação é válida.
+> 
+> - Uma motivação não deve ser ativada em situações triviais. Ela representa momentos em que o personagem está verdadeiramente investido, emocional ou ideologicamente, naquilo que está fazendo.
 # To-do
 
 - [x] Histórico
