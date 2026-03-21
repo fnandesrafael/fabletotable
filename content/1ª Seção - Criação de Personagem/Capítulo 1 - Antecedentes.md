@@ -259,14 +259,16 @@ Pense neste antecedente como o motor do personagem. É a partir das motivações
 
 > [!example] Exemplo
 > 
-> **Darian Holt** busca recuperar um antigo artefato que pertenceu à sua família e foi perdido durante a queda de sua casa. Mais do que um objeto de valor, ele acredita que o artefato é a última prova de que seu nome ainda possui algum significado no mundo.
+> **Darian Holt** é movido por **Ambição**. Seu objetivo é recuperar o artefato perdido de sua família e restaurar seu nome.
 > 
-> Sua motivação nasce do orgulho e da ruína. Criado entre privilégios, Darian viu tudo o que conhecia desaparecer em questão de dias, forçando-o a sobreviver como alguém comum. Desde então, sua busca não é apenas pelo artefato, mas pela chance de restaurar aquilo que acredita ter sido injustamente tomado.
+> Durante uma negociação tensa com um colecionador que possui informações sobre o paradeiro do item, Darian percebe que aquela é uma oportunidade única. O risco é alto — qualquer erro pode encerrar a conversa ou colocá-lo em perigo — mas o avanço em direção ao seu objetivo é claro.
 > 
-> Para alcançar esse objetivo, Darian abriu mão de conforto, status e da pouca segurança que conseguiu reconstruir. Ele se envolve em negociações perigosas e alianças instáveis, muitas vezes ignorando riscos evidentes. Ainda assim, sua determinação o leva a um dilema constante: quanto mais se aproxima do artefato, mais precisa decidir se está tentando recuperar seu legado — ou se recusa a aceitar que ele já se perdeu.
+> Nesse momento, ele ativa sua motivação. Durante as próximas rodadas, sua determinação se intensifica, e ele passa a extrair o máximo de cada ação, somando os dois maiores resultados em seus testes enquanto pressiona a negociação a seu favor.
+> 
+> Ainda que obtenha sucesso, o uso dessa motivação deixa claro o quanto ele está disposto a arriscar — e até onde pode ir — para alcançar aquilo que deseja.
 ***
 
-## Jogabilidade
+## Jogabilidade das Motivações
 
 As [[#Motivações]] também possuem um papel mecânico. Quando um personagem age diretamente em alinhamento com sua motivação — especialmente em momentos de risco, tensão ou decisão importante — ele pode ativar um [[Bônus Motivacional]].
 
@@ -287,13 +289,60 @@ Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma 
 > [!info] Regras de Uso
 > Ao ativar sua motivação:
 > 
-> - Durante **1d6 rodadas**, o personagem passa a **somar os dois maiores resultados** obtidos em qualquer teste que realizar.
+> - Durante **1d6 rodadas**, o personagem passa a **somar os dois maiores resultados** obtidos em qualquer [[Teste de Rolagem]] que realizar.
 > 
-> - A ativação deve ser coerente com a situação narrativa e com a natureza da motivação escolhida.
+> - A ativação deve ser **coerente** com a situação narrativa e com a natureza da motivação escolhida.
 > 
 > - O [[Mestre]] tem a palavra final sobre quando a ativação é válida.
 > 
 > - Uma motivação não deve ser ativada em situações triviais. Ela representa momentos em que o personagem está verdadeiramente investido, emocional ou ideologicamente, naquilo que está fazendo.
+
+# Aflições
+
+> [!faq] Perguntas Fundamentais
+> 
+> **Q1 —** Quais são as maiores fraquezas ou limitações do seu personagem?</br>  
+> **Q2 —** De onde essas aflições surgiram?</br>  
+> **Q3 —** Em quais situações essas aflições tendem a se manifestar?</br>  
+> **Q4 —** O que o seu personagem arrisca ao ceder a essas aflições?</br>
+
+As [[#Aflições]] representam os aspectos que dificultam a vida do personagem. Elas podem ser limitações físicas, conflitos internos, traumas, vícios ou qualquer característica que o coloque em desvantagem em determinadas situações.
+
+Diferente de outros elementos dos [[Capítulo 1 - Antecedentes|Antecedentes]], as aflições não existem para fortalecer o personagem — pelo contrário, elas criam obstáculos. No entanto, é justamente através desses obstáculos que surgem os momentos mais marcantes da narrativa.
+
+Uma aflição não é apenas uma fraqueza mecânica. Ela deve ter impacto real na forma como o personagem age, reage e toma decisões. Em muitos casos, ela representa algo que o personagem tenta evitar, esconder ou superar.
+
+Pense neste antecedente como uma fonte de tensão. São essas limitações que tornam o personagem mais humano, imprevisível e interessante.
+
+## Jogabilidade das Aflições
+
+[[#Aflições]] **são opcionais, mas oferecem uma vantagem significativa** para aqueles que escolhem assumi-las.
+
+Cada aflição adiciona um nível de dificuldade extra a determinadas situações. Dessa forma, seu personagem irá realizar um [[Teste de Rolagem|Teste de Rolagem em Aflição]] caso o respectivo teste envolva a mesma.
+
+| Aflição     | Descrição                                                                 | Requisitos                                                                 | Quando pode ser ativada                                                                 |
+|------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Fobia      | Medo intenso e debilitante diante de algo específico.                   | Definir a fonte da fobia (criatura, ambiente, situação, etc.).            | Quando o personagem se depara diretamente com a fonte da fobia ou algo que a represente claramente. |
+| Vício      | Dependência física ou psicológica de substância ou hábito.              | Definir o objeto do vício e sua frequência de consumo.                    | Quando o personagem está em abstinência ou em situação onde não pode satisfazer o vício. |
+| Juramento  | Compromisso rígido que limita ações do personagem.                      | Listar claramente ações proibidas pelo juramento ou código de honra.      | Quando uma situação exige diretamente que o personagem viole seu juramento para ter sucesso. |
+| Trauma     | Marca psicológica causada por evento passado.                           | Definir o evento traumático e seus gatilhos específicos.                  | Quando a situação remete diretamente ao evento ou ativa um dos gatilhos definidos. |
+| Deficiência| Limitação física permanente que reduz capacidades.                      | Escolher uma condição (ex: cegueira, surdez, amputação).                  | Quando a limitação impacta diretamente a ação realizada ou o ambiente exige sua superação. |
+| Apego      | Dependência emocional de pessoa ou objeto específico.                   | Definir a pessoa ou objeto ao qual o personagem é apegado.                | Quando o alvo do apego está em risco, ausente ou inacessível. |
+| Segredo    | Informação que o personagem precisa esconder a qualquer custo.          | Definir o segredo e suas possíveis consequências se revelado.             | Quando há risco real de descoberta, investigação direta ou exposição iminente. |
+| Estigma    | Marca social que gera rejeição ou preconceito.                          | Definir a natureza do estigma e os grupos que o reconhecem.               | Quando o personagem interage com indivíduos ou grupos que reconhecem ou reagem ao estigma. |
+
+> [[Tabela de Aflições]]
+
+> [!info] Dessa forma:
+> - A **[[Classe de Dificuldade|CD]] do teste aumenta** segundo a [[Tabela de Aflições]]
+> - Esse aumento se aplica apenas ao personagem afetado.
+> - A situação deve estar diretamente relacionada à natureza da aflição.
+
+> [!info] Caso o personagem supere essa CD aumentada:
+> - Ele recebe um [[Bônus Motivacional]] por **2d4 [[Teste de Rolagem|Testes de Rolagem]]**.
+
+
+***
 # To-do
 
 - [x] Histórico
