@@ -350,4 +350,4 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 - [x] Economia
 - [x] Vínculos
 - [x] Motivações
-- [ ] Conflitos
+- [x] Conflitos
