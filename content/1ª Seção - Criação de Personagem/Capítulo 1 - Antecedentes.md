@@ -11,11 +11,11 @@ Para isso, utilize as descrições de cada [[Antecedentes|Antecedente]] para com
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 -** Qual o nome do seu personagem (nome e sobrenome)?
+> **Q1 —** Qual o nome do seu personagem (nome e sobrenome)?
 > </br>
-> **Q2 -** Existe algum apelido ou alcunha pelo qual ele é conhecido? Se sim qual?
+> **Q2 —** Existe algum apelido ou alcunha pelo qual ele é conhecido? Se sim qual?
 > </br>
-> **Q3** - O nome e/ou apelido do seu personagem tem algum significado ou origem?
+> **Q3 —** O nome e/ou apelido do seu personagem tem algum significado ou origem?
 
 Desenvolver a [[#Identidade]] do seu personagem pode parecer a parte mais simples de sua criação, mas ela é apenas o primeiro elemento que define como ele será conhecido no mundo. Em outras palavras, é o nome do seu personagem.
 
@@ -35,10 +35,10 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 -** Como é a aparência física do seu personagem (altura, porte físico, cores de cabelo, olhos ou pele)?</br>
-> **Q2 -** Quais são suas características físicas mais marcantes (marcas, cicatrizes, próteses ou traços incomuns)?</br>
-> **Q3 -** Como seu personagem costuma se vestir ou se apresentar?</br>
-> **Q4 -** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
+> **Q1 —** Como é a aparência física do seu personagem (altura, porte físico, cores de cabelo, olhos ou pele)?</br>
+> **Q2 —** Quais são suas características físicas mais marcantes (marcas, cicatrizes, próteses ou traços incomuns)?</br>
+> **Q3 —** Como seu personagem costuma se vestir ou se apresentar?</br>
+> **Q4 —** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
 
 A [[#Aparência]] do seu personagem define como ele é percebido à primeira vista. Antes mesmo de ouvir seu nome ou conhecer sua história, as pessoas formam primeiras impressões a partir de seu visual; da forma como você se veste, se porta e se comunica.
 
@@ -215,10 +215,10 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 -** Quem são as pessoas mais importantes para o seu personagem?</br>
-> **Q2 -** A quais grupos, organizações ou comunidades ele está ligado?</br>
-> **Q3** - Quais lugares, objetos, datas e/ou eventos possuem valor significativo para ele?</br>
-> **Q4 - O que o seu personagem mais teme perder? Em outras palavras, qual é o fim que ele faria de tudo para evitar?**
+> **Q1 —** Quem são as pessoas mais importantes para o seu personagem?</br>
+> **Q2 —** A quais grupos, organizações ou comunidades ele está ligado?</br>
+> **Q3 —** Quais lugares, objetos, datas e/ou eventos possuem valor significativo para ele?</br>
+> **Q4 — O que o seu personagem mais teme perder? Em outras palavras, qual é o fim que ele faria de tudo para evitar?**
 
 
 Os [[#Vínculos]] representam as conexões que ligam o personagem ao mundo ao seu redor. Eles dizem respeito às pessoas, lugares, grupos e elementos que possuem algum valor em sua vida, funcionando como pontos de referência emocional, social ou até mesmo moral.
@@ -243,9 +243,9 @@ Pense neste antecedente como um conjunto de âncoras narrativas. Cada vínculo r
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 -** Quais são os objetivos atuais do seu personagem?</br>
-> **Q2 -** Qual ou quais motivos levaram seu personagem à almejar esses objetivos?</br>
-> **Q3** - Do que seu personagem abriria mão para conquistar esses objetivos? Para ser mais claro: **o que ele está disposto a sacrificar?**</br>
+> **Q1 —** Quais são os objetivos atuais do seu personagem?</br>
+> **Q2 —** Qual ou quais motivos levaram seu personagem à almejar esses objetivos?</br>
+> **Q3 —** Do que seu personagem abriria mão para conquistar esses objetivos? Para ser mais claro: **o que ele está disposto a sacrificar?**</br>
 
 As [[#Motivações]] representam a força que impulsiona o personagem a agir. Elas indicam não apenas para onde ele está indo, mas também por que ele escolheu esse caminho e o que o mantém avançando, mesmo diante de dificuldades.
 
@@ -301,9 +301,9 @@ Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma 
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 —** Quais são as maiores fraquezas ou limitações do seu personagem?</br>  
-> **Q2 —** De onde essas aflições surgiram?</br>  
-> **Q3 —** Em quais situações essas aflições tendem a se manifestar?</br>  
+> **Q1 —** Quais são as maiores fraquezas ou limitações do seu personagem?</br>
+> **Q2 —** De onde essas aflições surgiram?</br>
+> **Q3 —** Em quais situações essas aflições tendem a se manifestar?</br>
 > **Q4 —** O que o seu personagem arrisca ao ceder a essas aflições?</br>
 
 As [[#Aflições]] representam os aspectos que dificultam a vida do personagem. Elas podem ser limitações físicas, conflitos internos, traumas, vícios ou qualquer característica que o coloque em desvantagem em determinadas situações.
