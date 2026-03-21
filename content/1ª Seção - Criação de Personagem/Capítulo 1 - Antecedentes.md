@@ -58,7 +58,7 @@ Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, 
 > **Q2 —** Quais foram os eventos mais marcantes na história do seu personagem e como eles influenciaram em quem ele se tornou?</br>
 > **Q3 —** O que levou seu personagem até o momento atual da história (definido pelo Mestre)?
 
-O [[#Histórico]] do seu personagem reúne os acontecimentos que marcaram sua vida até o início da campanha. Diferente de uma biografia completa, ele não precisa descrever cada detalhe da trajetória do personagem, mas sim destacar os momentos que tiveram maior impacto em sua formação.
+O [[#Histórico]] do seu personagem reúne os acontecimentos que marcaram sua vida até o início da [[Campanha]]. Diferente de uma biografia completa, ele não precisa descrever cada detalhe da trajetória do personagem, mas sim destacar os momentos que tiveram maior impacto em sua formação.
 
 Esses eventos podem incluir sua criação, experiências marcantes, perdas, conquistas ou qualquer situação que tenha influenciado suas escolhas e moldado sua visão de mundo. Em vez de tentar registrar toda a sua vida, concentre-se apenas nos acontecimentos mais importantes.
 
@@ -86,10 +86,10 @@ A quantidade de redução depende do **Nível do Personagem (NP)**, que ao longo
 
 | Nível do Personagem (NP) | Redução na Classe de Dificuldade (CD) |
 | ------------------------ | ------------------------------------- |
-| NP 1–5                   | **-5**                                |
-| NP 6–10                  | **-10**                               |
-| NP 11–15                 | **-15**                               |
-| NP 16–20                 | **-20**                               |
+| NP 1–5                   | **1 Grau**                            |
+| NP 6–10                  | **2 Graus**                           |
+| NP 11–15                 | **3 Graus**                           |
+| NP 16–20                 | **4 Graus**                           |
 > [[Tabela de Bônus de Ofício]]
 
 ## Artista
@@ -98,7 +98,7 @@ Artistas são indivíduos dedicados à expressão estética, emocional ou simbó
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Subjetividade / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
+> Seu personagem receberá de **1** à **4** graus de redução** na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Subjetividade / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
 
 ## Artífice
 
@@ -106,7 +106,7 @@ Artífices são criadores e manipuladores de objetos, máquinas e mecanismos. Po
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Lógica / Contato / Manipulação / Precisão**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Lógica / Contato / Manipulação / Precisão**.
 
 ## Atleta
 
@@ -114,7 +114,7 @@ Atletas dedicam suas vidas ao desenvolvimento físico e ao domínio do próprio 
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Vitalidade / Condicionamento / Mobilidade / Carisma**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Vitalidade / Condicionamento / Mobilidade / Carisma**.
 
 ## Acadêmico
 
@@ -122,7 +122,7 @@ Acadêmicos dedicam suas vidas ao estudo, à pesquisa e à busca por conheciment
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Observação / Evocação / Linguística**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Observação / Evocação / Linguística**.
 
 ## Comerciante
 
@@ -132,7 +132,7 @@ Personagens com esse Ofício estão acostumados a negociar, persuadir e avaliar 
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma / Empatia / Retórica / Estratégia**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma / Empatia / Retórica / Estratégia**.
 
 ## Criminoso
 
@@ -140,7 +140,7 @@ Criminosos vivem à margem da lei e desenvolveram habilidades voltadas à sobrev
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Reflexo / Mobilidade / Perspectiva / Presença ou Carisma**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Reflexo / Mobilidade / Perspectiva / Presença ou Carisma**.
 
 ## Figura Pública
 
@@ -148,7 +148,7 @@ Figuras públicas são indivíduos cuja reputação e influência dependem da vi
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma / Estratégia ou Moral / Retórica / Expressividade**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Carisma / Estratégia ou Moral / Retórica / Expressividade**.
 
 ## Investigador
 
@@ -156,7 +156,7 @@ Investigadores são especialistas em reunir informações, interpretar pistas e 
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Lógica / Retórica / Perspectiva / Criatividade**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Lógica / Retórica / Perspectiva / Criatividade**.
 
 ## Medicante
 
@@ -164,7 +164,7 @@ Medicantes dedicam suas vidas ao cuidado e à preservação da vida. Podem ser m
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Intuição / Empatia / Precisão**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Intuição / Empatia / Precisão**.
 
 ## Militar
 
@@ -172,7 +172,7 @@ Militares são treinados para atuar em conflitos armados e situações de comand
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Moral / Estratégia / Tolerância / Primalidade**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Moral / Estratégia / Tolerância / Primalidade**.
 
 ## Operário
 
@@ -180,7 +180,7 @@ Operários são trabalhadores que lidam diariamente com esforço físico, ferram
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Intuição / Empatia**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Intuição / Empatia**.
 
 ## Pária
 
@@ -192,7 +192,7 @@ Seja por escolha ou necessidade, párias vivem guiados por seus próprios códig
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **5** à **20** pontos de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Intuição**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Intuição**.
 
 
 # Economia
@@ -272,7 +272,7 @@ Pense neste antecedente como o motor do personagem. É a partir das motivações
 
 As [[#Motivações]] também possuem um papel mecânico. Quando um personagem age diretamente em alinhamento com sua motivação — especialmente em momentos de risco, tensão ou decisão importante — ele pode ativar um [[Bônus Motivacional]].
 
-Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma delas. Você pode escolher no máximo uma motivação, embora ao longo da campanha você possa trocar de motivação caso o desenvolvimento do seu personagem o leve à isso.
+Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma delas. Você pode escolher no máximo uma motivação, embora ao longo da [[Campanha]] você possa trocar de motivação caso o desenvolvimento do seu personagem o leve à isso.
 
 | Motivação              | Descrição                                                                                                                                                                                           | Quando pode ser ativada                                                                                                                                                    |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -345,7 +345,7 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 
 # Conclusão
 
-Ao final deste capítulo, seu personagem agora deixa de ser apenas um conjunto de ideias soltas e passa a existir como alguém inserido no mundo — com [[#Identidade]], [[#Aparência]], [[#Histórico]], [[#Ofícios|Ofício]], [[#Economia]], [[#Motivações]] e [[#Aflições]] que o tornam único. Esses elementos formam a base narrativa sobre a qual todas as suas decisões serão construídas ao longo da campanha. No entanto, essa é apenas parte do caminho. No próximo capítulo, avançaremos para além da história e conheceremos os [[Capítulo 2 Atributos Vitais e Arquétipos|Atributos Vitais]].
+Ao final deste capítulo, seu personagem agora deixa de ser apenas um conjunto de ideias soltas e passa a existir como alguém inserido no mundo — com [[#Identidade]], [[#Aparência]], [[#Histórico]], [[#Ofícios|Ofício]], [[#Economia]], [[#Motivações]] e [[#Aflições]] que o tornam único. Esses elementos formam a base narrativa sobre a qual todas as suas decisões serão construídas ao longo da [[Campanha]]. No entanto, essa é apenas parte do caminho. No próximo capítulo, avançaremos para além da história e conheceremos os [[Capítulo 2 Atributos Vitais e Arquétipos|Atributos Vitais]].
 
 ***
 **Próximo Capítulo: [[Capítulo 2 - Atributos Vitais]]**
