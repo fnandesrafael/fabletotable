@@ -12,7 +12,7 @@
 > 
 > **Lucas:** Verdade! Então o resultado é 18, certo?
 > 
-> **Mestre:** Isso mesmo, isso quer dizer que seu personagem consegue passar correndo pela mata densa sem ser ferido pelos galhos secos espinhosos.
+> **Mestre:** Isso mesmo, isso quer dizer que seu personagem consegue passar correndo pela mata densa sem ser ferido pelos galhos secos e espinhosos.
 
 > Para personagens que rolem **mais que 1d20 com atributo positivo**, o [[Bônus Motivacional]] será dado pela **soma dos dois maiores dados**.
 > 
