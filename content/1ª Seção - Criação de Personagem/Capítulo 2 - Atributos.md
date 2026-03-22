@@ -27,7 +27,7 @@ O [[Nível de Personagem]] representa o grau de evolução geral de um personage
 > [[Tabela de Aprimoramentos por NP]]
 
 
-Tanto os [[Pontos de Atributo]] adquiridos ao longo da progressão, são de livre distribuição do jogador. O [[Bônus de Proficiência]] deve seguir as diretrizes de cada [[Personalidade]] e [[Postura]] descritas no [[Capítulo 4 - Arquétipos]].
+Os [[Pontos de Atributo]] adquiridos ao longo da progressão, são de livre distribuição do jogador. O [[Bônus de Proficiência]] deve seguir as diretrizes de cada [[Personalidade]] e [[Postura]] descritas no [[Capítulo 4 - Arquétipos]].
 
 Mas além disso, independente dos atributos e perícias que seu personagem se especializar, o tempo e a experiência de um personagem dizem muito sobre sua evolução. Por isso existe um bônus fixo aplicado à todo [[Teste de Rolagem|Testes de Rolagem]] com [[Perícias]] que é o chamado [[Bônus de Experiência (BExp)]].
 
@@ -165,8 +165,6 @@ A graduação de um atributo segue essa escala, pois **o valor de um atributo re
 
 Isso quer dizer que quanto maior for o valor do seu atributo, maior a probabilidade de você conseguir atingir valores mais altos nas rolagens. Veja a distribuição percentual da probabilidade de se obter 20 no resultado de um teste:
 
-### [[Tabela de Probabilidade]]
-
 | Atributo | Resultado Final | Fórmula usada     | Probabilidade de Conseguir 20 no Teste de Rolagem (%) |
 | -------- | --------------- | ----------------- | ----------------------------------------------------- |
 | -5       | < Valor         | P = (1/20)^5      | 0,00003125%                                           |
@@ -178,6 +176,7 @@ Isso quer dizer que quanto maior for o valor do seu atributo, maior a probabilid
 | +3       | > Valor         | P = 1 - (19/20)^3 | 14,26%                                                |
 | +4       | > Valor         | P = 1 - (19/20)^4 | 18,55%                                                |
 | +5       | > Valor         | P = 1 - (19/20)^5 | 22,62%                                                |
+> [[Tabela de Probabilidade]]
 
 
 Inicialmente todos os seus atributos serão considerados como **-5**. E cada graduação custa **1 [[Pontos de Atributo]]**. Portanto **para que você eleve um atributo para +5 será necessário gastar 8  dos seus 20 pontos iniciais**.
