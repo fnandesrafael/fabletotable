@@ -113,11 +113,11 @@ Inicialmente todos os seus atributos serão considerados como **-5**. E cada gra
 > 
 > **Mestre:** É uma boa linha de raciocínio! Distribuir os atributos pensando em como você pretende jogar — ou seja — tendo em vista as perícias. Mas você já tem uma ideia de quantos pontos vão ser pra cada um?
 > 
-> **Luan:** Então, como eu tenho **20 pontos**, acho que pra começar eu quero deixar meus atributos assim: MOT +3, PER +3 e SEN +2. Então isso quer dizer que eu gastei... **17 pontos**?
+> **Luan:** Então, como eu tenho **20 pontos**, acho que pra começar eu quero deixar meus atributos assim: **MOT +3**, **PER +3** e **SEN +2**. Então isso quer dizer que eu gastei... **17 pontos**?
 > 
-> **Mestre:** Isso, foram **6 pontos** em MOT e PER e **5 pontos** em SEN. Você ainda tem **3 pontos**. Quer alocar nas outras três perícias restantes?
+> **Mestre:** Isso, foram **6 pontos** em MOT e PER cada e **5 pontos** em SEN. Você ainda tem **3 pontos**. Quer alocar nas outras três perícias restantes?
 > 
-> **Luan:** Na verdade pode ser isso mesmo. Então vou ter [[#Constituição (CON)]], [[#Cognição (COG)]] e [[#Psicologia (PSI)]] -4?
+> **Luan:** Na verdade pode ser isso mesmo. Então vou ter [[#Constituição (CON)]], [[#Cognição (COG)]] e [[#Psicologia (PSI)]] **-4**?
 > 
 > **Mestre:** Perfeito.
 > 
