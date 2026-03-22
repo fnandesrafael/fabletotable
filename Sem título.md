@@ -1,9 +1,9 @@
 # To-do
 
-- [ ] Atributos Base
+- [x] Atributos Base
 	- [x] Mentais
 	- [x] Corporais
-	- [ ] Jogabilidade
+	- [x] Jogabilidade
 - [ ] Perícias
 - [ ] Atributos Vitais
 	- [ ] Altura, Peso e Tamanho
