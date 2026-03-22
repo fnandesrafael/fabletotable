@@ -6,7 +6,7 @@ Este capítulo foi feito para que você compreenda o que são os atributos e as 
 
 # Atributos Vitais
 
-lorem ipsum
+No sistema de _Sangue e Aço_, os [[#Atributos Vitais]] representam aspectos concretos e mensuráveis do personagem, ligados à sua existência física, condição e progressão dentro do mundo do jogo. Diferente dos [[#Atributos Base]], que medem capacidades, e das [[Perícias]], que traduzem habilidades práticas em ações, os atributos vitais descrevem **valores tangíveis que caracterizam sinais vitais, tamanho e experiência do personagem**. Eles fornecem parâmetros objetivos como vida, estamina, experiência e dimensões físicas, sendo essenciais para acompanhar a integridade do personagem.
 
 ## Nível de Personagem (NP)
 
