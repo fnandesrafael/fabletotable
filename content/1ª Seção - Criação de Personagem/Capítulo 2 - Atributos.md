@@ -74,6 +74,8 @@ Os **Fatores de Tamanho** obtidos pelas faixas de altura e peso escolhidas delib
 
 ## Pontos de Sangue (PS)
 
+Os **Pontos de Sangue (PS)** representam a **saúde do personagem** em _Sangue e Aço_. Eles medem quão íntegro e saudável o corpo do personagem se encontra, funcionando como uma referência direta para ferimentos e dano recebido. Quanto mais PS o personagem tiver, mais saudável ele está; quanto menos, mais próximo da incapacidade ou morte.
+
 lorem ipsum
 
 ## Pontos de Esforço (PE)
@@ -201,5 +203,8 @@ Inicialmente todos os seus atributos serão considerados como **-5**. E cada gra
 > 
 > **Mestre:** Basicamente.
 
+# Conclusão
+
+Seu personagem agora possui características concretas que definem suas capacidades físicas e mentais. Os [[#Atributos]] que serão a base para testar habilidades, resistir a desafios e interagir com o mundo. Com esses valores estabelecidos, cada ação do seu personagem passa a ter um peso real, conectando sua história e suas escolhas com as mecânicas do jogo. No próximo capítulo, vamos explorar como essas capacidades se traduzem em feitos práticos através das [[Capítulo 3 - Perícias|Perícias]], aprofundando ainda mais o potencial do seu personagem.
 ***
 **Próximo Capítulo: [[Capítulo 3 - Perícias]]**
