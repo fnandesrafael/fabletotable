@@ -40,7 +40,7 @@ Sensciência mede a percepção subjetiva, intuição e criatividade do personag
 
 > [!info] Perícias Baseadas em Sensciência
 > 
-> O [[Atributo Mental]] Sensciência é utilizado como base para as [[Perícias]]: **Subjetividade / Criatividade / Evocação / Intuição / Perspectiva**.
+> O [[Atributo Mental]] Sensciência é utilizado como base para as [[Perícias]]: **Subjetividade / Criatividade / Memória / Intuição / Perspectiva**.
 
 ## Constituição (CON)
 
@@ -142,3 +142,17 @@ Toda [[#Perícias|Perícia]] nada mais é do que um atributo aplicado. Portanto,
 Abaixo, você verá uma tabela relacionando cada uma das **30 perícias** do sistema de _Sangue e Aço_ e sua relação com cada atributo. Em seguida, você poderá compreender a ideia de cada perícia, com uma breve descrição do que elas pretendem ser e do contexto no qual são utilizadas.
 
 Como dito anteriormente, [[Perícias]] e [[Atributos]] são o fundamento deste sistema — e me arrisco a dizer que as perícias são ainda mais centrais, pois toda ação no mundo é, essencialmente, o uso de uma perícia. Portanto, busque conceber que tipo de jogo você quer jogar, como pretende agir no mundo e, a partir disso, foque nas perícias que mais se adequam ao seu estilo de jogo, fortalecendo os atributos que baseiam suas rolagens.
+
+| **Perícia**         | **Atributo Base**            | **Perícia**        | **Atributo Base**           | **Perícia**       | **Atributo Base**           |
+| ------------------- | ---------------------------- | ------------------ | --------------------------- | ----------------- | --------------------------- |
+| **Erudição**        | [[#Cognição (COG)\|COG]]     | **Expressividade** | [[#Motricidade (MOT)\|MOT]] | **Atuação**       | [[#Psicologia (PSI)\|PSI]]  |
+| **Estratégia**      | [[#Cognição (COG)\|COG]]     | **Manipulação**    | [[#Motricidade (MOT)\|MOT]] | **Carisma**       | [[#Psicologia (PSI)\|PSI]]  |
+| **Linguística**     | [[#Cognição (COG)\|COG]]     | **Mobilidade**     | [[#Motricidade (MOT)\|MOT]] | **Compostura**    | [[#Psicologia (PSI)\|PSI]]  |
+| **Lógica**          | [[#Cognição (COG)\|COG]]     | **Precisão**       | [[#Motricidade (MOT)\|MOT]] | **Empatia**       | [[#Psicologia (PSI)\|PSI]]  |
+| **Retórica**        | [[#Cognição (COG)\|COG]]     | **Reflexo**        | [[#Motricidade (MOT)\|MOT]] | **Presença**      | [[#Psicologia (PSI)\|PSI]]  |
+| **Condicionamento** | [[#Constituição (CON\|CON]]  | **Aromatismo**     | [[#Percepção (PER)\|PER]]   | **Criatividade**  | [[#Sensciência (SEN)\|SEN]] |
+| **Fortitude**       | [[#Constituição (CON)\|CON]] | **Contato**        | [[#Percepção (PER)\|PER]]   | **Intuição**      | [[#Sensciência (SEN\|SEN]]  |
+| **Primalidade**     | [[#Constituição (CON)\|CON]] | **Escuta**         | [[#Percepção (PER)\|PER]]   | **Memória**       | [[#Sensciência (SEN)\|SEN]] |
+| **Tolerância**      | [[#Constituição (CON)\|CON]] | **Gustação**       | [[#Percepção (PER)\|PER]]   | **Perspectiva**   | [[#Sensciência (SEN)\|SEN]] |
+| **Vitalidade**      | [[#Constituição (CON)\|CON]] | **Observação**     | [[#Percepção (PER)\|PER]]   | **Subjetividade** | [[#Sensciência (SEN)\|SEN]] |
+> [[Tabela de Relação Perícia-Atributo]]
