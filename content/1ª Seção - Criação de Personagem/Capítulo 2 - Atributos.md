@@ -63,13 +63,13 @@ Em outras palavras, o tamanho é a medida prática do corpo do personagem dentro
 
 Os **Fatores de Tamanho** obtidos pelas faixas de altura e peso escolhidas deliberadamente pelos jogadores devem ser combinados para determinar o tamanho final do personagem. Para isso, usamos a **média aritmética dos fatores** e, consultamos na [[Tabela de Tamanho]] a categoria obtida.
 
-| Resultado da Média Aritmética | Tamanho     | Descrição                                                                         |
-| ----------------------------- | ----------- | --------------------------------------------------------------------------------- |
-| 0                             | **Miúdo**   | Extremamente pequeno; passa facilmente por espaços muito apertados.               |
-| 0,5 – 1,5                     | **Pequeno** | Pequeno porte; ágil em locais apertados e fácil de esconder.                      |
-| 2 – 3                         | **Médio**   | Porte padrão; não sofre restrições especiais.                                     |
-| 3,5 – 4,5                     | **Grande**  | Ocupa mais espaço; mais difícil de se esconder e de manobrar em locais estreitos. |
-| 5                             | **Enorme**  | Muito grande; raros no mundo, limitada mobilidade em espaços pequenos.            |
+| Resultado da Média Aritmética | Tamanho     | **Equivalência** | Descrição                                                                         |
+| ----------------------------- | ----------- | ---------------- | --------------------------------------------------------------------------------- |
+| 0                             | **Miúdo**   | 1/4 de um Médio  | Extremamente pequeno; passa facilmente por espaços muito apertados.               |
+| 0,5 – 1,5                     | **Pequeno** | 1/2 de um Médio  | Pequeno porte; ágil em locais apertados e fácil de esconder.                      |
+| 2 – 3                         | **Médio**   |                  | Porte padrão; não sofre restrições especiais.                                     |
+| 3,5 – 4,5                     | **Grande**  | 2x Médios        | Ocupa mais espaço; mais difícil de se esconder e de manobrar em locais estreitos. |
+| 5                             | **Enorme**  | 3x Médios        | Muito grande; raros no mundo, limitada mobilidade em espaços pequenos.            |
 > [[Tabela de Tamanho]]
 
 ## Pontos de Sangue (PS)
