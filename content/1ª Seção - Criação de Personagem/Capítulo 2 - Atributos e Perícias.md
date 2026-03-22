@@ -135,7 +135,7 @@ Cabe ao jogador descrever **o que seu personagem faz e como faz**, escolhendo a 
 
 Ao [[Mestre]], cabe avaliar se há coerência entre a ação descrita e a perícia escolhida, considerando o contexto da cena. Quando essa relação faz sentido, a perícia pode ser aplicada normalmente.
 
-> [!important]- Relaçâo Perícia-Atributo
+> [!important]- Relação Perícia-Atributo
 > Toda [[#Perícias|Perícia]] nada mais é do que um atributo aplicado. Portanto, em todo [[Teste de Perícia]], você deverá considerar o [[#Atributos Base]] correspondente para determinar a quantidade de **d20's** que serão rolados e se o resultado considerado será o maior ou o menor valor. Porém, a esse resultado deverá ser somado o [[Bônus de Proficiência]] dessa perícia, que será melhor explicado no [[Capítulo 3 - Personalidades e Posturas]].
 >
 > Abaixo, você verá uma tabela relacionando cada uma das **30 perícias** do sistema de _Sangue e Aço_ e sua relação com cada atributo. Em seguida, você poderá compreender a ideia de cada perícia, com uma breve descrição do que elas pretendem ser e do contexto no qual são utilizadas.
