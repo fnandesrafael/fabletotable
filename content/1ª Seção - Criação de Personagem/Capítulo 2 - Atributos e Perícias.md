@@ -73,8 +73,57 @@ Percepção representa a capacidade sensorial e atenção do personagem. Este at
 > O [[Atributo Corporal]] Percepção é utilizado como base para as [[Perícias]]: **Contato / Observação / Escuta / Gustação / Aromatismo**.
 
 
+# Pontos de Atributo
+
+Agora que você já possui uma noção dos seis [[#Atributos Base]] que representam as diferentes características físicas e mentais do seu personagem, precisamos determinar como elas se distribuem no mesmo.
+
+Você está pensando num personagem mais ágil? Mais robusto? Mais lógico? Mais social? Diferentes possibilidade existem e você é livre para construí-lo. Basta apenas que compreendamos primeiro como funciona a distribuição dos [[Pontos de Atributo]].
+
+## Graduação de Atributo
+
+Inicialmente você contará com um total de **20 [[Pontos de Atributo]]**. E você poderá usá-los livremente para graduar um atributo de sua escolha.
+
+**Atributos são graduados segundo uma escala que vai de -5 à +5, ignorando os valores -1 e 0 e considerando +1 apenas como 1**.
+
+A graduação de um atributo segue essa escala, pois **o valor de um atributo representa a quantidade de d20's (dados de vinte lados) que serão usados num [[Teste de Rolagem]]; E o sinal do atributo, ou seja, se ele é negativo ou positivo, determina se o valor à ser considerado deverá ser o maior valor ou o menor valor.**
+
+Isso quer dizer que quanto maior for o valor do seu atributo, maior a probabilidade de você conseguir atingir. Veja a distribuição percentual da probabilidade de se obter 20 no resultado de uma rolagem:
+
+| Atributo | Resultado Final | Fórmula usada     | Probabilidade de Conseguir 20 no Teste de Rolagem (%) |
+| -------- | --------------- | ----------------- | ----------------------------------------------------- |
+| -5       | < Valor         | P = (1/20)^5      | 0,00003125%                                           |
+| -4       | < Valor         | P = (1/20)^4      | 0,000625%                                             |
+| -3       | < Valor         | P = (1/20)^3      | 0,0125%                                               |
+| -2       | < Valor         | P = (1/20)^2      | 0,25%                                                 |
+| +1       | ---             | P = 1/20          | 5%                                                    |
+| +2       | > Valor         | P = 1 - (19/20)^2 | 9,75%                                                 |
+| +3       | > Valor         | P = 1 - (19/20)^3 | 14,26%                                                |
+| +4       | > Valor         | P = 1 - (19/20)^4 | 18,55%                                                |
+| +5       | > Valor         | P = 1 - (19/20)^5 | 22,62%                                                |
+> [[Tabela de Probabilidade]]
+
+Inicialmente todos os seus atributos serão considerados como **-5**. E cada graduação custa **1 [[Pontos de Atributo]]**. Portanto **para que você eleve um atributo para +5 será necessário gastar 8  dos seus 20 pontos iniciais**.
 
 
+> [!example] Exemplo
+> 
+> **Mestre:** Muito bem, Luan. Preciso que você distribuia seus **20 pontos** de atributo na ficha do seu personagem. Como vai ser?
+> 
+> **Luan:** Bom... acho que [[#Motricidade (MOT)]], [[#Percepção (PER)]] e [[#Sensciência (SEN)]] serão atributos importantes para ele. Afinal esses atributos baseiam perícias que provavelmente eu vou usar bastante. Quer dizer, eu quero que ele seja alguém preciso, com boa mobilidade e obsevação. Sem contar que intuição pode ser muito valioso.
+> 
+> **Mestre:** É uma boa linha de raciocínio! Distribuir os atributos pensando em como você pretende jogar — ou seja — tendo em vista as perícias. Mas você já tem uma ideia de quantos pontos vão ser pra cada um?
+> 
+> **Luan:** Então, como eu tenho **20 pontos**, acho que pra começar eu quero deixar meus atributos assim: MOT +3, PER +3 e SEN +2. Então isso quer dizer que eu gastei... **17 pontos**?
+> 
+> **Mestre:** Isso, foram **6 pontos** em MOT e PER e **5 pontos** em SEN. Você ainda tem **3 pontos**. Quer alocar nas outras três perícias restantes?
+> 
+> **Luan:** Na verdade pode ser isso mesmo. Então vou ter [[#Constituição (CON)]], [[#Cognição (COG)]] e [[#Psicologia (PSI)]] -4?
+> 
+> **Mestre:** Perfeito.
+> 
+> **Luan:** Ou seja, pra qualquer [[Teste de Rolagem]] com esses atributos eu vou rodar **4d20** e pegar o menor valor, né?
+> 
+> **Mestre:** Basicamente.
 
 
 ***
