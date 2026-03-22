@@ -1,3 +1,17 @@
+# To-do
+
+- [ ] Atributos Base
+	- [x] Mentais
+	- [x] Corporais
+	- [ ] Jogabilidade
+- [ ] Perícias
+- [ ] Atributos Vitais
+	- [ ] Altura, Peso e Tamanho
+	- [ ] Nível de Poder
+	- [ ] Pontos de Sangue
+	- [ ] Pontos de Esforço
+# Drafts
+
 - Quase toda Técnica de Sangue exige um Custo de Esforço. Todo personagem possui uma quantidade de Pontos de Esforço.
 - Para recuperar seus Pontos de Esforço um personagem pode descançar, usar itens consumíveis ou até mesmo usar ou ser benefíciado por Técnicas de Sangue que recuperem seus Pontos de Esforço.
 - Se seus Pontos de Esforço chegarem à 0 um personagem entra em Exaustão e dessa forma não poderá usar mais nenhuma Técnica de Sangue até que realize um Descanço Longo.

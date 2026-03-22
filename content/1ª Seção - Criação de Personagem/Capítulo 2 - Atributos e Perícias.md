@@ -74,18 +74,7 @@ Percepção representa a capacidade sensorial e atenção do personagem. Este at
 
 
 
-# To-do
 
-- [ ] Atributos Base
-	- [x] Mentais
-	- [x] Corporais
-	- [ ] Jogabilidade
-- [ ] Perícias
-- [ ] Atributos Vitais
-	- [ ] Altura, Peso e Tamanho
-	- [ ] Nível de Poder
-	- [ ] Pontos de Sangue
-	- [ ] Pontos de Esforço
 
 
 ***
