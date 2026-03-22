@@ -24,6 +24,7 @@ O [[Nível de Personagem]] representa o grau de evolução geral de um personage
 | **NP8**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP18** | +2 [[Pontos de Atributo]]                                                                           |
 | **NP9**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]]                              | **NP19** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] |
 | **NP10** | +2 [[Pontos de Atributo]]                                                                                                        | **NP20** | +2 [[Pontos de Atributo]]                                                                           |
+
 Tanto os [[Pontos de Atributo]] adquiridos ao longo da progressão, são de livre distribuição do jogador. O [[Bônus de Proficiência]] deve seguir as diretrizes de cada [[Personalidade]] e [[Postura]] descritas no [[Capítulo 3 - Personalidades e Posturas]].
 
 Mas além disso, independente dos atributos e perícias que seu personagem se especializar, o tempo e a experiência de um personagem dizem muito sobre sua evolução. Por isso existe um bônus fixo aplicado à todo [[Teste de Rolagem|Testes de Rolagem]] com [[Perícias]] que é o chamado [[Bônus de Experiência (BExp)]].
