@@ -1,15 +1,17 @@
 # To-do
 
+- [ ] Atributos Vitais
+	- [x] Nível de Poder
+	- [x] Altura, Peso e Tamanho
+	- [ ] Pontos de Sangue (PS)
+	- [ ] Pontos de Esforço (PE)
 - [x] Atributos Base
 	- [x] Mentais
 	- [x] Corporais
 	- [x] Jogabilidade
 - [x] Perícias
-- [ ] Atributos Vitais
-	- [ ] Altura, Peso e Tamanho
-	- [ ] Nível de Poder
-	- [ ] Pontos de Sangue
-	- [ ] Pontos de Esforço
+	- [ ] Bônus de Proficiência
+
 # Drafts
 
 - Quase toda Técnica de Sangue exige um Custo de Esforço. Todo personagem possui uma quantidade de Pontos de Esforço.
