@@ -1,1 +1,1 @@
->  Grau de evolução geral de um personagem, variando do nível 1 ao nível 20. Sempre que um personagem atinge um novo NP ele recebe uma série de aprimoramentos que podem ser encontrados no [[Capítulo 2 - Atributos e Perícias#Nível de Personagem (NP)|Capítulo 2 - Atributos e Perícias]].
+>  Grau de evolução geral de um personagem, variando do nível 1 ao nível 20. Sempre que um personagem atinge um novo NP ele recebe uma série de aprimoramentos que podem ser encontrados no [[Capítulo 2 - Atributos#Nível de Personagem (NP)|Capítulo 2 - Atributos e Perícias]].
