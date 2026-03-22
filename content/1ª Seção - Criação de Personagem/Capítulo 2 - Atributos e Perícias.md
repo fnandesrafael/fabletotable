@@ -6,7 +6,7 @@ Este capítulo foi feito para que você compreenda o que são os atributos e as 
 
 # Atributos Base
 
-No sistema de *Sangue e Aço* os [[#Atributos Base]] representam as capacidades fundamentais e constitutivas de um personagem. Os atributos medem limites físicos e mentais do personagem, servindo como base para o desempenho em ações, decisões e interações dentro do mundo do jogo. Eles influenciam diretamente as [[Perícias]] e determinam o potencial do personagem em enfrentar desafios, resolver problemas e interagir com o mundo.
+No sistema de *Sangue e Aço* os [[#Atributos Base]] representam as capacidades fundamentais e constitutivas de um personagem. Os atributos medem limites físicos e mentais do personagem, servindo como base para medir o seu desempenho em ações, decisões e interações dentro do jogo. Eles influenciam diretamente as [[Perícias]] e determinam o potencial do personagem ao enfrentar desafios, resolver problemas e interagir com o mundo.
 
 Ao contrário da maioria dos sistemas de *RPG*, os atributos base são utilizados não como um bônus aplicado em um [[Teste de Rolagem]], mas servem como uma graduação que **aumenta a probabilidade de resultados de rolagem naturais mais altos**.
 
@@ -16,7 +16,7 @@ Esses atributos base podem ser categorizados em dois grupos: [[Atributo Mental|A
 
 > [[Atributo Mental]]
 
-Cognição representa a capacidade intelectual e analítica do personagem. Este atributo mede como o personagem processa informações, aprende, entende conceitos complexos e aplica conhecimento de forma prática. Ele reflete habilidades de raciocínio lógico, conhecimento geral e acervo de informações, percepção crítica e abstrações. Um personagem com alta cognição pode ser um estrategista perspicaz, um estudioso atento ou alguém capaz de aprender rapidamente novas línguas ou ciências; já um personagem com cognição baixa pode ter dificuldade em compreender padrões complexos ou ter acesso a dados relativamente conhecidos para estudiosos.
+Cognição representa a capacidade intelectual e analítica do personagem. Este atributo mede como o personagem processa informações, aprende, abstrai conceitos complexos e aplica conhecimento de forma prática. Ele reflete habilidades de raciocínio lógico, conhecimento de mundo e percepção crítica. Um personagem com alta cognição pode ser um estrategista perspicaz, um estudioso atento ou alguém capaz de aprender rapidamente novas línguas ou ciências; já um personagem com cognição baixa pode ter dificuldade em compreender padrões complexos ou ter acesso a dados relativamente conhecidos por estudiosos.
 
 > [!info] Perícias Baseadas em Cognição
 > 
@@ -26,7 +26,7 @@ Cognição representa a capacidade intelectual e analítica do personagem. Este 
 
 > [[Atributo Mental]]
 
-Psicologia representa a inteligência emocional e a capacidade de interação social do personagem. Este atributo mede empatia, controle emocional, carisma e habilidade de influenciar ou compreender outros indivíduos. Personagens com alta psicologia podem inspirar confiança, manter compostura em situações de pressão e interpretar nuances sociais com facilidade; já personagens com psicologia baixa podem ter dificuldade em lidar com emoções próprias ou alheias.
+Psicologia representa a inteligência emocional e a capacidade de interação social do personagem. Este atributo mede empatia, controle emocional, carisma e habilidade de influenciar ou compreender outros indivíduos. Personagens com alta psicologia podem inspirar confiança, manter compostura em situações de pressão e interpretar nuances sociais com facilidade; já personagens com psicologia baixa podem ter dificuldade em lidar com emoções próprias ou alheias e interagir socialmente.
 
 > [!info] Perícias Baseadas em Psicologia
 > 
