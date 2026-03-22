@@ -332,7 +332,11 @@ No uso cotidiano, a vitalidade auxilia na recuperação, resistência a enfermid
 
 # Bônus de Proficiência
 
-lorem ipsum
+O [[Bônus de Proficiência]] representa o nível de treinamento, experiência e familiaridade do personagem com uma determinada perícia. Diferente dos [[Atributos]], que definem capacidades naturais ou características do personagem, o bônus de proficiência **não aumenta a probabilidade de tirar um valor alto no dado**. Ele age **deslocamento o resultado final**, refletindo o domínio e a eficiência com que o personagem realiza aquela ação.
+
+Na prática, sempre que o personagem realiza um [[Teste de Perícia]], o resultado obtido na rolagem do dado é somado ao seu bônus de proficiência correspondente. Por exemplo, se você rolar **4** em um teste de [[#Compostura]] e sua proficiência na perícia for **+10**, o resultado final será **14**. Isso significa que, mesmo que o dado não seja favorável, o conhecimento e a habilidade adquiridos pelo personagem garantem uma performance consistente e superior ao mero acaso. Na narrativa, isso quer dizer que talvez naquele momento, a situação não estivesse tão favorável para o sucesso da ação, talvez você tenha se distraído ou algo assim, porém como você tem muita prática e costume, conseguiu dar um jeito mesmo assim.
+
+O bônus de proficiência pode variar de **0 a +30**, conforme detalhado no [[Capítulo 4 - Arquétipos]]. Valores mais altos indicam que o personagem é extremamente competente naquela perícia, sendo capaz de realizar ações complexas ou delicadas com mais segurança e eficácia. Já valores baixos refletem pouca familiaridade, treinamento inicial ou habilidade limitada.
 
 ***
 **Próximo Capítulo: [[Capítulo 4 - Arquétipos]]**

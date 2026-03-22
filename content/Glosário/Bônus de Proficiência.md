@@ -1,1 +1,1 @@
-> Valor somado ao resultado de um [[Teste de Rolagem]].
+> Nível de treinamento, experiência e familiaridade do personagem com uma determinada perícia. Valor somado ao resultado de um [[Teste de Rolagem]] com uma [[Perícias|Perícia]] específica.
