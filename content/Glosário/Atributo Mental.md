@@ -1,0 +1,1 @@
+> Característica que refletem a capacidade cognitiva, psicológica e psíquica de um personagem. Ele mede habilidades como raciocínio, memória, criatividade, intuição e resistência psicológica, determinando como o personagem processa informações, resolve problemas e reage a situações complexas ou desafiadoras.

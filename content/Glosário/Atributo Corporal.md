@@ -1,0 +1,1 @@
+> Característica que representam a força física, resistência, destreza e habilidades motoras de um personagem. Ele mede o potencial do corpo em executar ações físicas, suportar esforço, reagir com agilidade e coordenar movimentos, influenciando diretamente o desempenho em tarefas físicas, combates e atividades que exigem precisão ou resistência.

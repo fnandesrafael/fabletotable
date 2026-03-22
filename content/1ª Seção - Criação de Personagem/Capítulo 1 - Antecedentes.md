@@ -348,4 +348,4 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 Ao final deste capítulo, seu personagem agora deixa de ser apenas um conjunto de ideias soltas e passa a existir como alguém inserido no mundo — com [[#Identidade]], [[#Aparência]], [[#Histórico]], [[#Ofícios|Ofício]], [[#Economia]], [[#Motivações]] e [[#Aflições]] que o tornam único. Esses elementos formam a base narrativa sobre a qual todas as suas decisões serão construídas ao longo da [[Campanha]]. No entanto, essa é apenas parte do caminho. No próximo capítulo, avançaremos para além da história e conheceremos os [[Capítulo 2 Atributos Vitais e Arquétipos|Atributos Vitais]].
 
 ***
-**Próximo Capítulo: [[Capítulo 2 - Atributos Vitais]]**
+**Próximo Capítulo: [[Capítulo 2 - Atributos e Perícias]]**
