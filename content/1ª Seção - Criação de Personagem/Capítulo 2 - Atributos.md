@@ -108,15 +108,15 @@ Psicologia representa a inteligência emocional e a capacidade de interação so
 > 
 > O [[Atributo Mental]] Psicologia é utilizado como base para as [[Perícias]]: **Atuação / Compostura / Empatia / Carisma / Presença**.
 
-## Sensciência (SEN)
+## Senciência (SEN)
 
 > [[Atributo Mental]]
 
-Sensciência mede a percepção subjetiva, intuição e criatividade do personagem. Este atributo reflete a capacidade de imaginar possibilidades, perceber sutilezas e reagir de forma inspirada a situações menos racionais e mais discretas. Um personagem com alta sensciência pode ser inventivo, criativo e perspicaz, enquanto um personagem com baixa sensciência pode ter dificuldade em captar nuances ou elaborar soluções originais.
+Senciência mede a percepção subjetiva, intuição e criatividade do personagem. Este atributo reflete a capacidade de imaginar possibilidades, perceber sutilezas e reagir de forma inspirada a situações menos racionais e mais discretas. Um personagem com alta Senciência pode ser inventivo, criativo e perspicaz, enquanto um personagem com baixa Senciência pode ter dificuldade em captar nuances ou elaborar soluções originais.
 
-> [!info] Perícias Baseadas em Sensciência
+> [!info] Perícias Baseadas em Senciência
 > 
-> O [[Atributo Mental]] Sensciência é utilizado como base para as [[Perícias]]: **Subjetividade / Criatividade / Memória / Intuição / Perspectiva**.
+> O [[Atributo Mental]] Senciência é utilizado como base para as [[Perícias]]: **Subjetividade / Criatividade / Memória / Intuição / Perspectiva**.
 
 ## Constituição (CON)
 
@@ -178,14 +178,14 @@ Isso quer dizer que quanto maior for o valor do seu atributo, maior a probabilid
 > [[Tabela de Probabilidade]]
 
 
-Inicialmente todos os seus atributos serão considerados como **-5**. E cada graduação custa **1 [[Pontos de Atributo]]**. Portanto **para que você eleve um atributo para +5 será necessário gastar 8  dos seus 20 pontos iniciais**.
+Inicialmente todos os seus atributos serão considerados como **-5**. E cada graduação custa **1 [[Pontos de Atributo|Ponto de Atributo]]**. Portanto **para que você eleve um atributo para +5 será necessário gastar 8  dos seus 20 pontos iniciais**.
 
 
 > [!example] Exemplo
 > 
 > **Mestre:** Muito bem, Luan. Preciso que você distribua seus **20 pontos** de atributo na ficha do seu personagem. Como vai ser?
 > 
-> **Luan:** Bom... acho que [[#Motricidade (MOT)]], [[#Percepção (PER)]] e [[#Sensciência (SEN)]] serão atributos importantes para ele. Afinal esses atributos baseiam perícias que provavelmente eu vou usar bastante. Quer dizer, eu quero que ele seja alguém preciso, com boa mobilidade e observação. Sem contar que intuição pode ser muito valioso.
+> **Luan:** Bom... acho que [[#Motricidade (MOT)]], [[#Percepção (PER)]] e [[#Senciência (SEN)]] serão atributos importantes para ele. Afinal esses atributos baseiam perícias que provavelmente eu vou usar bastante. Quer dizer, eu quero que ele seja alguém preciso, com boa mobilidade e observação. Sem contar que intuição pode ser muito valioso.
 > 
 > **Mestre:** É uma boa linha de raciocínio! Distribuir os atributos pensando em como você pretende jogar — ou seja — tendo em vista as perícias. Mas você já tem uma ideia de quantos pontos vão ser pra cada um?
 > 

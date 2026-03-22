@@ -21,11 +21,11 @@ Ao [[Mestre]], cabe avaliar se há coerência entre a ação descrita e a períc
 > | **Linguística**     | [[#Cognição (COG)\|COG]]     | **Mobilidade**     | [[#Motricidade (MOT)\|MOT]] | **Compostura**    | [[#Psicologia (PSI)\|PSI]]  |
 > | **Lógica**          | [[#Cognição (COG)\|COG]]     | **Precisão**       | [[#Motricidade (MOT)\|MOT]] | **Empatia**       | [[#Psicologia (PSI)\|PSI]]  |
 > | **Retórica**        | [[#Cognição (COG)\|COG]]     | **Reflexo**        | [[#Motricidade (MOT)\|MOT]] | **Presença**      | [[#Psicologia (PSI)\|PSI]]  |
-> | **Condicionamento** | [[#Constituição (CON\|CON]]  | **Aromatismo**     | [[#Percepção (PER)\|PER]]   | **Criatividade**  | [[#Sensciência (SEN)\|SEN]] |
-> | **Fortitude**       | [[#Constituição (CON)\|CON]] | **Contato**        | [[#Percepção (PER)\|PER]]   | **Intuição**      | [[#Sensciência (SEN\|SEN]]  |
-> | **Primalidade**     | [[#Constituição (CON)\|CON]] | **Escuta**         | [[#Percepção (PER)\|PER]]   | **Memória**       | [[#Sensciência (SEN)\|SEN]] |
-> | **Tolerância**      | [[#Constituição (CON)\|CON]] | **Gustação**       | [[#Percepção (PER)\|PER]]   | **Perspectiva**   | [[#Sensciência (SEN)\|SEN]] |
-> | **Vitalidade**      | [[#Constituição (CON)\|CON]] | **Observação**     | [[#Percepção (PER)\|PER]]   | **Subjetividade** | [[#Sensciência (SEN)\|SEN]] |
+> | **Condicionamento** | [[#Constituição (CON\|CON]]  | **Aromatismo**     | [[#Percepção (PER)\|PER]]   | **Criatividade**  | [[#Senciência (SEN)\|SEN]] |
+> | **Fortitude**       | [[#Constituição (CON)\|CON]] | **Contato**        | [[#Percepção (PER)\|PER]]   | **Intuição**      | [[#Senciência (SEN\|SEN]]  |
+> | **Primalidade**     | [[#Constituição (CON)\|CON]] | **Escuta**         | [[#Percepção (PER)\|PER]]   | **Memória**       | [[#Senciência (SEN)\|SEN]] |
+> | **Tolerância**      | [[#Constituição (CON)\|CON]] | **Gustação**       | [[#Percepção (PER)\|PER]]   | **Perspectiva**   | [[#Senciência (SEN)\|SEN]] |
+> | **Vitalidade**      | [[#Constituição (CON)\|CON]] | **Observação**     | [[#Percepção (PER)\|PER]]   | **Subjetividade** | [[#Senciência (SEN)\|SEN]] |
 >
 > [[Tabela de Relação Perícia-Atributo]]
 
