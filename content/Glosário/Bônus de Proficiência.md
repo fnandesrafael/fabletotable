@@ -1,0 +1,1 @@
+> Valor somado ao resultado de um [[Teste de Rolagem]].

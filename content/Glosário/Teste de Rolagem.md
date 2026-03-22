@@ -1,0 +1,1 @@
+> Teste que consiste na rolagem de uma certa quantidade de dados de um número específico de lados.
