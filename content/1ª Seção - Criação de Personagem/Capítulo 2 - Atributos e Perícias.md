@@ -8,9 +8,36 @@ Este capítulo foi feito para que você compreenda o que são os atributos e as 
 
 lorem ipsum
 
-## Nível do Personagem (NP)
+## Nível de Personagem (NP)
 
-lorem ipsum
+O [[Nível de Personagem]] representa o grau de evolução geral de um personagem, **variando do nível 1 ao nível 20**. Conforme o personagem avança, ele recebe melhorias progressivas conforme a tabela abaixo:
+
+| **NP**   | Aprimoramentos                                                                                                                   | **NP**   | **Aprimoramento**                                                                                   |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- |
+| **NP1**  | +20 [[Pontos de Atributo]] e [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] | **NP11** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] |
+| **NP2**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP12** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP3**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]]                              | **NP13** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] |
+| **NP4**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP14** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP5**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]]                              | **NP15** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] |
+| **NP6**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP16** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP7**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]]                              | **NP17** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] |
+| **NP8**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP18** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP9**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]]                              | **NP19** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 3 - Personalidades e Posturas\|Arquétipo]] |
+| **NP10** | +2 [[Pontos de Atributo]]                                                                                                        | **NP20** | +2 [[Pontos de Atributo]]                                                                           |
+Tanto os [[Pontos de Atributo]] adquiridos ao longo da progressão, são de livre distribuição do jogador. O [[Bônus de Proficiência]] deve seguir as diretrizes de cada [[Personalidade]] e [[Postura]] descritas no [[Capítulo 3 - Personalidades e Posturas]].
+
+Mas além disso, independente dos atributos e perícias que seu personagem se especializar, o tempo e a experiência de um personagem dizem muito sobre sua evolução. Por isso existe um bônus fixo aplicado à todo [[Teste de Rolagem|Testes de Rolagem]] com [[Perícias]] que é o chamado [[Bônus de Experiência (BExp)]].
+
+Veja como a progressão desse bônus se relaciona com o NP através da tabela abaixo:
+
+| **Nível de Persoangem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Persoangem (NP)** | **Bônus de Experiência (BExp)** |
+| ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------- |
+| 1                            | **+0**                          | 12-13                        | **+6**                          |
+| 2-3                          | **+1**                          | 14-15                        | **+7**                          |
+| 4-5                          | **+2**                          | 16-17                        | **+8**                          |
+| 6-7                          | **+3**                          | 18-19                        | **+9**                          |
+| 8-9                          | **+4**                          | 20                           | **+10**                         |
+| 10-11                        | **+5**                          |                              |                                 |
 
 ## Altura, Peso e Tamanho
 

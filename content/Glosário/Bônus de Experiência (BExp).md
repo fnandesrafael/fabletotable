@@ -1,0 +1,1 @@
+> Bônus fixo aplicado à qualquer [[Teste de Rolagem]] de acordo com a experiência geral adquirida por um personagem ao longo da progressão de seu [[Nível de Personagem]]. A quantidade de [[Bônus de Experiência (BExp)|BExp]] está relacionada na [[Tabela de Bônus de Experiência]].
