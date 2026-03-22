@@ -12,18 +12,20 @@ lorem ipsum
 
 O [[Nível de Personagem]] representa o grau de evolução geral de um personagem, **variando do nível 1 ao nível 20**. Conforme o personagem avança, ele recebe melhorias progressivas conforme a tabela abaixo:
 
-| **NP**   | Aprimoramentos                                                                                                                   | **NP**   | **Aprimoramento**                                                                                   |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- |
+### [[Tabela de Aprimoramentos por NP]]
+
+| **NP**   | Aprimoramentos                                                                                                    | **NP**   | **Aprimoramento**                                                                    |
+| -------- | ----------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
 | **NP1**  | +20 [[Pontos de Atributo]] e [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] | **NP11** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
-| **NP2**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP12** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP2**  | +2 [[Pontos de Atributo]]                                                                                         | **NP12** | +2 [[Pontos de Atributo]]                                                            |
 | **NP3**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]]                              | **NP13** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
-| **NP4**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP14** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP4**  | +2 [[Pontos de Atributo]]                                                                                         | **NP14** | +2 [[Pontos de Atributo]]                                                            |
 | **NP5**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]]                              | **NP15** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
-| **NP6**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP16** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP6**  | +2 [[Pontos de Atributo]]                                                                                         | **NP16** | +2 [[Pontos de Atributo]]                                                            |
 | **NP7**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]]                              | **NP17** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
-| **NP8**  | +2 [[Pontos de Atributo]]                                                                                                        | **NP18** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP8**  | +2 [[Pontos de Atributo]]                                                                                         | **NP18** | +2 [[Pontos de Atributo]]                                                            |
 | **NP9**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]]                              | **NP19** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
-| **NP10** | +2 [[Pontos de Atributo]]                                                                                                        | **NP20** | +2 [[Pontos de Atributo]]                                                                           |
+| **NP10** | +2 [[Pontos de Atributo]]                                                                                         | **NP20** | +2 [[Pontos de Atributo]]                                                            |
 
 Tanto os [[Pontos de Atributo]] adquiridos ao longo da progressão, são de livre distribuição do jogador. O [[Bônus de Proficiência]] deve seguir as diretrizes de cada [[Personalidade]] e [[Postura]] descritas no [[Capítulo 4 - Arquétipos]].
 
@@ -31,7 +33,9 @@ Mas além disso, independente dos atributos e perícias que seu personagem se es
 
 Veja como a progressão desse bônus se relaciona com o NP através da tabela abaixo:
 
-| **Nível de Persoangem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Persoangem (NP)** | **Bônus de Experiência (BExp)** |
+### [[Tabela de Bônus de Experiência]]
+
+| **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** |
 | ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------- |
 | 1                            | **+0**                          | 12-13                        | **+6**                          |
 | 2-3                          | **+1**                          | 14-15                        | **+7**                          |
@@ -42,7 +46,16 @@ Veja como a progressão desse bônus se relaciona com o NP através da tabela ab
 
 ## Altura, Peso e Tamanho
 
-Lembra de quando estávamos no [[Capítulo 1 - Antecedentes]] e falamos sobre a [[Capítulo 1 - Antecedentes#Aparência|Aparência]]? Alí conversamos sobre vestimentas, trejeitos e diversas características físicas. Pois bem, aqui iremos metrificar isso, de um modo que esses atributos de **Altura** e **Peso** se transformem numa mecânica jogável chamada [[Tamanho]].
+Lembra de quando — no [[Capítulo 1 - Antecedentes]] — falamos sobre [[Capítulo 1 - Antecedentes#Aparência|Aparência]]? Ali exploramos vestimentas, trejeitos e características físicas que dão vida ao seu personagem. Agora, vamos transformar algumas dessas informações em uma mecânica jogável.
+
+Os atributos de [[Altura]] e [[Peso]] não são apenas números na ficha — juntos, eles determinam o [[Tamanho]] do seu personagem. É através dele que poderemos mensurar quanto espaço ele ocupa, se consegue passar por uma passagem estreita, quantas pessoas cabem em determinado ambiente ou mesmo se um personagem pode se esconder atrás de obstáculos, aumentando a [[Classe de Dificuldade|CD]] de conseguir se esconder ou algo do tipo.
+
+Em outras palavras, o tamanho é a medida prática do corpo do personagem dentro do mundo do jogo, e ele surge naturalmente da combinação entre altura e peso, que por sua vez podem ser usadas mecânicamente de forma independente.
+
+### [[Tabela de Altura e Peso]]
+
+
+
 
 ## Pontos de Sangue (PS)
 
@@ -136,6 +149,8 @@ A graduação de um atributo segue essa escala, pois **o valor de um atributo re
 
 Isso quer dizer que quanto maior for o valor do seu atributo, maior a probabilidade de você conseguir atingir valores mais altos nas rolagens. Veja a distribuição percentual da probabilidade de se obter 20 no resultado de um teste:
 
+### [[Tabela de Probabilidade]]
+
 | Atributo | Resultado Final | Fórmula usada     | Probabilidade de Conseguir 20 no Teste de Rolagem (%) |
 | -------- | --------------- | ----------------- | ----------------------------------------------------- |
 | -5       | < Valor         | P = (1/20)^5      | 0,00003125%                                           |
@@ -147,7 +162,7 @@ Isso quer dizer que quanto maior for o valor do seu atributo, maior a probabilid
 | +3       | > Valor         | P = 1 - (19/20)^3 | 14,26%                                                |
 | +4       | > Valor         | P = 1 - (19/20)^4 | 18,55%                                                |
 | +5       | > Valor         | P = 1 - (19/20)^5 | 22,62%                                                |
-> [[Tabela de Probabilidade]]
+
 
 Inicialmente todos os seus atributos serão considerados como **-5**. E cada graduação custa **1 [[Pontos de Atributo]]**. Portanto **para que você eleve um atributo para +5 será necessário gastar 8  dos seus 20 pontos iniciais**.
 

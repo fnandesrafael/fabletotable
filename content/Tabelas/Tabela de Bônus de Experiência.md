@@ -1,4 +1,4 @@
-| **Nível de Persoangem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Persoangem (NP)** | **Bônus de Experiência (BExp)** |
+| **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** |
 | ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------- |
 | 1                            | +0                              | 12-13                        | +6                              |
 | 2-3                          | +1                              | 14-15                        | +7                              |
