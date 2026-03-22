@@ -42,7 +42,7 @@ Veja como a progressão desse bônus se relaciona com o NP através da tabela ab
 
 ## Altura, Peso e Tamanho
 
-lorem ipsum
+Lembra de quando estávamos no [[Capítulo 1 - Antecedentes]] e falamos sobre a [[Capítulo 1 - Antecedentes#Aparência|Aparência]]? Alí conversamos sobre vestimentas, trejeitos e diversas características físicas. Pois bem, aqui iremos metrificar isso, de um modo que esses atributos de **Altura** e **Peso** se transformem numa mecânica jogável chamada [[Tamanho]].
 
 ## Pontos de Sangue (PS)
 
