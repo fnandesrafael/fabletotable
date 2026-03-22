@@ -4,7 +4,7 @@
 	- [x] Mentais
 	- [x] Corporais
 	- [x] Jogabilidade
-- [ ] Perícias
+- [x] Perícias
 - [ ] Atributos Vitais
 	- [ ] Altura, Peso e Tamanho
 	- [ ] Nível de Poder
