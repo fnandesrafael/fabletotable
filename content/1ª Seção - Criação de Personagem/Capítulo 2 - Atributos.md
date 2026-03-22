@@ -33,7 +33,6 @@ Mas além disso, independente dos atributos e perícias que seu personagem se es
 
 Veja como a progressão desse bônus se relaciona com o NP através da tabela abaixo:
 
-
 | **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** |
 | ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------- |
 | 1                            | **+0**                          | 12-13                        | **+6**                          |
