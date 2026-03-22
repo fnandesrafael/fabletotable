@@ -84,14 +84,13 @@ Cada Ofício concede uma redução na [[Classe de Dificuldade]] (CD) ao realizar
 
 A quantidade de redução depende do **Nível do Personagem (NP)**, que ao longo de sua progressão, representa exatamente a experiência acumulada do personagem em seu [[#Ofício]] durante sua vida.
 
-### [[Tabela de Bônus de Ofício]]
-
 | Nível do Personagem (NP) | Redução na Classe de Dificuldade (CD) |
 | ------------------------ | ------------------------------------- |
 | NP 1–5                   | **1 Grau**                            |
 | NP 6–10                  | **2 Graus**                           |
 | NP 11–15                 | **3 Graus**                           |
 | NP 16–20                 | **4 Graus**                           |
+> [[Tabela de Bônus de Ofício]]
 
 ## Artista
 
@@ -204,9 +203,7 @@ A riqueza inicial não define tudo: durante a aventura, os personagens podem gan
 
 Para determinar a Economia de um personagem, é necessário realizar um [[Teste de Rolagem]] com **2d4**. A partir do resultado atingido pela soma de ambos os dados, o valor resultande determinará sua economia inicial, ou seja, quantos [[Vaalaques|V$]] você possui inicialmente.
 
-A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu inventário base.
-
-### [[Tabela de Economia Inicial]]
+A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu inventário base.> 
 
 | **Resuldado da Rolagem (2d4)** | **Economia**  | **Vaalaques** |
 | ------------------------------ | ------------- | ------------- |
@@ -214,6 +211,8 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 | 3-5                            | **Plebeu**    | V$150         |
 | 6-7                            | **Abastado**  | V$900         |
 | 8                              | **Opulento**  | V$8100        |
+> [[Tabela de Economia Inicial]]
+
 
 # Vínculos
 
@@ -278,7 +277,6 @@ As [[#Motivações]] também possuem um papel mecânico. Quando um personagem ag
 
 Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma delas. Você pode escolher no máximo uma motivação, embora ao longo da [[Campanha]] você possa trocar de motivação caso o desenvolvimento do seu personagem o leve à isso.
 
-### [[Tabela de Motivações]]
 
 | Motivação              | Descrição                                                                                                                                                                                           | Quando pode ser ativada                                                                                                                                                    |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -290,6 +288,7 @@ Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma 
 | **6 - Excentricidade** | Afirmação da própria identidade e valor. Internamente, o personagem se vê como único ou superior; fisicamente, age para provar isso; socialmente, busca destaque ou ruptura de padrões.             | Quando há uma audiência, rival ou situação onde o personagem pode ser comparado, desafiado ou reconhecido publicamente.                                                    |
 | **7 - Revolução**      | Desejo de romper estruturas e transformar o mundo. Internamente, rejeita o status quo; fisicamente, confronta sistemas ou autoridades; socialmente, inspira mudança ou questiona normas.            | Quando o personagem se depara com uma estrutura opressiva, autoridade dominante ou limitação clara que pode ser desafiada, subvertida ou transformada.                     |
 | **8 - Liberdade**      | Necessidade de autonomia e rejeição a limitações. Internamente, teme ser controlado; fisicamente, resiste a contenção; socialmente, evita obrigações que o aprisionem.                              | Quando o personagem está sob risco de restrição direta de sua liberdade, como captura, coerção, controle ou perda de autonomia.                                            |
+> [[Tabela de Motivações]]
 
 
 > [!info] Regras de Uso
@@ -303,6 +302,7 @@ Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma 
 > 
 > - Uma motivação não deve ser ativada em situações triviais. Ela representa momentos em que o personagem está verdadeiramente investido, emocional ou ideologicamente, naquilo que está fazendo.
 
+
 # Aflições
 
 > [!faq] Perguntas Fundamentais
@@ -311,6 +311,7 @@ Abaixo segue uma [[Tabela de Motivações]] onde há o detalhamento de cada uma 
 > **Q2 —** De onde essas aflições surgiram?</br>
 > **Q3 —** Em quais situações essas aflições tendem a se manifestar?</br>
 > **Q4 —** O que o seu personagem arrisca ao ceder a essas aflições?</br>
+
 
 As [[#Aflições]] representam os aspectos que dificultam a vida do personagem. Elas podem ser limitações físicas, conflitos internos, traumas, vícios ou qualquer característica que o coloque em desvantagem em determinadas situações.
 
@@ -326,7 +327,6 @@ Pense neste antecedente como uma fonte de tensão. São essas limitações que t
 
 Cada aflição adiciona um nível de dificuldade extra a determinadas situações. Dessa forma, seu personagem irá realizar um [[Teste de Rolagem em Aflição]] caso o respectivo teste envolva a mesma.
 
-### [[Tabela de Aflições]]
 
 | Aflição             | Descrição                                                      | Requisitos                                                           | Quando pode ser ativada                                                                             |
 | ------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -338,6 +338,7 @@ Cada aflição adiciona um nível de dificuldade extra a determinadas situaçõe
 | **6 - Apego**       | Dependência emocional de pessoa ou objeto específico.          | Definir a pessoa ou objeto ao qual o personagem é apegado.           | Quando o alvo do apego está em risco, ausente ou inacessível.                                       |
 | **7 - Segredo**     | Informação que o personagem precisa esconder a qualquer custo. | Definir o segredo e suas possíveis consequências se revelado.        | Quando há risco real de descoberta, investigação direta ou exposição iminente.                      |
 | **8 - Estigma**     | Marca social que gera rejeição ou preconceito.                 | Definir a natureza do estigma e os grupos que o reconhecem.          | Quando o personagem interage com indivíduos ou grupos que reconhecem ou reagem ao estigma.          |
+> [[Tabela de Aflições]]
 
 
 > [!info] Dessa forma:

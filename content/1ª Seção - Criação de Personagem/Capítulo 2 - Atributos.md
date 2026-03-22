@@ -12,8 +12,6 @@ lorem ipsum
 
 O [[Nível de Personagem]] representa o grau de evolução geral de um personagem, **variando do nível 1 ao nível 20**. Conforme o personagem avança, ele recebe melhorias progressivas conforme a tabela abaixo:
 
-### [[Tabela de Aprimoramentos por NP]]
-
 | **NP**   | Aprimoramentos                                                                                                    | **NP**   | **Aprimoramento**                                                                    |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
 | **NP1**  | +20 [[Pontos de Atributo]] e [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] | **NP11** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
@@ -26,6 +24,8 @@ O [[Nível de Personagem]] representa o grau de evolução geral de um personage
 | **NP8**  | +2 [[Pontos de Atributo]]                                                                                         | **NP18** | +2 [[Pontos de Atributo]]                                                            |
 | **NP9**  | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]]                              | **NP19** | [[Bônus de Proficiência]] de acordo com o seu [[Capítulo 4 - Arquétipos\|Arquétipo]] |
 | **NP10** | +2 [[Pontos de Atributo]]                                                                                         | **NP20** | +2 [[Pontos de Atributo]]                                                            |
+> [[Tabela de Aprimoramentos por NP]]
+
 
 Tanto os [[Pontos de Atributo]] adquiridos ao longo da progressão, são de livre distribuição do jogador. O [[Bônus de Proficiência]] deve seguir as diretrizes de cada [[Personalidade]] e [[Postura]] descritas no [[Capítulo 4 - Arquétipos]].
 
@@ -33,7 +33,6 @@ Mas além disso, independente dos atributos e perícias que seu personagem se es
 
 Veja como a progressão desse bônus se relaciona com o NP através da tabela abaixo:
 
-### [[Tabela de Bônus de Experiência]]
 
 | **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** | **Nível de Personagem (NP)** | **Bônus de Experiência (BExp)** |
 | ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------- |
@@ -43,6 +42,7 @@ Veja como a progressão desse bônus se relaciona com o NP através da tabela ab
 | 6-7                          | **+3**                          | 18-19                        | **+9**                          |
 | 8-9                          | **+4**                          | 20                           | **+10**                         |
 | 10-11                        | **+5**                          |                              |                                 |
+> [[Tabela de Bônus de Experiência]]
 
 ## Altura, Peso e Tamanho
 
@@ -52,10 +52,26 @@ Os atributos de [[Altura]] e [[Peso]] não são apenas números na ficha — jun
 
 Em outras palavras, o tamanho é a medida prática do corpo do personagem dentro do mundo do jogo, e ele surge naturalmente da combinação entre altura e peso, que por sua vez podem ser usadas mecânicamente de forma independente.
 
-### [[Tabela de Altura e Peso]]
+| **Altura (cm)** | Fator de Tamanho | **Peso (kg)** | **Fator de Tamanho** |
+| --------------- | ---------------- | ------------- | -------------------- |
+| 150 - 1d10      | **0**            | 50 -1d10      | **0**                |
+| 150-170         | **1**            | 50-70         | **1**                |
+| 171-190         | **2**            | 71-90         | **2**                |
+| 191-210         | **3**            | 91-120        | **3**                |
+| 210-250         | **4**            | 120-150       | **4**                |
+| 250 + 1d20      | **5**            | 150 + 1d20    | **5**                |
+>[[Tabela de Altura e Peso]]
 
+Os **Fatores de Tamanho** obtidos pelas faixas de altura e peso escolhidas deliberadamente pelos jogadores devem ser combinados para determinar o tamanho final do personagem. Para isso, usamos a **média aritmética dos fatores** e, consultamos na [[Tabela de Tamanho]] a categoria obtida.
 
-
+| Resultado da Média Aritmética | Tamanho     | Descrição                                                                         |
+| ----------------------------- | ----------- | --------------------------------------------------------------------------------- |
+| 0                             | **Miúdo**   | Extremamente pequeno; passa facilmente por espaços muito apertados.               |
+| 0,5 – 1,5                     | **Pequeno** | Pequeno porte; ágil em locais apertados e fácil de esconder.                      |
+| 2 – 3                         | **Médio**   | Porte padrão; não sofre restrições especiais.                                     |
+| 3,5 – 4,5                     | **Grande**  | Ocupa mais espaço; mais difícil de se esconder e de manobrar em locais estreitos. |
+| 5                             | **Enorme**  | Muito grande; raros no mundo, limitada mobilidade em espaços pequenos.            |
+> [[Tabela de Tamanho]]
 
 ## Pontos de Sangue (PS)
 
