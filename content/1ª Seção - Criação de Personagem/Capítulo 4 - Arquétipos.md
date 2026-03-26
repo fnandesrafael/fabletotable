@@ -26,8 +26,6 @@ Cada personalidade, portanto, não apenas estabelece uma distribuição de aptid
 
 ## Erudito
 
-![[erudito.png]]
-
 > Observe. Analise. Questione.
 
 O mundo não é algo a ser apenas vivido ele deve ser **compreendido**. Cada detalhe carrega uma estrutura, cada fenômeno esconde uma lógica, cada palavra possui um peso exato. Você não se contenta com respostas simples, nem aceita verdades superficiais. Vá mais fundo. Sempre mais fundo.
