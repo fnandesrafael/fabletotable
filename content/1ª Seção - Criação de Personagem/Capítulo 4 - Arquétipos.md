@@ -299,6 +299,273 @@ Mecânicamente, está relacionada aos [[Atributo Corporal|Atributos Corporais]] 
 
 A postura também pode ser utilizada como um **guia de interpretação**, ajudando a definir não apenas o que o personagem faz, mas **como ele faz**. Dois personagens podem realizar a mesma ação, mas a forma como seus corpos respondem a ela (com força, precisão, cautela ou rapidez), pode ser completamente diferente.
 
-## Lorem Ipsum
+## Abrutalhado
+
+Aguente. Avance. Não pare.
+
+O mundo bate — você devolve. Dor não é um obstáculo, é parte do caminho. Cansaço vem, o corpo pesa, os músculos reclamam… e ainda assim, você continua. Onde outros recuam, você **permanece**.
+
+Seu corpo é sua fortaleza. Aguenta impacto, resiste ao desgaste, suporta o que quebraria outros. Ferimentos não te param — no máximo, te atrasam. Você não precisa ser rápido, nem preciso. Você precisa ser **inevitável**.
+
+E isso muda a forma como você age.
+
+Você entra primeiro, segura o que vier, atravessa o que estiver no caminho. Pressão não te desestabiliza — ela te define. Quanto mais difícil, mais você se impõe. Sua presença é física, concreta, impossível de ignorar.
+
+Mas resistência não é invulnerabilidade.
+
+Você pode insistir quando deveria recuar, ignorar limites até que seja tarde demais, confiar demais no corpo e de menos no resto. Nem tudo pode ser resolvido aguentando. Nem todo golpe precisa ser recebido.
+
+Você pode ser alguém que suporta o impossível, que protege os outros simplesmente por continuar de pé quando ninguém mais consegue. Ou alguém que avança sem pensar, absorvendo tudo até que não reste mais nada para sustentar.
+
+No fim, resistir não é apenas sobreviver.
+
+É saber **até quando continuar — e quando cair também tem um custo.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Especialista:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+
+## Dinâmico
+
+Mova-se. Reaja. Não fique parado.
+
+O mundo não espera — e você também não. Tudo está em fluxo: corpos, objetos, intenções. Você lê esse movimento e responde na mesma medida. Avança, recua, desvia, ajusta. Estar parado é estar em desvantagem.
+
+Seu corpo é rápido, preciso, adaptável. Cada ação se conecta à próxima. Você não executa movimentos isolados — você encadeia, improvisa, responde em tempo real. Onde outros precisam pensar, você já **agiu**.
+
+Velocidade não é só correr.
+
+É mudar de direção, encontrar aberturas, explorar oportunidades antes que desapareçam. Você se reposiciona, contorna obstáculos, transforma espaço em vantagem. O mundo é um campo em constante transformação — e você se transforma com ele.
+
+Mas movimento também dispersa.
+
+Você pode agir antes de entender, reagir sem avaliar, trocar consistência por impulso. Nem toda situação exige velocidade. Às vezes, parar é o que mantém você inteiro.
+
+Você pode ser alguém ágil, imprevisível, sempre um passo à frente, difícil de alcançar e ainda mais difícil de conter. Ou alguém inquieto, instável, que nunca se fixa o suficiente para sustentar uma ação até o fim.
+
+No fim, agir rápido não é o mesmo que agir bem.
+
+É preciso saber **quando se mover — e quando permanecer.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Especialista:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+
+## Aguçado
+
+Observe. Perceba. Antecipe.
+
+O mundo fala o tempo todo — na forma de detalhes. Um som fora do lugar, um movimento sutil, uma mudança no ambiente. Onde outros veem cenário, você vê **informação**.
+
+Seus sentidos estão sempre ativos. Você nota padrões, identifica ameaças, percebe intenções antes que se concretizem. Nada passa completamente despercebido. Mesmo quando não está procurando, você está **vendo**.
+
+E isso te coloca à frente.
+
+Você reage antes do impacto, se prepara antes do perigo, se posiciona antes da ação acontecer. Sua força não está em resistir ou se mover mais rápido, mas em **não ser pego desprevenido**. Você joga com vantagem — porque já entendeu o que está acontecendo.
+
+Mas percepção não é controle.
+
+Você pode se sobrecarregar com estímulos, hesitar diante de excesso de informação, ver ameaças onde não existem ou se perder tentando antecipar tudo. Nem tudo pode ser previsto. Nem tudo precisa ser analisado.
+
+Você pode ser alguém atento, preciso, sempre preparado, capaz de evitar riscos antes mesmo que eles surjam. Ou alguém tenso, vigilante demais, incapaz de relaxar, sempre esperando pelo próximo problema.
+
+No fim, perceber não é apenas enxergar.
+
+É saber **o que realmente importa — e o que pode ser ignorado.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Especialista:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]], [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+
+## Arrojado
+
+Avance. Arrisque. Supere.
+
+O caminho mais seguro raramente é o mais eficaz. Você sabe disso — e age de acordo. Onde há risco, há oportunidade. Onde há hesitação, você **rompe**.
+
+Seu corpo sustenta suas decisões. Você aguenta impacto, suporta o desgaste, atravessa situações que fariam outros recuar. Mas, diferente do Abrutalhado, você não fica — você **vai**. Seu movimento é direto, decidido, sem espaço para dúvida.
+
+Você entra, executa, resolve.
+
+Há intenção nos seus passos, direção nas suas ações. Você não se lança de forma cega — você escolhe avançar, mesmo sabendo das consequências. Sua motricidade acompanha esse impulso: não é perfeita, mas é suficiente para te colocar onde precisa estar, quando precisa.
+
+Mas ousadia cobra seu preço.
+
+Você pode subestimar riscos, confiar demais na própria resistência, avançar quando deveria esperar. Nem todo obstáculo pode ser atravessado à força. Nem toda oportunidade compensa o custo.
+
+Você pode ser alguém decisivo, corajoso, capaz de mudar o rumo de uma situação no momento certo, assumindo riscos que outros evitariam. Ou alguém imprudente, sempre um passo além do necessário, acumulando consequências que não consegue sustentar.
+
+No fim, avançar não é apenas coragem.
+
+É saber **qual risco vale a pena correr — e qual pode te derrubar.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Versado:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+
+## Competitivo
+
+Dispute. Supere. Vença.
+
+Nada é apenas uma ação — é um teste. Um obstáculo não é só algo a ser resolvido, é algo a ser **superado melhor do que qualquer outro faria**. Você não participa — você compete.
+
+Seu corpo responde com precisão e eficiência. Seus movimentos são treinados, ajustados, refinados. Você executa melhor, mais rápido, com mais controle. Não por acaso — mas porque **quer ser o melhor**.
+
+E você sustenta isso.
+
+Seu corpo aguenta o esforço, mantém o ritmo, suporta a pressão de ir além do limite comum. Você não para no “suficiente”. Sempre há mais um passo, mais um avanço, mais uma forma de fazer melhor.
+
+Mas competição também distorce.
+
+Você pode transformar tudo em disputa, enxergar rivais onde não existem, ultrapassar limites desnecessários apenas para provar um ponto. Nem toda situação exige vitória. Nem toda vitória vale o custo.
+
+Você pode ser alguém que eleva o nível de tudo ao redor, que impulsiona outros a crescer e transforma desafios em conquistas reais. Ou alguém obcecado por desempenho, incapaz de aceitar falhas, sempre medindo valor em termos de superioridade.
+
+No fim, vencer não é apenas superar os outros.
+
+É saber **o que realmente vale a pena conquistar.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Versado:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+
+## Protetor
+
+Sustente. Observe. Intervenha.
+
+Nem todo combate é sobre avançar. Às vezes, é sobre **permanecer** — entre o perigo e aquilo que precisa ser preservado. Você entende isso. Sua força não está apenas em resistir, mas em **segurar a linha**.
+
+Seu corpo aguenta. Impactos, desgaste, pressão — você absorve o que vier. Não por descuido, mas por escolha. Você se coloca onde o risco é maior porque sabe que **alguém precisa estar ali**.
+
+E você está atento.
+
+Você observa o campo, identifica ameaças, antecipa movimentos. Não espera o problema acontecer — você se posiciona antes. Sua percepção não é distante; ela é **prática**, voltada para agir no momento certo.
+
+Mas proteger também pesa.
+
+Você pode assumir responsabilidades que não são suas, se colocar em risco constante, tentar sustentar mais do que consegue. Nem tudo pode ser impedido. Nem todos podem ser salvos.
+
+Você pode ser alguém confiável, firme, que mantém outros seguros mesmo sob pressão, que transforma resistência em segurança. Ou alguém sobrecarregado, sempre carregando mais do que deveria, incapaz de recuar mesmo quando necessário.
+
+No fim, proteger não é apenas resistir.
+
+É saber **o que você pode sustentar — e o que está além do seu alcance.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Versado:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+
+## Vigilante
+
+Vigie. Sustente. Não relaxe.
+
+O perigo raramente avisa quando chega. Ele se insinua, se aproxima aos poucos, se esconde nos intervalos. Você sabe disso — e por isso **não abaixa a guarda**.
+
+Seus sentidos estão sempre atentos. Você observa padrões, nota ausências, percebe mudanças sutis no ambiente. Não se trata de reagir rápido, mas de **nunca ser pego desprevenido**. Antes que algo aconteça, você já está preparado.
+
+E você sustenta essa atenção.
+
+Seu corpo aguenta a vigília, o cansaço, a repetição. Longos períodos de tensão não te quebram facilmente. Você permanece, firme, constante, mantendo o foco mesmo quando tudo ao redor começa a falhar.
+
+Mas vigilância também cobra seu preço.
+
+Você pode se tornar rígido, incapaz de relaxar, sempre esperando pelo pior. Pode ver ameaças onde não existem, gastar energia com o que nunca se concretiza. Nem todo silêncio esconde perigo. Nem toda pausa é uma armadilha.
+
+Você pode ser alguém confiável, sempre atento, que percebe o risco antes que ele se torne real e mantém todos seguros pela sua constância. Ou alguém exausto, preso em um estado contínuo de alerta, incapaz de desligar, sempre à espera de algo que talvez nunca venha.
+
+No fim, vigiar não é apenas observar.
+
+É saber **quando manter os olhos abertos — e quando é seguro fechá-los.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Versado:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+
+## Reativo
+
+Espere. Leia. Responda.
+
+Você não precisa agir primeiro. O mundo se move — e isso é o suficiente. Cada gesto, cada intenção, cada erro… tudo cria uma abertura. Você não força situações. Você **aproveita**.
+
+Observe. Entenda o que está acontecendo antes de se comprometer. Você lê movimentos, reconhece padrões, identifica o momento certo. Sua percepção não busca controle total — ela busca **o instante exato**.
+
+E quando ele chega… você age.
+
+Rápido, preciso, sem hesitação. Seu corpo responde antes que o pensamento atrase. Não há excesso, não há desperdício. Apenas ação direta, no tempo certo, no lugar certo.
+
+Mas reagir também limita.
+
+Você pode depender demais do outro para agir, hesitar quando deveria tomar iniciativa, esperar por uma oportunidade que nunca vem. Nem tudo se resolve respondendo. Às vezes, é preciso criar a situação.
+
+Você pode ser alguém eficiente, difícil de prever, que transforma qualquer ação alheia em vantagem própria. Ou alguém passivo, sempre um passo atrás, preso à necessidade de reagir em vez de decidir.
+
+No fim, responder bem não é o mesmo que conduzir.
+
+É preciso saber **quando esperar — e quando agir por conta própria.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Versado:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+
+## Predador
+
+Rastreie. Acerte. Termine.
+
+Nada se move sem deixar sinais. Um som, um rastro, uma hesitação — tudo entrega. Você observa, interpreta, conecta. O alvo não desaparece… ele apenas ainda não foi encontrado.
+
+Sua percepção é direcionada. Você não vê tudo — você vê **o que importa**. Filtra o ambiente, ignora o irrelevante, foca no essencial. Uma vez que identifica algo, dificilmente perde.
+
+E então você age.
+
+Seus movimentos são precisos, controlados, eficientes. Não há pressa desnecessária, nem desperdício. Você se posiciona, se aproxima, escolhe o momento — e executa. Não é sobre velocidade constante, mas sobre **acerto no momento certo**.
+
+Mas foco também estreita.
+
+Você pode ignorar o resto do ambiente, se fixar demais em um único objetivo, deixar passar ameaças ou oportunidades fora do seu campo de atenção. Nem tudo é um alvo. Nem tudo deve ser perseguido.
+
+Você pode ser alguém implacável, que encontra, persegue e resolve sem falhas, transformando qualquer situação em uma sequência controlada de ações. Ou alguém obsessivo, incapaz de soltar o que começou, mesmo quando já não faz sentido continuar.
+
+No fim, caçar não é apenas encontrar.
+
+É saber **quando seguir — e quando deixar ir.**
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Versado:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
+
+## Versátil
+
+Adapte-se. Ajuste. Continue.
+
+O corpo não precisa ser o melhor em tudo — precisa ser **capaz de responder**. Cada situação exige algo diferente: força, movimento, atenção. Você não se prende a um único modo de agir. Você se ajusta.
+
+Você aguenta quando precisa. Seu corpo resiste ao desgaste comum, suporta esforço, mantém o ritmo. Talvez não por longos extremos, mas o suficiente para **não falhar quando importa**.
+
+Você se move bem. Não de forma excepcional, mas com controle, coordenação e eficiência. Seus movimentos são seguros, funcionais, confiáveis. Você faz o que precisa ser feito — sem excessos, sem falhas graves.
+
+E você percebe o ambiente.
+
+Nota o suficiente, entende o contexto, reage de forma adequada. Não antecipa tudo, mas dificilmente é pego completamente desprevenido. Sua atenção é equilibrada — nem dispersa, nem obsessiva.
+
+Mas equilíbrio também tem seu limite.
+
+Você dificilmente será o mais forte, o mais rápido ou o mais atento. Em situações extremas, isso se torna evidente. Quando tudo exige excelência absoluta, o “bom o bastante” pode não ser suficiente.
+
+Você pode ser alguém confiável em qualquer situação, capaz de se adaptar, sustentar e agir com consistência independentemente do desafio. Ou alguém que nunca se destaca, sempre competente, mas raramente decisivo.
+
+No fim, ser capaz de tudo não é o mesmo que dominar algo.
+
+Mas às vezes… é exatamente o que mantém você de pé.
+
+> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> - **Competente:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]], [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
+
+# Conclusão
 
 lorem ipsum
