@@ -4,7 +4,7 @@
 | 5   | 1 - Trivial          | Uma criança de sete anos conseguiria sem muita dificuldade                                                                                                                         |
 | 10  | 2 - Fácil            | Pessoas destreinadas e sem prática em geral são capazes de realizar essa ação                                                                                                      |
 | 15  | 3 - Moderada         | Com um pouco de esforço e sorte é possível realizar essa tarefa                                                                                                                    |
-| 20  | 4 - Desafiadora      | É preciso muita concentração e prática para conseguir realizar esse feito                                                                                                          |
+| 20  | 4 - Considerável     | É preciso muita concentração e prática para conseguir realizar esse feito                                                                                                          |
 | 30  | 5 - Exigente         | Somente alguém com alguns anos de prática e costume é capaz de realizar se estiver aquecido                                                                                        |
 | 40  | 6 - Árdua            | É preciso pelo menos uma década de prática e dedicação para realizar esse feito                                                                                                    |
 | 50  | 7 - Extrema          | Exige não apenas anos de treino e dedicação, mas também talento nato; somente indivíduos naturalmente dotados e altamente treinados conseguem realizar com consistência            |
