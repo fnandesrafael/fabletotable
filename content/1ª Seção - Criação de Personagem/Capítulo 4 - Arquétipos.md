@@ -26,7 +26,7 @@ Cada personalidade, portanto, não apenas estabelece uma distribuição de aptid
 
 ## Erudito
 
-![[Pasted image 20260325222714.png]]
+![[erudito.png]]
 
 > Observe. Analise. Questione.
 
