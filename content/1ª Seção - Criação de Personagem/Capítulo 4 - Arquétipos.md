@@ -37,7 +37,7 @@ Dessa forma você é livre para especializar em quais perícias exatamente seu p
 > 
 > Já os [[Pontos de Atributo]] estão mais atrelados à probabilidade. Então quanto maior o nível de um atributo, não quer dizer que você é melhor necessariamente, mas que possui uma tendência de conseguir se dar bem em contextos que envolvem aquele atributo.
 > 
-> ==**Também é importante saber que, toda [[Perícias|Perícia]] possui um limite de bônus de proficiência de até +20. No entanto, personagens Especialistas aumentam esse limite para até +30**.==
+> <mark>**Também é importante saber que, toda [[Perícias|Perícia]] possui um limite de bônus de proficiência de até +20. No entanto, personagens Especialistas aumentam esse limite para até +30**.</mark>
 
 # Personalidades
 
