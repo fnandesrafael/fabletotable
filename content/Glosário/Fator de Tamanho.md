@@ -1,0 +1,1 @@
+> Número equivalente à uma dada classificação de [[Altura]] e/ou [[Peso]] de acordo com a [[Tabela de Altura e Peso]], servindo para o cálculo do [[Tamanho]] do personagem.

@@ -2,7 +2,7 @@ Os **Arquétipos** são uma tentativa de representar e agrupar padrões universa
 
 Eles representam aquilo que o personagem **é em essência**. Enquanto os [[Atributos]] definem suas características constitutivas e as [[Perícias]] determinam o quão bem ele é capaz de realizar determinadas ações a partir dessas características, os arquétipos organizam e traduzem tudo isso em uma **forma coerente de existência dentro do mundo**. Mais do que uma escolha mecânica, eles carregam uma expressão da maneira como o personagem pensa, age e se posiciona diante da realidade.
 
-Em _Sangue e Aço_, não existem classes ou raças como estruturas fixas. Em vez disso, cada personagem é construído a partir de um arquétipo, que surge da combinação entre dois aspectos fundamentais: uma [[Personalidade]] e uma [[Postura]].
+Em _Sangue e Aço_, não existem classes ou raças como estruturas fixas. Em vez disso, cada personagem é construído a partir de um arquétipo, que surge da combinação entre dois aspectos fundamentais: uma [[#Personalidades|Personalidade]] e uma [[#Posturas|Postura]].
 
 Ao combinar uma personalidade com uma postura, você define o arquétipo do seu personagem. Essa combinação estabelece um **padrão de especialização e limitação**, determinando quais áreas ele domina, em quais atua com competência e em quais encontra dificuldades. É essa estrutura que orienta a distribuição de seus bônus de proficiência, influenciando diretamente sua evolução ao longo do jogo.
 
@@ -12,11 +12,11 @@ Ao longo deste capítulo, você encontrará as diferentes personalidades e postu
 
 ## A Mecânica dos Arquétipos
 
-lorem ipsum
+Para cada vez que seu personagem adquire um novo [[Nível de Personagem|NP]]
 
 # Personalidades
 
-A [[Personalidade]] representa o aspecto **psíquico** do personagem. Ela define sua maneira de pensar, interpretar e reagir ao mundo em um nível interno, servindo como base para suas decisões, valores e formas de interação.
+A [[#Personalidades|Personalidade]] representa o aspecto **psíquico** do personagem. Ela define sua maneira de pensar, interpretar e reagir ao mundo em um nível interno, servindo como base para suas decisões, valores e formas de interação.
 
 É através da personalidade que compreendemos como o personagem raciocina, como se relaciona com outras pessoas e como percebe aquilo que não é imediatamente tangível. Ela influencia não apenas suas ações, mas também **a forma como ele escolhe agir**, funcionando como um direcionamento interpretativo para o jogador.
 
@@ -291,11 +291,11 @@ Mas também não é o mesmo que **dominar aquilo que realmente importa**.
 > - **Competente:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]], [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]], [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
 # Posturas
 
-A [[Postura]] representa o aspecto **somático** do personagem. Ela define como ele se manifesta fisicamente no mundo — como se move, reage e se posiciona diante de situações concretas.
+A [[#Posturas|Postura]] representa o aspecto **somático** do personagem. Ela define como ele se manifesta fisicamente no mundo — como se move, reage e se posiciona diante de situações concretas.
 
 Mais do que capacidade física, a postura envolve **atitude corporal**. Ela expressa a forma como o personagem ocupa espaço, responde a estímulos e executa suas ações, servindo como um reflexo direto de sua presença no ambiente.
 
-Mecânicamente, está relacionada aos [[Atributo Corporal|Atributos Corporais]] ([[Capítulo 2 - Atributos#Constituição (CON)|Constituição]], [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção]]), organizando-os de acordo com a maneira como o personagem atua na prática. Assim como ocorre com as personalidades, essa estrutura determina suas áreas de especialização, competência e limitação.
+Mecânicamente, está relacionada aos [[Atributo Corporal|Atributo Corporal|Atributos Corporais]] ([[Capítulo 2 - Atributos#Constituição (CON)|Constituição]], [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção]]), organizando-os de acordo com a maneira como o personagem atua na prática. Assim como ocorre com as personalidades, essa estrutura determina suas áreas de especialização, competência e limitação.
 
 A postura também pode ser utilizada como um **guia de interpretação**, ajudando a definir não apenas o que o personagem faz, mas **como ele faz**. Dois personagens podem realizar a mesma ação, mas a forma como seus corpos respondem a ela (com força, precisão, cautela ou rapidez), pode ser completamente diferente.
 
@@ -321,7 +321,7 @@ No fim, resistir não é apenas sobreviver.
 
 É saber **até quando continuar — e quando cair também tem um custo.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Especialista:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 
@@ -347,7 +347,7 @@ No fim, agir rápido não é o mesmo que agir bem.
 
 É preciso saber **quando se mover — e quando permanecer.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Especialista:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 
@@ -373,7 +373,7 @@ No fim, perceber não é apenas enxergar.
 
 É saber **o que realmente importa — e o que pode ser ignorado.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Especialista:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]], [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
 
@@ -399,7 +399,7 @@ No fim, avançar não é apenas coragem.
 
 É saber **qual risco vale a pena correr — e qual pode te derrubar.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
@@ -426,7 +426,7 @@ No fim, vencer não é apenas superar os outros.
 
 É saber **o que realmente vale a pena conquistar.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
@@ -453,7 +453,7 @@ No fim, proteger não é apenas resistir.
 
 É saber **o que você pode sustentar — e o que está além do seu alcance.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
@@ -480,7 +480,7 @@ No fim, vigiar não é apenas observar.
 
 É saber **quando manter os olhos abertos — e quando é seguro fechá-los.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
@@ -507,7 +507,7 @@ No fim, responder bem não é o mesmo que conduzir.
 
 É preciso saber **quando esperar — e quando agir por conta própria.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
@@ -534,7 +534,7 @@ No fim, caçar não é apenas encontrar.
 
 É saber **quando seguir — e quando deixar ir.**
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]]
@@ -563,7 +563,7 @@ No fim, ser capaz de tudo não é o mesmo que dominar algo.
 
 Mas às vezes… é exatamente o que mantém você de pé.
 
-> [!info] Categoria de [[Atributo Físico|Atributos Físicos]]
+> [!info] Categoria de [[Atributo Corporal|Atributos Corporais]]
 > - **Competente:** [[Capítulo 2 - Atributos#Constituição (CON)|Constituição (CON)]], [[Capítulo 2 - Atributos#Motricidade (MOT)|Motricidade (MOT)]], [[Capítulo 2 - Atributos#Percepção (PER)|Percepção (PER)]]
 
 # Conclusão

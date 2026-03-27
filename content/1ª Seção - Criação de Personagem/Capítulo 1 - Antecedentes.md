@@ -98,7 +98,7 @@ Artistas são indivíduos dedicados à expressão estética, emocional ou simbó
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **1** à **4** graus de redução** na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Subjetividade / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Subjetividade / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
 
 ## Artífice
 

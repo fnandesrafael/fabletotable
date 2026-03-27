@@ -1,1 +1,1 @@
-> Valores que graduam um [[Atributos Base]], desse modo categorizando uma característica de um personagem num determinado grau.
+> Valores que graduam um [[Atributos Base]], desse modo categorizando alguma característica de um dado personagem num determinado grau.

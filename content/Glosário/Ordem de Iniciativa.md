@@ -1,1 +1,0 @@
-> Ordem de [[Rodada|Rodadas]] entre os [[Protagonistas]] e adversários.

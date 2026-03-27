@@ -1,0 +1,1 @@
+> [[Capítulo 2 - Atributos|Atributo]] que quantifica o personagem em termos de espaço e massa. Seu resultado é fruto de uma média aritimética simples entre [[Altura]] e [[Peso]], de acordo com a [[Tabela de Tamanho]].

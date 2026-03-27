@@ -1,0 +1,1 @@
+> [[Capítulo 2 - Atributos|Atributo]] que caracteriza sua altura — dando-lhe um [[Fator de Tamanho]] — e que ao ser relacionado com o [[Peso]] numa média aritimética simples, resulta no [[Tamanho]] do personagem.
