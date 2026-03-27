@@ -1,0 +1,6 @@
+| **Nível de Proficiência** | **Bônus de Proficiência por [[Nível de Personagem]]**                                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Especialista**          | **+14 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
+| **Versado**               | **+10 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
+| **Competente**            | **+6 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
+| **Imperito**              | **+2 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |

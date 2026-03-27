@@ -16,7 +16,15 @@ Para cada vez que seu personagem adquire um novo [[Capítulo 2 - Atributos#Níve
 
 Portanto, cada arquétipo — concede ao jogador — uma heterogênea distribuição de uma mesma quantidade total de bônus de proficiência, para especializar seu personagem em suas diferentes [[Perícias]].
 
-Para sabermos exatamente de quantos pontos desse bônus estamos falando, precisamos considerar a [[Tabela de Proficiência]]
+Para sabermos exatamente de quantos pontos desse bônus estamos falando, precisamos considerar a [[Tabela de Nível de Proficiência]]:
+
+| **Nível de Proficiência** | **Bônus de Proficiência por [[Nível de Personagem]]**                                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Especialista**          | **+14 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
+| **Versado**               | **+10 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
+| **Competente**            | **+6 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
+| **Imperito**              | **+2 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
+> [[Tabela de Nível de Proficiência]]
 
 
 
