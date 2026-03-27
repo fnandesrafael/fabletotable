@@ -27,7 +27,7 @@ Ao [[Mestre]], cabe avaliar se há coerência entre a ação descrita e a períc
 > | **Tolerância**      | [[#Constituição (CON)\|CON]] | **Gustação**       | [[#Percepção (PER)\|PER]]   | **Perspectiva**   | [[#Senciência (SEN)\|SEN]] |
 > | **Vitalidade**      | [[#Constituição (CON)\|CON]] | **Observação**     | [[#Percepção (PER)\|PER]]   | **Subjetividade** | [[#Senciência (SEN)\|SEN]] |
 >
-> [[Tabela de Relação Perícia-Atributo]]
+> [[Tabela de Relação Perícia-Atributo 1]]
 
 # Lista de Perícias
 ## Aromatismo
