@@ -76,6 +76,24 @@ Os **Fatores de Tamanho** obtidos pelas faixas de altura e peso escolhidas delib
 
 Os **Pontos de Sangue (PS)** representam a **saúde do personagem** em _Sangue e Aço_. Eles medem quão íntegro e saudável o corpo do personagem se encontra, funcionando como uma referência direta para ferimentos e dano recebido. Quanto mais PS o personagem tiver, mais saudável ele está; quanto menos, mais próximo da incapacidade ou morte.
 
+### Vida Máxima e Vida Atual
+
+Os [[Pontos de Sangue]] são divididos em dois valores:
+
+- [[Vida Máxima]], representa a quantidade total de PS que o personagem possui.
+- [[Vida Atual]], representa quantos PS o personagem possui no momento.
+
+A vida atual — normalmente — nunca ultrapassa a vida máxima. Sempre que o personagem sofre [[Dano]], sua vida atual é reduzida de acordo.
+
+Para calcular a vida máxima de um personagem podemos usar a seguinte fórmula:
+
+
+> [!important] Cálculo de Vida Máxima
+> 
+> 20 + NPd*X* (Onde *X* equivale ao [[Dado de Vida]] do personagem) + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Vitalidade|Perícia Vitalidade]].
+
+### Dado de Vida
+
 lorem ipsum
 
 ## Pontos de Esforço (PE)

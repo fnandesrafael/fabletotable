@@ -12,7 +12,7 @@ Ao longo deste capítulo, você encontrará as diferentes personalidades e postu
 
 ## A Mecânica dos Arquétipos
 
-Para cada vez que seu personagem adquire um novo [[Capítulo 2 - Atributos#Nível de Personagem (NP)|NP]], são disponibilizados ao mesmo uma série de pontos que podem ser distribuídos livremente, tal como é o caso dos [[Pontos de Atributo]]. No entanto, quando falamos de [[Arquétipos]], estamos nos referindo à [[Bônus de Proficiência]].
+Para cada vez que seu personagem adquire um novo [[Capítulo 2 - Atributos#Nível de Personagem (NP)|NP]], são disponibilizados ao mesmo uma série de pontos, que podem ser distribuídos livremente, tal como é o caso dos [[Pontos de Atributo]]. No entanto, quando falamos de [[Arquétipos]], estamos nos referindo a [[Bônus de Proficiência]].
 
 Portanto, cada arquétipo — concede ao jogador — uma heterogênea distribuição de uma mesma quantidade total de bônus de proficiência, para especializar seu personagem em suas diferentes [[Perícias]].
 
@@ -26,7 +26,7 @@ Para sabermos exatamente de quantos pontos desse bônus estamos falando, precisa
 | **Imperito**                          | **+2 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
 > [[Tabela de Nível de Proficiência]]
 
-Ou seja, toda [[Personalidade]] dirá exatamente o nível de proficiência que seu personagem tem em seus [[Atributo Mental|Atributos Mentais]], quanto sua [[Postura]] fará o mesmo, porém, com os [[Atributo Corporal|Atributos Corporais]].
+Ou seja, toda [[Personalidade]] dirá exatamente o nível de proficiência que seu personagem tem em seus [[Atributo Mental|Atributos Mentais]]; enquanto sua [[Postura]] fará o mesmo, porém, com os [[Atributo Corporal|Atributos Corporais]].
 
 Dessa forma você é livre para especializar em quais perícias exatamente seu personagem é melhor ou pior. Mas seu arquétipo orientará o potencial de um personagem para conquistar o máximo de proveito de perícias baseadas naquele atributo.
 
