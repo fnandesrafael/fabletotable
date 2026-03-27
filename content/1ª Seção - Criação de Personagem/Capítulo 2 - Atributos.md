@@ -132,15 +132,11 @@ Em ambos os casos, o valor resultate será somado à sua vida atual
 >
 > **Mestre:** Perfeito. Então sua Vida Máxima fica assim:
 >
-> **Vida Máxima = 20 + (NPdX) + Vitalidade**  
-> **Vida Máxima = 20 + (5d10) + 6**  
-> **Vida Máxima = 20 + 50 + 6 = 76**
+> **Vida Máxima = 20 + (NPdX) + Vitalidade = 20 + (5d10) + 6 = 76**
 >
 > **Moésio:** Então eu tenho 76 Pontos de Sangue no total.
 >
 > **Mestre:** Exatamente.
->
-> ---
 >
 > **Mestre:** Agora imagine que você sofreu dano e está com 30 PS restantes. Você decide fazer um Descanso Curto.
 >
@@ -151,8 +147,6 @@ Em ambos os casos, o valor resultate será somado à sua vida atual
 > **Moésio:** Tirei 4, 7 e 6. Total de 17.
 >
 > **Mestre:** Então você recupera 17 PS, indo de 30 para 47.
->
-> ---
 >
 > **Mestre:** Mais tarde, você consegue fazer um Descanso Longo.
 >
