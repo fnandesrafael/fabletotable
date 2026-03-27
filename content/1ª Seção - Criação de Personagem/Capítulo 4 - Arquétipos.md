@@ -18,15 +18,26 @@ Portanto, cada arquétipo — concede ao jogador — uma heterogênea distribui�
 
 Para sabermos exatamente de quantos pontos desse bônus estamos falando, precisamos considerar a [[Tabela de Nível de Proficiência]]:
 
-| **Nível de Proficiência** | **Bônus de Proficiência por [[Nível de Personagem]]**                                                                                      |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Especialista**          | **+14 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
-| **Versado**               | **+10 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
-| **Competente**            | **+6 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
-| **Imperito**              | **+2 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
+| **Nível de Proficiência do Atributo** | **Bônus de Proficiência por [[Nível de Personagem]]**                                                                                      |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Especialista**                      | **+14 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
+| **Versado**                           | **+10 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência. |
+| **Competente**                        | **+6 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
+| **Imperito**                          | **+2 pontos** de [[Bônus de Proficiência]] para distribruir entre [[Perícias]] baseadas no atributo no qual ele possua essa proficiência.  |
 > [[Tabela de Nível de Proficiência]]
 
+Ou seja, toda [[Personalidade]] dirá exatamente o nível de proficiência que seu personagem tem em seus [[Atributo Mental|Atributos Mentais]], quanto sua [[Postura]] fará o mesmo, porém, com os [[Atributo Corporal|Atributos Corporais]].
 
+Dessa forma você é livre para especializar em quais perícias exatamente seu personagem é melhor ou pior. Mas seu arquétipo orientará o potencial de um personagem para conquistar o máximo de proveito de perícias baseadas naquele atributo.
+
+
+> [!important] Informações Adicionais
+> 
+> O [[Bônus de Proficiência]] por serem valores fixos adicionados à um teste de rolagem, deslocam o resultado significativamente, o que dá uma sensação de treinamento e maestria. Ou seja, tendo **+5** na perícia **Atuação**, por exemplo, quer dizer que seu personagem nunca vai tirar menos que 5 num teste de atuação.
+> 
+> Já os [[Pontos de Atributo]] estão mais atrelados à probabilidade. Então quanto maior o nível de um atributo, não quer dizer que você é melhor necessariamente, mas que possui uma tendência de conseguir se dar bem em contextos que envolvem aquele atributo.
+> 
+> ==**Também é importante saber que, toda [[Perícias|Perícia]] possui um limite de bônus de proficiência de até +20. No entanto, personagens Especialistas aumentam esse limite para até +30**.==
 
 # Personalidades
 
