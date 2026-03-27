@@ -102,7 +102,7 @@ E você sabe como passar por elas.
 
 ## Místico
 
-Sinta. Permita. Escute o que não é dito.
+> Sinta. Permita. Escute o que não é dito.
 
 O mundo não se limita ao que pode ser visto, medido ou explicado. Há algo por trás das formas, algo entre os momentos, algo que escapa quando tentam nomear. Você não tenta capturar isso — você **experimenta**.
 
@@ -126,7 +126,7 @@ Algumas coisas apenas precisam ser sentidas.
 
 ## Cético
 
-Questione. Analise. Desconfie.
+> Questione. Analise. Desconfie.
 
 Nada deve ser aceito como verdade sem antes ser examinado. O mundo está cheio de ilusões — crenças frágeis, interpretações enviesadas, narrativas convenientes. Você não se deixa levar por elas. Você desmonta, testa, verifica. Se algo não pode ser sustentado, não merece ser mantido.
 
@@ -153,7 +153,7 @@ No fim, a questão não é apenas duvidar.
 
 ## Líder
 
-Fale. Oriente. Conduza.
+> Fale. Oriente. Conduza.
 
 Pessoas observam, hesitam, duvidam. Você não. Onde há indecisão, você se posiciona. Onde há ruído, você organiza. Sua presença não passa despercebida — ela **direciona**.
 
@@ -180,7 +180,7 @@ No fim, liderar não é apenas estar à frente.
 
 ## Lúdico
 
-Experimente. Brinque. Improvise.
+> Experimente. Brinque. Improvise.
 
 O mundo não precisa ser levado tão a sério — e talvez seja justamente por isso que você o entende tão bem. Regras existem, padrões existem… mas você vê além deles. Você testa limites, combina ideias improváveis, encontra soluções onde ninguém pensaria em procurar.
 
@@ -209,7 +209,7 @@ Mas chega um momento em que você precisa decidir:
 
 ## Visionário
 
-Imagine. Projete. Antecipe.
+> Imagine. Projete. Antecipe.
 
 O mundo não é apenas o que é — é aquilo que **pode se tornar**. Você enxerga possibilidades antes que elas existam, caminhos onde outros veem apenas o presente. Ideias surgem, se conectam, se expandem. Você não reage ao mundo como ele está; você se orienta pelo que ele **pode vir a ser**.
 
@@ -236,7 +236,7 @@ No fim, visão não é apenas enxergar à frente.
 
 ## Virtuoso
 
-Sinta. Expresse. Marque presença.
+> Sinta. Expresse. Marque presença.
 
 O mundo não é apenas percebido — ele é vivido, interpretado e **expresso**. Emoções, sensações, atmosferas… tudo passa por você com intensidade. E, diferente de outros, você não guarda isso. Você **transforma**.
 
@@ -263,7 +263,7 @@ No fim, sentir não é o bastante.
 
 ## Idealista
 
-Acredite. Sinta. Insista.
+> Acredite. Sinta. Insista.
 
 O mundo pode ser melhor — e você **sente isso**. Não como uma ideia distante, mas como algo presente, quase inevitável. Há algo nas pessoas, nas relações, nas possibilidades… algo que vale a pena preservar, proteger, transformar.
 
@@ -290,7 +290,7 @@ No fim, acreditar não é apenas sentir.
 
 ## Polímata
 
-Adapte-se. Aprenda. Conecte.
+> Adapte-se. Aprenda. Conecte.
 
 O mundo é vasto demais para ser reduzido a uma única forma de entendimento. Pensar, sentir, interpretar — tudo tem seu lugar. Você não se prende a um único caminho. Em vez disso, transita entre eles.
 
@@ -326,7 +326,7 @@ A postura também pode ser utilizada como um **guia de interpretação**, ajudan
 
 ## Abrutalhado
 
-Aguente. Avance. Não pare.
+> Aguente. Avance. Não pare.
 
 O mundo bate — você devolve. Dor não é um obstáculo, é parte do caminho. Cansaço vem, o corpo pesa, os músculos reclamam… e ainda assim, você continua. Onde outros recuam, você **permanece**.
 
@@ -352,7 +352,7 @@ No fim, resistir não é apenas sobreviver.
 
 ## Dinâmico
 
-Mova-se. Reaja. Não fique parado.
+> Mova-se. Reaja. Não fique parado.
 
 O mundo não espera — e você também não. Tudo está em fluxo: corpos, objetos, intenções. Você lê esse movimento e responde na mesma medida. Avança, recua, desvia, ajusta. Estar parado é estar em desvantagem.
 
@@ -378,7 +378,7 @@ No fim, agir rápido não é o mesmo que agir bem.
 
 ## Aguçado
 
-Observe. Perceba. Antecipe.
+> Observe. Perceba. Antecipe.
 
 O mundo fala o tempo todo — na forma de detalhes. Um som fora do lugar, um movimento sutil, uma mudança no ambiente. Onde outros veem cenário, você vê **informação**.
 
@@ -404,7 +404,7 @@ No fim, perceber não é apenas enxergar.
 
 ## Arrojado
 
-Avance. Arrisque. Supere.
+> Avance. Arrisque. Supere.
 
 O caminho mais seguro raramente é o mais eficaz. Você sabe disso — e age de acordo. Onde há risco, há oportunidade. Onde há hesitação, você **rompe**.
 
@@ -431,7 +431,7 @@ No fim, avançar não é apenas coragem.
 
 ## Competitivo
 
-Dispute. Supere. Vença.
+> Dispute. Supere. Vença.
 
 Nada é apenas uma ação — é um teste. Um obstáculo não é só algo a ser resolvido, é algo a ser **superado melhor do que qualquer outro faria**. Você não participa — você compete.
 
@@ -458,7 +458,7 @@ No fim, vencer não é apenas superar os outros.
 
 ## Protetor
 
-Sustente. Observe. Intervenha.
+> Sustente. Observe. Intervenha.
 
 Nem todo combate é sobre avançar. Às vezes, é sobre **permanecer** — entre o perigo e aquilo que precisa ser preservado. Você entende isso. Sua força não está apenas em resistir, mas em **segurar a linha**.
 
@@ -485,7 +485,7 @@ No fim, proteger não é apenas resistir.
 
 ## Vigilante
 
-Vigie. Sustente. Não relaxe.
+> Vigie. Sustente. Não relaxe.
 
 O perigo raramente avisa quando chega. Ele se insinua, se aproxima aos poucos, se esconde nos intervalos. Você sabe disso — e por isso **não abaixa a guarda**.
 
@@ -512,7 +512,7 @@ No fim, vigiar não é apenas observar.
 
 ## Reativo
 
-Espere. Leia. Responda.
+> Espere. Leia. Responda.
 
 Você não precisa agir primeiro. O mundo se move — e isso é o suficiente. Cada gesto, cada intenção, cada erro… tudo cria uma abertura. Você não força situações. Você **aproveita**.
 
@@ -539,7 +539,7 @@ No fim, responder bem não é o mesmo que conduzir.
 
 ## Predador
 
-Rastreie. Acerte. Termine.
+> Rastreie. Acerte. Termine.
 
 Nada se move sem deixar sinais. Um som, um rastro, uma hesitação — tudo entrega. Você observa, interpreta, conecta. O alvo não desaparece… ele apenas ainda não foi encontrado.
 
@@ -566,7 +566,7 @@ No fim, caçar não é apenas encontrar.
 
 ## Versátil
 
-Adapte-se. Ajuste. Continue.
+> Adapte-se. Ajuste. Continue.
 
 O corpo não precisa ser o melhor em tudo — precisa ser **capaz de responder**. Cada situação exige algo diferente: força, movimento, atenção. Você não se prende a um único modo de agir. Você se ajusta.
 
