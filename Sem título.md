@@ -3,14 +3,14 @@
 - [ ] Atributos Vitais
 	- [x] Nível de Poder
 	- [x] Altura, Peso e Tamanho
-	- [ ] Pontos de Sangue (PS)
+	- [x] Pontos de Sangue (PS)
 	- [ ] Pontos de Esforço (PE)
 - [x] Atributos Base
 	- [x] Mentais
 	- [x] Corporais
 	- [x] Jogabilidade
 - [x] Perícias
-	- [ ] Bônus de Proficiência
+	- [x] Bônus de Proficiência
 
 # Drafts
 
