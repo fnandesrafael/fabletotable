@@ -12,7 +12,13 @@ Ao longo deste capítulo, você encontrará as diferentes personalidades e postu
 
 ## A Mecânica dos Arquétipos
 
-Para cada vez que seu personagem adquire um novo [[Nível de Personagem|NP]]
+Para cada vez que seu personagem adquire um novo [[Capítulo 2 - Atributos#Nível de Personagem (NP)|NP]], são disponibilizados ao mesmo uma série de pontos que podem ser distribuídos livremente, tal como é o caso dos [[Pontos de Atributo]]. No entanto, quando falamos de [[Arquétipos]], estamos nos referindo à [[Bônus de Proficiência]].
+
+Portanto, cada arquétipo — concede ao jogador — uma heterogênea distribuição de uma mesma quantidade total de bônus de proficiência, para especializar seu personagem em suas diferentes [[Perícias]].
+
+Para sabermos exatamente de quantos pontos desse bônus estamos falando, precisamos considerar a [[Tabela de Proficiência]]
+
+
 
 # Personalidades
 
