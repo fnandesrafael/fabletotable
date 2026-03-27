@@ -90,11 +90,86 @@ Para calcular a vida máxima de um personagem podemos usar a seguinte fórmula:
 
 > [!important] Cálculo de Vida Máxima
 > 
-> 20 + NPd*X* (Onde *X* equivale ao [[Dado de Vida]] do personagem) + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Vitalidade|Perícia Vitalidade]].
+> <mark>20 + NPd*X* (Onde *X* equivale ao [[Dado de Vida]] do personagem) + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Vitalidade|Perícia Vitalidade]].</mark>
 
 ### Dado de Vida
 
-lorem ipsum
+O **[[Dado de Vida]] (DV)** é uma mecânica que representa a **escala de saúde do personagem**, sendo diretamente determinado pelo valor de [[Constituição]].
+
+À medida que sua constituiçâo aumenta, o seu dado de vida também evolui, refletindo um corpo mais resistente, capaz de suportar maiores níveis de dano ao longo do tempo antes de sucumbir.
+
+| Valor do Atributo [[Constituição]] | Dado de Vida |
+| ---------------------------------- | ------------ |
+| -5 a -4                            | **d6**       |
+| -3 a -2                            | **d8**       |
+| +1 a +2                            | **d10**      |
+| +3 a +4                            | **d12**      |
+| +5                                 | **d20**      |
+> [[Tabela de Dados de Vida]]
+
+O dado de vida não é rolado para determinar a vida máxima, sendo sempre considerado pelo seu **valor máximo** para esse cálculo. Isso garante uma progressão estável e previsível entre personagens.
+
+No entanto, os dados de vida **são utilizados durante períodos de descanso para recuperar PS.**
+
+
+### Recuperação com Dado de Vida em Períodos de Descanso
+Em um **[[Descanso Curto]]**, você deverá rolar metade da quantidade total de dados de vida que possui (arredondando para cima caso a metade resulte num valor decimal).
+
+Em um **[[Descanso Longo]]**, você deverá: rolar a quantidade toatl de dados de vida que possui e somar o resultado à metade do valor máximo possível numa rolagem de todos os seus dados de vida.
+
+Em ambos os casos, o valor resultate será somado à sua vida atual
+
+
+> [!example] Exemplo:
+>
+> **Mestre:** Certo, Moésio. Vamos calcular seus Pontos de Sangue.
+>
+> **Moésio:** Beleza. Meu personagem tem [[Constituição]] **+2,** então meu Dado de Vida é um **d10**, certo?
+>
+> **Mestre:** Isso mesmo. E qual é o seu [[Nível de Personagem]]?
+>
+> **Moésio:** Estou no NP5. E tenho +6 de Bônus de Proficiência em [[Vitalidade]].
+>
+> **Mestre:** Perfeito. Então sua Vida Máxima fica assim:
+>
+> **Vida Máxima = 20 + (NPdX) + Vitalidade**  
+> **Vida Máxima = 20 + (5d10) + 6**  
+> **Vida Máxima = 20 + 50 + 6 = 76**
+>
+> **Moésio:** Então eu tenho 76 Pontos de Sangue no total.
+>
+> **Mestre:** Exatamente.
+>
+> ---
+>
+> **Mestre:** Agora imagine que você sofreu dano e está com 30 PS restantes. Você decide fazer um Descanso Curto.
+>
+> **Moésio:** Certo, eu recupero metade dos meus dados, arredondando pra cima, né?
+>
+> **Mestre:** Isso. Metade de 5 é 2,5, então você rola 3d10.
+>
+> **Moésio:** Tirei 4, 7 e 6. Total de 17.
+>
+> **Mestre:** Então você recupera 17 PS, indo de 30 para 47.
+>
+> ---
+>
+> **Mestre:** Mais tarde, você consegue fazer um Descanso Longo.
+>
+> **Moésio:** Agora eu vou rodar todos os meus Dados de Vida, certo?
+>
+> **Mestre:** Sim. Você rola 5d10 e soma o resultado dessa rolado à 25, que é justamente metade do valor máximo dos seus Dados de Vida.
+>
+> **Moésio:** Ok, rolei 5d10 e tirei: 6, 8, 3, 7 e 5. Total 29.
+>
+> **Mestre:** O valor máximo dos seus dados seria 5 × 10 = 50. Metade disso é 25.
+>
+> **Moésio:** Então eu recupero 29 + 25 = 54 PS.
+>
+> **Mestre:** Exatamente. Como sua Vida Máxima é 76, e você estava com 47, então você volta completamente ao máximo.
+>
+> **Moésio:** Boa!
+
 
 ## Pontos de Esforço (PE)
 
