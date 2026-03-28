@@ -1,0 +1,1 @@
+> Representam a **saúde do personagem** em _Sangue e Aço_. Eles medem quão íntegro e saudável o corpo do personagem se encontra, funcionando como uma referência direta para ferimentos e dano recebido. Quanto mais PS o personagem tiver, mais saudável ele está; quanto menos, mais próximo da incapacidade ou morte.

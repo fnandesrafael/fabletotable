@@ -63,18 +63,18 @@ Em outras palavras, o tamanho é a medida prática do corpo do personagem dentro
 
 Os **Fatores de Tamanho** obtidos pelas faixas de altura e peso escolhidas deliberadamente pelos jogadores devem ser combinados para determinar o tamanho final do personagem. Para isso, usamos a **média aritmética dos fatores** e, consultamos na [[Tabela de Tamanho]] a categoria obtida.
 
-| Resultado da Média Aritmética | Tamanho     | **Equivalência** | Descrição                                                                         |
-| ----------------------------- | ----------- | ---------------- | --------------------------------------------------------------------------------- |
-| 0                             | **Miúdo**   | 1/4 de um Médio  | Extremamente pequeno; passa facilmente por espaços muito apertados.               |
-| 0,5 – 1,5                     | **Pequeno** | 1/2 de um Médio  | Pequeno porte; ágil em locais apertados e fácil de esconder.                      |
-| 2 – 3                         | **Médio**   |                  | Porte padrão; não sofre restrições especiais.                                     |
-| 3,5 – 4,5                     | **Grande**  | 2x Médios        | Ocupa mais espaço; mais difícil de se esconder e de manobrar em locais estreitos. |
-| 5                             | **Enorme**  | 3x Médios        | Muito grande; raros no mundo, limitada mobilidade em espaços pequenos.            |
+| Resultado da Média Aritmética | Tamanho     | **Equivalência** |
+| ----------------------------- | ----------- | ---------------- |
+| 0                             | **Miúdo**   | 1/4 de um Médio  |
+| 0,5 – 1,5                     | **Pequeno** | 1/2 de um Médio  |
+| 2 – 3                         | **Médio**   |                  |
+| 3,5 – 4,5                     | **Grande**  | 2x Médios        |
+| 5                             | **Enorme**  | 3x Médios        |
 > [[Tabela de Tamanho]]
 
 ## Pontos de Sangue (PS)
 
-Os **Pontos de Sangue (PS)** representam a **saúde do personagem** em _Sangue e Aço_. Eles medem quão íntegro e saudável o corpo do personagem se encontra, funcionando como uma referência direta para ferimentos e dano recebido. Quanto mais PS o personagem tiver, mais saudável ele está; quanto menos, mais próximo da incapacidade ou morte.
+Os [[Pontos de Sangue]] (PS) representam a **saúde do personagem** em _Sangue e Aço_. Eles medem quão íntegro e saudável o corpo do personagem se encontra, funcionando como uma referência direta para ferimentos e dano recebido. Quanto mais PS o personagem tiver, mais saudável ele está; quanto menos, mais próximo da incapacidade ou morte.
 
 ### Vida Máxima e Vida Atual
 
@@ -110,7 +110,6 @@ O **[[Dado de Vida]] (DV)** é uma mecânica que representa a **escala de saúde
 O dado de vida não é rolado para determinar a vida máxima, sendo sempre considerado pelo seu **valor máximo** para esse cálculo. Isso garante uma progressão estável e previsível entre personagens.
 
 No entanto, os dados de vida **são utilizados durante períodos de descanso para recuperar PS.**
-
 
 ### Recuperação com Dado de Vida em Períodos de Descanso
 Em um **[[Descanso Curto]]**, você deverá rolar metade da quantidade total de dados de vida que possui (arredondando para cima caso a metade resulte num valor decimal).
@@ -166,6 +165,39 @@ Em ambos os casos, o valor resultate será somado à sua vida atual
 
 
 ## Pontos de Esforço (PE)
+
+Os [[Pontos de Esforço]] (PE) representam o **acúmulo de desgaste físico e mental** sofrido por um personagem ao ultrapassar seus próprios limites em _Sangue e Aço_.
+
+Diferente dos [[Pontos de Sangue]], que diminuem conforme o personagem sofre dano, os PE **aumentam à medida que o personagem se esforça além do normal**, acumulando tensão no corpo e na mente.
+
+Esse esforço pode surgir de ações intensas, técnicas exigentes ou qualquer situação que force o personagem além de sua capacidade segura.
+
+### Esforço Atual e Limite de Esforço
+
+Os Pontos de Esforço são representados por dois valores:
+
+- [[Esforço Atual]], que indica quanto desgaste o personagem acumulou.
+- [[Limite de Esforço]], que representa o máximo de esforço que o personagem pode suportar sem consequências graves.
+
+O personagem sempre começa com **0 PE**, e esse valor aumenta conforme ele se desgasta.
+
+> [!important] Calculo de Limite de Esforço
+>
+> <mark>20 + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Condicionamento|Perícia Condicionamento]].</mark>
+
+### Exaustão e Superação
+
+Quando o [[Esforço Atual]] atinge o [[Limite de Esforço]], o personagem adquire a [[Condição]] [[Exausto]].
+
+Nesse ponto, ele ultrapassou o limite seguro do próprio corpo.
+
+Ainda assim, um personagem pode continuar realizando ações exigentes mesmo após atingir esse limite. No entanto, o esforço adicional deixa de ser absorvido de forma controlada.
+
+> **Cada ponto de esforço que exceder o limite passa a reduzir diretamente os [[Pontos de Sangue]] do personagem.**
+
+Em outras palavras, o personagem deixa de apenas se desgastar e passa a **se ferir ao forçar o próprio corpo** além do limite.
+
+### Recuperando Pontos de Esforço
 
 lorem ipsum
 
