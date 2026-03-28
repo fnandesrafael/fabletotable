@@ -199,7 +199,7 @@ Em outras palavras, o personagem deixa de apenas se desgastar e passa a **se fer
 
 ### Recuperando Pontos de Esforço
 
-lorem ipsum
+Pontos de Esforço podem ser recuperados através de descanços, itens consumíveis e determinadas ações revigorantes que serão mais detalhadas na [[3ª Seção - Jogando Sangue e Aço]].
 
 # Atributos Base
 

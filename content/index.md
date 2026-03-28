@@ -56,7 +56,7 @@ Logo no início do livro, na [[(OLD) Capítulo 1 - Antecedentes| 1ª Seção - C
 
 Em seguida, na [[2ª Seção - Habilidades, Poderes e Equipamentos]], são apresentados os sistemas que definem as capacidades dos personagens: habilidades, poderes especiais e os recursos que eles podem utilizar dentro do universo de _Sangue e Aço_.
 
-Por fim, a [[3ª Seção - Manual de Jogabilidade]] reúne as regras práticas da mesa: exploração, resolução de ações, combate e progressão dos personagens ao longo da campanha.
+Por fim, a [[3ª Seção - Jogando Sangue e Aço]] reúne as regras práticas da mesa: exploração, resolução de ações, combate e progressão dos personagens ao longo da campanha.
 
 Se você for o [[Mestre]], é altamente recomendado dedicar um tempo à leitura da [[Seção Zero  -  O Mundo de Sangue e Aço]]. Essa seção apresenta os fundamentos da ambientação, explicando a construção do mundo, seus conflitos e elementos centrais. Com esse conhecimento, será mais fácil criar campanhas e aventuras coerentes com o tom e o cenário do jogo.
 
