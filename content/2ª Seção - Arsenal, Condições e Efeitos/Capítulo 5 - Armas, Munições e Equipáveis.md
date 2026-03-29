@@ -42,17 +42,17 @@
 
 # Explosivos e Arremessáveis
 
-| Arma                 | Tipo de Munição | Capacidade | Perícia Base          | Tipo de Dano | Dano Base                                | Armazenamento | Peso (kg) | Preço (V$) |
-| -------------------- | --------------- | ---------- | --------------------- | ------------ | ---------------------------------------- | ------------- | --------- | ---------- |
-| Azagaia              | —               | —          | Pontaria + Mobilidade | Perfurante   | 1d8 + Fortitude                          | Coldre        | 2         | 14         |
-| Bomba Adesiva        | —               | —          | Manipulação           | Contundente  | 2d10                                     | Bolsa         | 2         | 80         |
-| Bomba de Fumaça      | —               | —          | Pontaria              | —            | —                                        | Bolsa         | 1         | 25         |
-| Bomba de Luz         | —               | —          | Pontaria              | —            | —                                        | Bolsa         | 1         | 30         |
-| Coquetel Incendiário | —               | —          | Pontaria              | Inflamável   | 2d6                                      | Bolsa         | 1,5       | 20         |
-| Faca de Arremesso    | —               | —          | Pontaria              | Cortante     | 1d6 + Bônus de Proficiência de Fortitude | Bolsa         | 1         | 12         |
-| Granada de Impacto   | —               | —          | Pontaria              | Contundente  | 2d8                                      | Bolsa         | 2         | 50         |
-| Granada Fragmentada  | —               | —          | Pontaria              | Cortante     | 3d6                                      | Bolsa         | 2         | 60         |
-| Granada Improvisada  | —               | —          | Pontaria              | Contundente  | 2d6                                      | Bolsa         | 2         | 35         |
-| Granada Incendiária  | —               | —          | Pontaria              | Inflamável   | 2d8                                      | Bolsa         | 2         | 55         |
-| Machado de Arremesso | —               | —          | Pontaria              | Cortante     | 1d8 + Bônus de Proficiência de Fortiude  | Bolsa         | 2         | 18         |
-| Mina de Proximidade  | —               | —          | Manipulaçâo           | Contundente  | 3d10                                     | Bolsa         | 4         | 120        |
+| Arma                 | Tipo de Munição | Capacidade | Perícia Base | Tipo de Dano | Dano Base                                | Armazenamento | Peso (kg) | Preço (V$) |
+| -------------------- | --------------- | ---------- | ------------ | ------------ | ---------------------------------------- | ------------- | --------- | ---------- |
+| Azagaia              | —               | —          | Pontaria     | Perfurante   | 1d8 + Fortitude                          | Coldre        | 2         | 14         |
+| Bomba Adesiva        | —               | —          | Manipulação  | Contundente  | 2d10                                     | Bolsa         | 2         | 80         |
+| Bomba de Fumaça      | —               | —          | Pontaria     | —            | —                                        | Bolsa         | 1         | 25         |
+| Bomba de Luz         | —               | —          | Pontaria     | —            | —                                        | Bolsa         | 1         | 30         |
+| Coquetel Incendiário | —               | —          | Pontaria     | Inflamável   | 2d6                                      | Bolsa         | 1,5       | 20         |
+| Faca de Arremesso    | —               | —          | Pontaria     | Cortante     | 1d6 + Bônus de Proficiência de Fortitude | Bolsa         | 1         | 12         |
+| Granada de Impacto   | —               | —          | Pontaria     | Contundente  | 2d8                                      | Bolsa         | 2         | 50         |
+| Granada Fragmentada  | —               | —          | Pontaria     | Cortante     | 3d6                                      | Bolsa         | 2         | 60         |
+| Granada Improvisada  | —               | —          | Pontaria     | Contundente  | 2d6                                      | Bolsa         | 2         | 35         |
+| Granada Incendiária  | —               | —          | Pontaria     | Inflamável   | 2d8                                      | Bolsa         | 2         | 55         |
+| Machado de Arremesso | —               | —          | Pontaria     | Cortante     | 1d8 + Bônus de Proficiência de Fortiude  | Bolsa         | 2         | 18         |
+| Mina de Proximidade  | —               | —          | Manipulaçâo  | Contundente  | 3d10                                     | Bolsa         | 4         | 120        |
