@@ -1,16 +1,18 @@
 # To-do
 
-- [ ] Atributos Vitais
-	- [x] Nível de Poder
-	- [x] Altura, Peso e Tamanho
-	- [x] Pontos de Sangue (PS)
-	- [ ] Pontos de Esforço (PE)
-- [x] Atributos Base
-	- [x] Mentais
-	- [x] Corporais
-	- [x] Jogabilidade
-- [x] Perícias
-	- [x] Bônus de Proficiência
+- [ ] Capítulo 5 - Armas, Munições e Equipáveis
+	- [ ] Armas
+	- [ ] Munições
+	- [ ] Equipáveis
+- [ ] Capítulo 6 - Ferramentas e Utilitários
+	- [ ] Ferramentas de Ofício
+	- [ ] Instrumentos Musicais
+- [ ] Capítulo 7 - Consumíveis e Materiais de Criação
+	- [ ] Itens Consumíveis
+	- [ ] Materiais e Fabricação de Itens
+- [ ] Capítulo 8 - Inventário e Carga
+	- [ ] Bolsas, Coldres e Bainhas
+	- [ ] Carga Máxima (Fortitude e Mobilidade)
 
 # Drafts
 

@@ -625,4 +625,4 @@ Mais do que otimizar números, entender seu arquétipo é compreender **como seu
 
 Mas um personagem não é definido apenas por quem ele é, e sim também por aquilo que ele carrega.
 
-No próximo capítulo, entra em cena o **[[Capítulo 5 - Arsenal|Arsenal]]**. Equipamentos e recursos não apenas ampliam suas capacidades, mas também revelam escolhas, prioridades e formas de enfrentar o mundo. Se o arquétipo indica **como você age**, o arsenal define **com o que você age**, e essa combinação é o que, de fato, coloca seu personagem em movimento.
+No próximo capítulo, entra em cena o **[[Capítulo 5 - Armas, Munições e Equipáveis|Arsenal]]**. Equipamentos e recursos não apenas ampliam suas capacidades, mas também revelam escolhas, prioridades e formas de enfrentar o mundo. Se o arquétipo indica **como você age**, o arsenal define **com o que você age**, e essa combinação é o que, de fato, coloca seu personagem em movimento.

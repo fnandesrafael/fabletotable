@@ -1,4 +1,4 @@
 ---
-title: 2ª Seção - Arsenal, Condições e Efeitos
+title: 2ª Seção - Arsenal, Ferramentas e Itens
 draft: false
 ---
