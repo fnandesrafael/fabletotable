@@ -3,18 +3,34 @@
 
 | Arma           | Tipo de Munição | Capacidade | Perícia Base    | Tipo de Dano | Dano Base | Armazenamento | Peso (kg) | Preço (V$) |
 | -------------- | --------------- | ---------- | --------------- | ------------ | --------- | ------------- | --------- | ---------- |
-| Punhal         | —               | —          | Pontaria        | Perfurante   | 1d6       | Bainha        | 3         | V$15       |
-| Espada Reta    | —               | —          | Precisão        | Cortante     | 1d8       | Bainha        | 6         | V$20       |
-| Espada Longa   | —               | —          | Precisão        | Cortante     | 2d4       | Bainha        | 8         | V$28       |
-| Espada Pesada  | —               | —          | Fortitude       | Cortante     | 2d6       | Bainha        | 15        | V$30       |
-| Florete        | —               | —          | Pontaria        | Perfurante   | 2d6       | Bainha        | 5         | V$35       |
-| Espada Cuva    | —               | —          | Mobilidade      | Cortante     | 1d8       | Bainha        | 6         | V$20       |
-| Adagas Duplas  | —               | —          | Manipulação     | Cortante     | 2d6       | Bainha        | 6         | V$30       |
-| Machado        | —               | —          | Fortitude       | Cortante     | 1d10      | Bainha        | 8         | V$18       |
-| Machado Pesado | —               | —          | Fortitude       | Cortante     | 1d12      | Bainha        | 12        | V$22       |
-| Malho          | —               | —          | Fortitude       | Contundente  | 1d8       | Bainha        | 9         | V$30       |
-| Lança          | —               | —          | Mobilidade      | Perfurante   | 1d10      | Bainha        | 8         | V$19       |
-| Alabarda       | —               | —          | Mobilidade      | Cortante     | 2d6       | Bainha        | 10        | V$24       |
-| Foice          | —               | —          | Mobilidade      | Cortante     | 1d12      | Bainha        | 8         | V$30       |
-| Soqueira       | —               | —          | Condicionamento | Contundente  | 3d4       | —             | 2         | V$35       |
-| Garra          | —               | —          | Condicionamento | Cortante     | 3d4       | —             | 4         | V$42       |
+| Adagas Duplas  | —               | —          | Manipulação     | Cortante     | 2d6       | Bainha        | 6         | 30         |
+| Alabarda       | —               | —          | Mobilidade      | Cortante     | 2d6       | Bainha        | 10        | 24         |
+| Florete        | —               | —          | Pontaria        | Perfurante   | 2d6       | Bainha        | 5         | 35         |
+| Foice          | —               | —          | Mobilidade      | Cortante     | 1d12      | Bainha        | 8         | 30         |
+| Garra          | —               | —          | Condicionamento | Cortante     | 3d4       | —             | 4         | 42         |
+| Lâmina Curta   | —               | —          | Precisão        | Perfurante   | 1d6       | Bainha        | 3         | 15         |
+| Lâmina Cuva    | —               | —          | Mobilidade      | Cortante     | 1d8       | Bainha        | 6         | 20         |
+| Lâmina Longa   | —               | —          | Precisão        | Cortante     | 2d4       | Bainha        | 8         | 28         |
+| Lâmina Pesada  | —               | —          | Fortitude       | Cortante     | 2d6       | Bainha        | 15        | 30         |
+| Lâmina Reta    | —               | —          | Precisão        | Cortante     | 1d8       | Bainha        | 6         | 20         |
+| Lança          | —               | —          | Mobilidade      | Perfurante   | 1d10      | Bainha        | 8         | 19         |
+| Machado        | —               | —          | Fortitude       | Cortante     | 1d10      | Bainha        | 8         | 18         |
+| Machado Pesado | —               | —          | Fortitude       | Cortante     | 1d12      | Bainha        | 12        | 22         |
+| Malho          | —               | —          | Fortitude       | Contundente  | 1d8       | Bainha        | 9         | 30         |
+| Punhal         | —               | —          | Pontaria        | Perfurante   | 1d6       | Bainha        | 3         | 10         |
+| Soqueira       | —               | —          | Condicionamento | Contundente  | 3d4       | —             | 2         | 35         |
+
+# Armas de Fogo
+
+| Arma            | Tipo de Munição  | Capacidade | Perícia Base | Tipo de Dano | Dano Base | Armazenamento      | Peso (kg) | Preço (V$) |
+| --------------- | ---------------- | ---------- | ------------ | ------------ | --------- | ------------------ | --------- | ---------- |
+| Garrucha        | Estilhaço Leve   | 2          | Tolerância   | Cortante     | 1d6       | Coldre             | 0,8       | 20         |
+| Revólver Curto  | Leve             | 5          | Pontaria     | Perfurante   | 2d4       | Coldre             | 1,2       | 45         |
+| Revólver Longo  | Leve             | 8          | Pontaria     | Perfurante   | 3d4       | Coldre             | 1,8       | 60         |
+| Tromblon        | Estilhaço Pesado | 1          | Tolerância   | Cortante     | 1d12      | Coldre             | 2,5       | 40         |
+| Arcabuz         | Estilhaço Pesado | 1          | Tolerância   | Cortante     | 2d6       | Coldre             | 4         | 46         |
+| Espingarda      | Estilhaço Pesado | 2          | Tolerância   | Cortante     | 2d8       | Coldre             | 3,5       | 50         |
+| Mosquete        | Pesada           | 1          | Pontaria     | Perfurante   | 1d20      | Coldre             | 4,5       | 85         |
+| Carabina        | Pesada           | 3          | Pontaria     | Perfurante   | 2d10      | Coldre             | 3         | 125        |
+| Canhão de Mão   | Explosiva        | 1          | Tolerância   | Contundente  | 3d10      | Coldre Fortificado | 18        | 200        |
+| Canhão de Ombro | Explosiva        | 1          | Tolerância   | Contundente  | 2d20      | Coldre Fortificado | 22        | 350        |
