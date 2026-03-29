@@ -11,7 +11,7 @@
 	- [ ] Itens Consumíveis
 	- [ ] Materiais e Fabricação de Itens
 - [ ] Capítulo 8 - Inventário e Carga
-	- [ ] Bolsas, Coldres e Bainhas
+	- [ ] Acoplados, Bolsas, Coldres e Bainhas
 	- [ ] Carga Máxima (Fortitude e Mobilidade)
 
 # Drafts
