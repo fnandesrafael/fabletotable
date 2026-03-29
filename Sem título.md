@@ -2,12 +2,16 @@
 
 - [ ] Capítulo 5 - Armas, Munições e Equipáveis
 	- [ ] Armas
+		- [ ] Armas Flexíveis (Chicotes, Manguais e Correntes)
+		- [ ] Armas Ocultas
+		- [ ] Armas Químicas, Inflamáveis e Elétricas
 	- [ ] Munições
 	- [ ] Equipáveis
+		- [ ] Equipando Itens
 - [ ] Capítulo 6 - Ferramentas e Utilitários
 	- [ ] Ferramentas de Ofício
 	- [ ] Instrumentos Musicais
-- [ ] Capítulo 7 - Consumíveis e Materiais de Criação
+- [ ] Capítulo 7 - Consumíveis e Materiais de Fabricação
 	- [ ] Itens Consumíveis
 	- [ ] Materiais e Fabricação de Itens
 - [ ] Capítulo 8 - Inventário e Carga
