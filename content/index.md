@@ -52,7 +52,7 @@ lorem ipsum
 
 Para jogar _Sangue e Aço_, você precisa de muito pouco: basicamente este **Livro de Regras**. Aqui estão reunidas todas as orientações necessárias para criar personagens, entender o sistema e explorar o mundo do jogo.
 
-Logo no início do livro, na [[(OLD) Capítulo 1 - Antecedentes| 1ª Seção - Criação de Personagem]], você encontrará tudo o que precisa para construir seu personagem — desde sua origem e motivações até seus primeiros atributos.
+Logo no início do livro, na [[Capítulo 1 - Antecedentes| 1ª Seção - Criação de Personagem]], você encontrará tudo o que precisa para construir seu personagem — desde sua origem e motivações até seus primeiros atributos.
 
 Em seguida, na [[2ª Seção - Habilidades, Poderes e Equipamentos]], são apresentados os sistemas que definem as capacidades dos personagens: habilidades, poderes especiais e os recursos que eles podem utilizar dentro do universo de _Sangue e Aço_.
 
