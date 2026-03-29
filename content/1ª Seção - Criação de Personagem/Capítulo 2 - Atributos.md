@@ -90,7 +90,7 @@ Para calcular a vida máxima de um personagem podemos usar a seguinte fórmula:
 
 > [!important] Cálculo de Vida Máxima
 > 
-> <mark>20 + NPd*X* (Onde *X* equivale ao [[Dado de Vida]] do personagem) + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Vitalidade|Perícia Vitalidade]].</mark>
+> **20 + NPd*X* (Onde *X* equivale ao [[Dado de Vida]] do personagem) + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Vitalidade|Perícia Vitalidade]].**
 
 ### Dado de Vida
 
@@ -183,7 +183,7 @@ O personagem sempre começa com **0 PE**, e esse valor aumenta conforme ele se d
 
 > [!important] Calculo de Limite de Esforço
 >
-> <mark>20 + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Condicionamento|Perícia Condicionamento]].</mark>
+> **20 + [[Bônus de Proficiência]] da [[Capítulo 3 - Perícias#Condicionamento|Perícia Condicionamento]].**
 
 ### Exaustão e Superação
 
