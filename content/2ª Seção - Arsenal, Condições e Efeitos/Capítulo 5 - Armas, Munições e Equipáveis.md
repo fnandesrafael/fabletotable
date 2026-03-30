@@ -1,24 +1,28 @@
 
 # Armas Brancas
 
-| Arma           | Tipo de Munição | Capacidade | Perícia Base    | Tipo de Dano | Dano Base | Armazenamento | Peso (kg) | Preço (V$) |
-| -------------- | --------------- | ---------- | --------------- | ------------ | --------- | ------------- | --------- | ---------- |
-| Adagas Duplas  | —               | —          | Manipulação     | Cortante     | 2d6       | Bainha        | 6         | 30         |
-| Alabarda       | —               | —          | Mobilidade      | Cortante     | 2d6       | Bainha        | 10        | 24         |
-| Florete        | —               | —          | Precisão        | Perfurante   | 2d6       | Bainha        | 5         | 35         |
-| Foice          | —               | —          | Mobilidade      | Cortante     | 1d12      | Bainha        | 8         | 30         |
-| Garra          | —               | —          | Condicionamento | Cortante     | 3d4       | Acoplado      | 4         | 42         |
-| Lâmina Curta   | —               | —          | Precisão        | Perfurante   | 1d6       | Bainha        | 3         | 15         |
-| Lâmina Cuva    | —               | —          | Mobilidade      | Cortante     | 1d8       | Bainha        | 6         | 20         |
-| Lâmina Longa   | —               | —          | Precisão        | Cortante     | 2d4       | Bainha        | 8         | 28         |
-| Lâmina Pesada  | —               | —          | Fortitude       | Cortante     | 2d6       | Bainha        | 15        | 30         |
-| Lâmina Reta    | —               | —          | Precisão        | Cortante     | 1d8       | Bainha        | 6         | 20         |
-| Lança          | —               | —          | Mobilidade      | Perfurante   | 1d10      | Bainha        | 8         | 19         |
-| Machado        | —               | —          | Fortitude       | Cortante     | 1d10      | Bainha        | 8         | 18         |
-| Machado Pesado | —               | —          | Fortitude       | Cortante     | 1d12      | Bainha        | 12        | 22         |
-| Malho          | —               | —          | Fortitude       | Contundente  | 1d8       | Bainha        | 9         | 30         |
-| Punhal         | —               | —          | Precisão        | Perfurante   | 1d6       | Bainha        | 3         | 10         |
-| Soqueira       | —               | —          | Condicionamento | Contundente  | 3d4       | Acoplado      | 2         | 35         |
+| Arma                | Tipo de Munição | Capacidade | Perícia Base    | Tipo de Dano | Dano Base | Armazenamento | Peso (kg) | Preço (V$) |
+| ------------------- | --------------- | ---------- | --------------- | ------------ | --------- | ------------- | --------- | ---------- |
+| Adagas Duplas       | —               | —          | Manipulação     | Cortante     | 2d6       | Bainha        | 6         | 30         |
+| Alabarda            | —               | —          | Mobilidade      | Cortante     | 2d6       | Bainha        | 10        | 24         |
+| Chicote             | —               | —          | Mobilidade      | Cortante     | 2d6       | Coldre        | 4         | 50         |
+| Corrente de Impacto | —               | —          | Mobilidade      | Contundente  | 2d8       | Coldre        | 9         | 90         |
+| Corrente Lâminada   | —               | —          | Mobilidade      | Cortante     | 2d8       | Coldre        | 7         | 120        |
+| Florete             | —               | —          | Precisão        | Perfurante   | 2d6       | Bainha        | 5         | 35         |
+| Foice               | —               | —          | Mobilidade      | Cortante     | 1d12      | Bainha        | 8         | 30         |
+| Garra               | —               | —          | Condicionamento | Cortante     | 3d4       | Acoplado      | 4         | 42         |
+| Lâmina Curta        | —               | —          | Precisão        | Perfurante   | 1d6       | Bainha        | 3         | 15         |
+| Lâmina Cuva         | —               | —          | Mobilidade      | Cortante     | 1d8       | Bainha        | 6         | 20         |
+| Lâmina Longa        | —               | —          | Precisão        | Cortante     | 2d4       | Bainha        | 8         | 28         |
+| Lâmina Pesada       | —               | —          | Fortitude       | Cortante     | 2d6       | Bainha        | 15        | 30         |
+| Lâmina Reta         | —               | —          | Precisão        | Cortante     | 1d8       | Bainha        | 6         | 20         |
+| Lança               | —               | —          | Mobilidade      | Perfurante   | 1d10      | Bainha        | 8         | 19         |
+| Machado             | —               | —          | Fortitude       | Cortante     | 1d10      | Bainha        | 8         | 18         |
+| Machado Pesado      | —               | —          | Fortitude       | Cortante     | 1d12      | Bainha        | 12        | 22         |
+| Malho               | —               | —          | Fortitude       | Contundente  | 1d8       | Bainha        | 9         | 30         |
+| Mangual             | —               |            | Mobilidade      | Perfurante   | 2d8       | Coldre        | 8         | 75         |
+| Punhal              | —               | —          | Precisão        | Perfurante   | 1d6       | Bainha        | 3         | 10         |
+| Soqueira            | —               | —          | Condicionamento | Contundente  | 3d4       | Acoplado      | 2         | 35         |
 
 # Armas de Fogo
 
@@ -56,3 +60,10 @@
 | Granada Incendiária  | —               | —          | Precisão     | Inflamável   | 2d8                                      | Bolsa         | 2         | 55         |
 | Machado de Arremesso | —               | —          | Precisão     | Cortante     | 1d8 + Bônus de Proficiência de Fortiude  | Bolsa         | 2         | 18         |
 | Mina de Proximidade  | —               | —          | Manipulaçâo  | Contundente  | 3d10                                     | Bolsa         | 4         | 120        |
+
+| Arma                | Tipo de Munição | Capacidade | Perícia Base | Tipo de Dano | Dano Base | Armazenamento | Peso (kg) | Preço (V$) |
+| ------------------- | --------------- | ---------- | ------------ | ------------ | --------- | ------------- | --------- | ---------- |
+| Chicote             | —               | —          | Mobilidade   | Cortante     | 2d6       | Coldre        | 4         | 50         |
+| Corrente de Impacto | —               | —          | Mobilidade   | Contundente  | 2d8       | Coldre        | 9         | 90         |
+| Corrente Lâminada   | —               | —          | Mobilidade   | Cortante     | 2d8       | Coldre        | 7         | 120        |
+| Mangual             | —               |            | Mobilidade   | Perfurante   | 2d8       | Coldre        | 8         | 75         |
