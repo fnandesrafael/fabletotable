@@ -35,11 +35,12 @@
 | Balestra de Braço | Dardo            | 3          | Precisão     | Perfurante   | 2d4       | Acoplado           | 0.5       | 110        |
 | Canhão de Ombro   | Explosiva        | 1          | Tolerância   | Contundente  | 2d20      | Coldre Fortificado | 22        | 350        |
 | Canhão de Mão     | Explosiva        | 1          | Tolerância   | Contundente  | 3d10      | Coldre Fortificado | 18        | 200        |
-| Carabina          | Pesada           | 3          | Precisão     | Perfurante   | 2d10      | Coldre             | 3         | 125        |
+| Carabina          | Pesada           | 1          | Precisão     | Perfurante   | 2d10      | Coldre             | 3         | 125        |
 | Espingarda        | Estilhaço Pesado | 2          | Tolerância   | Cortante     | 2d8       | Coldre             | 3,5       | 50         |
 | Garrucha          | Estilhaço Leve   | 2          | Tolerância   | Cortante     | 1d6       | Coldre             | 0,8       | 20         |
 | Mosquete          | Pesada           | 1          | Precisão     | Perfurante   | 1d20      | Coldre             | 4,5       | 85         |
 | Revólver Curto    | Leve             | 5          | Precisão     | Perfurante   | 2d4       | Coldre             | 1,2       | 45         |
+| Rifle             | Pesada           | 6          | Precisão     | Perfurante   | 2d12      | Coldre             | 9         | 225        |
 | Revólver Longo    | Leve             | 8          | Precisão     | Perfurante   | 3d4       | Coldre             | 1,8       | 60         |
 | Tromblon          | Estilhaço Pesado | 1          | Tolerância   | Cortante     | 1d12      | Coldre             | 2,5       | 40         |
 
