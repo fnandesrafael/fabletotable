@@ -26,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.PageTitle()),
+    Component.Darkmode(),
     Component.DesktopOnly(Component.Flex({
       components: [        {
            Component: Component.Search(),
@@ -37,7 +37,6 @@ export const defaultContentPageLayout: PageLayout = {
      })),
     Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Explorer()),
     Component.MobileOnly(Component.Spacer()),
   ],
