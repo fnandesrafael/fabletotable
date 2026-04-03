@@ -112,23 +112,21 @@ Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, 
 > 
 > Para referências visuais, você pode considerar essa *[moodboard](https://pin.it/1yw6Fjrv2)*. 
 
-
-> [!caution] Limitação da Cor do Cabelo
+> [!caution] Regra da Cor do Cabelo
 > 
 > No geral, existe uma única limitação de aparência dos persnonagens: **a cor do cabelo**.
 > 
 > Existe uma mecânica especial que depende dessa característica e que será explicada mais a frente. Mas a cor do cabelo de um personagem, será determinada seguindo o resultado de uma rolagem de **d20**:
 > 
-> | **Cor do Cabelo**                         | Resultado |
-| ----------------------------------------- | --------- |
-| Preto                                     | **1-4**   |
-| Tons de Verde e Azul                      | **5-8**   |
-| Tons de Amarelo                           | **9-12**  |
-| Tons de Terrosos (Laranja, Castanho etc.) | **13-17** |
-| Tons de Rosa e Roxo                       | **18-19** |
-| Vermelho Escarlate                        | **20**    |
+> | Cor do Cabelo                    | Resultado |
+> | -------------------------------- | --------- |
+> | Preto                            | **1-4**       |
+> | Tons de Verde/Azul               | **5-8**       |
+> | Tons de Amarelo                  | **9-12**      |
+> | Tons Terrosos (Laranja/Castanho) | **13-17**     |
+> | Tons de Rosa e Roxo              | **18-19**     |
+> | Vermelho Escarlate               | **20**        |
 > 
-
 
 > [!example] Exemplos
 > 
