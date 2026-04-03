@@ -102,7 +102,7 @@ Acredito que nenhuma regra aqui abrangerá todas as possibilidades narrativas. P
 > 
 > Urbana, é a humanidade.
 > 
-> Diário de Viajem</br>
+> Diário de Viagem</br>
 > — Autor não identificado.*
 
 ## O Continente Vermelho
