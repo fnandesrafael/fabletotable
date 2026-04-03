@@ -68,3 +68,13 @@
 | Corrente de Impacto | —               | —          | Mobilidade   | Contundente  | 2d8       | Coldre        | 9         | 90         |
 | Corrente Lâminada   | —               | —          | Mobilidade   | Cortante     | 2d8       | Coldre        | 7         | 120        |
 | Mangual             | —               |            | Mobilidade   | Perfurante   | 2d8       | Coldre        | 8         | 75         |
+
+# Armas Especiais
+
+| Arma                | Tipo de Munição | Capacidade | Perícia Base | Tipo de Dano | Dano Base | Armazenamento | Peso (kg) | Preço (V$) |
+| ------------------- | --------------- | ---------- | ------------ | ------------ | --------- | ------------- | --------- | ---------- |
+
+# Armas Ocultas
+
+| Arma                | Tipo de Munição | Capacidade | Perícia Base | Tipo de Dano | Dano Base | Armazenamento | Peso (kg) | Preço (V$) |
+| ------------------- | --------------- | ---------- | ------------ | ------------ | --------- | ------------- | --------- | ---------- |

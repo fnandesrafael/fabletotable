@@ -40,6 +40,8 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 > **Q3 —** Como seu personagem costuma se vestir ou se apresentar?</br>
 > **Q4 —** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
 
+![[task_01kn9xt7kcfeebbh2ffnb31f7w_1775228529_img_0.webp]]
+
 A [[#Aparência]] do seu personagem define como ele é percebido à primeira vista. Antes mesmo de ouvir seu nome ou conhecer sua história, as pessoas formam primeiras impressões a partir de seu visual; da forma como você se veste, se porta e se comunica.
 
 Algumas dessas características podem ser comuns, enquanto outras tornam-se facilmente reconhecíveis. Uma cicatriz profunda, uma prótese mecânica, olhos de cor incomum ou mesmo um modo peculiar de se vestir podem fazer com que alguém seja lembrado com facilidade ou até mesmo temido.
@@ -54,9 +56,10 @@ Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, 
 
 > [!faq] Perguntas Fundamentais
 > 
-> **Q1 —** Como foi a infância e juventude do seu personagem?</br>
-> **Q2 —** Quais foram os eventos mais marcantes na história do seu personagem e como eles influenciaram em quem ele se tornou?</br>
-> **Q3 —** O que levou seu personagem até o momento atual da história (definido pelo Mestre)?
+> **Q1 —** Qual a cidade de origem do seu personagem? Ele vem de um ambiente mais medieval, industrial, moderno?
+> **Q2 —** Como foi a infância e juventude do seu personagem?</br>
+> **Q3 —** Quais foram os eventos mais marcantes na história do seu personagem e como eles influenciaram em quem ele se tornou?</br>
+> **Q4 —** O que levou seu personagem até o momento atual da história (definido pelo Mestre)?
 
 O [[#Histórico]] do seu personagem reúne os acontecimentos que marcaram sua vida até o início da [[Campanha]]. Diferente de uma biografia completa, ele não precisa descrever cada detalhe da trajetória do personagem, mas sim destacar os momentos que tiveram maior impacto em sua formação.
 
