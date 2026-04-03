@@ -1,7 +1,7 @@
 ---
 title: Prefácio
 ---
-## Mito e imaginação
+## Mito e Imaginação
 
 Em algum momento da sua vida, certamente alguém lhe contou uma história que permaneceu profundamente gravada em sua consciência. Uma história capaz de influenciar certas atitudes suas ou de — pelo menos — fazê-lo pensar antes de agir em determinada situação. Em sua infância é possível que já tenha ouvido o conto de uma certa garotinha de capuz vermelho, que andava sozinha pela floresta até ser interceptada por um lobo faminto; o qual acabaria por devorar sua vovozinha e quase também a pobre menina. Talvez depois de ouvir esse conto, você — que ainda era uma criança — tenha passado a ter mais cuidado com estranhos excessivamente simpáticos que se aproximassem na ausência de seus pais. É possível ainda que tenha ouvido falar sobre o mitológico Hércules! Um semideus bastardo, amaldiçoado e traído que foi obrigado a realizar doze tarefas dificílimas. Porém com suas virtudes, força e coragem pôde enfim conquistar sua liberdade. De Hércules à Chapeuzinho Vermelho, a humanidade está repleta desses mitos e fábulas. A princípio um mito pode ser definido como mentira ou farsa, mas há uma definição que pode abranger mais esse conceito. Do grego “_mythos”,_ a palavra pode se referir a contos, fábulas, parábolas, apólogos... em outras palavras: **histórias com um propósito**. Contar através de signos as mais profundas experiências humanas. Desde os aspectos de sua origem: _“de onde viemos?”_ até a experiência que talvez mais nos assuste: _“para onde vamos?”._ Independente da pergunta ou situação que gerou um mito, eles carregam e nos apresentam ensinamentos fundamentais à respeito do homem e de sua relação com o mundo, com a sociedade ao seu redor e com o microcosmo de sua própria individualidade.
 
@@ -44,7 +44,7 @@ Um [[Protagonista]] deve conquistar sua própria narrativa. São eles quem — a
 
 Acredito que nenhuma regra aqui abrangerá todas as possibilidades narrativas. Por isso sempre que surgir algo interessante para uma boa história, um bom conto, um bom mito, então basta ir em frente! O importante aqui é ter uma divertida e lúdica experiência entre amigos. E no meio dessa história cooperativa, interpretando personagens únicos, deixar que eles marquem em seus imaginários alguns valores que possam ser lembrados na realidade.
 
-# O mundo de Sangue e Aço
+# O Mundo de Sangue e Aço
 
 > *Há algo profundamente perturbador no fato de estarmos vivos.
 > 
@@ -270,7 +270,7 @@ Existe uma diferença clara entre os limites do mundo habitado e o que existe al
 
 Fora das rotas conhecidas, das cidades e das zonas exploradas, encontra-se um território onde a presença humana é rara e a sobrevivência é incerta.
 
-# Preparação para o jogo
+# Preparação para o Jogo
 
 Para jogar _Sangue e Aço_, você precisa de muito pouco: basicamente este **Livro de Regras**. Aqui estão reunidas todas as orientações necessárias para criar personagens, entender o sistema e explorar o mundo do jogo.
 

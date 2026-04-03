@@ -48,6 +48,88 @@ Algumas dessas características podem ser comuns, enquanto outras tornam-se faci
 
 Da mesma forma que nomes e apelidos ajudam a construir a identidade de alguém, a aparência também contribui para a imagem que os outros guardam de você. Muitas vezes são justamente esses detalhes — físicos ou comportamentais — que fazem com que um personagem seja reconhecido à distância, ou por descrições dadas em conversas e notícias.
 
+> [!example]- Detalhes e Orientações sobre a Estética de Sangue e Aço
+> 
+> ## Elementos Visuais Comuns
+> 
+> ### Vestimentas
+> 
+> As roupas tendem a seguir três grandes influências, frequentemente combinadas:
+> 
+> **Industrial / Operário**
+> 
+> - Tecidos grossos, escuros, resistentes
+> - Jaquetas pesadas, aventais, botas reforçadas
+> - Luvas, cintos utilitários, bolsos funcionais
+> - Marcas de fuligem, óleo, desgaste
+> 
+> **Militar / Sobrevivência**
+> 
+> - Cortes práticos e estruturados
+> - Capas, sobretudos, mantos de proteção
+> - Uniformes adaptados, muitas vezes incompletos
+> - Equipamentos acoplados ao corpo
+> 
+> **Medieval / Tradicional**
+> 
+> - Túnicas, gibões, mantos
+> - Couro, lã, tecidos pesados
+> - Sobreposições simples, porém funcionais
+> - Peças herdadas ou antigas, ainda em uso
+> 
+> **Elegante / Urbano (Decopunk)**
+> 
+> - Linhas geométricas e bem definidas
+> - Tecidos refinados, mesmo em cores sóbrias
+> - Uso de metais polidos como detalhe
+> - Acessórios que indicam status e influência
+> ### Armaduras
+> 
+> Armaduras não são raras — são necessárias.
+> 
+> Mas raramente são completas ou padronizadas.
+> 
+> - Placas de aço reaproveitadas
+> - Ombreiras únicas, sem par
+> - Proteções acopladas a roupas comuns
+> - Armaduras completas são raras e indicam alto status ou função específica
+> 
+> Cada peça conta uma história:
+> 
+> - De onde veio
+> - Quem a usou antes
+> - Por que ainda está sendo usada
+> 
+> ### Materiais
+> 
+> O mundo define os materiais disponíveis:
+> 
+> - **Metal**: valioso, trabalhado, reaproveitado sempre que possível
+> - **Couro**: comum, resistente, versátil
+> - **Tecidos pesados**: proteção contra ambiente hostil
+> - **Vidro e componentes elétricos**: mais comuns em grandes cidades
+> - **Máscaras e filtros**: especialmente em regiões contaminadas
+> 
+> Para referências visuais, você pode considerar essa *[moodboard](https://pin.it/1yw6Fjrv2)*. 
+
+
+> [!caution] Limitação da Cor do Cabelo
+> 
+> No geral, existe uma única limitação de aparência dos persnonagens: **a cor do cabelo**.
+> 
+> Existe uma mecânica especial que depende dessa característica e que será explicada mais a frente. Mas a cor do cabelo de um personagem, será determinada seguindo o resultado de uma rolagem de **d20**:
+> 
+> | **Cor do Cabelo**                         | Resultado |
+| ----------------------------------------- | --------- |
+| Preto                                     | **1-4**   |
+| Tons de Verde e Azul                      | **5-8**   |
+| Tons de Amarelo                           | **9-12**  |
+| Tons de Terrosos (Laranja, Castanho etc.) | **13-17** |
+| Tons de Rosa e Roxo                       | **18-19** |
+| Vermelho Escarlate                        | **20**    |
+> 
+
+
 > [!example] Exemplos
 > 
 > **Seraphine Mordaine** é lembrada por sua silhueta elegante envolta em longos casacos negros, contrastando com a palidez quase sobrenatural de seu rosto e o hábito de falar sempre em um tom baixo e controlado. **Otto Krane**, um veterano das guerras industriais, caminha com o peso de um braço protético que substitui o membro perdido anos atrás, ajustando constantemente as engrenagens da prótese com gestos impacientes. **Elijah Crowe** tornou-se facilmente reconhecível nas ruas enevoadas das principais capitais por seus olhos de um cinza opaco, pela longa cicatriz que atravessa seu semblante e pelo costume inquietante de nunca sustentar o olhar de ninguém por muito tempo.
@@ -198,7 +280,7 @@ Seja por escolha ou necessidade, párias vivem guiados por seus próprios códig
 > Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Intuição**.
 
 
-# Economia
+# Economia e Classe Econômica
 
 A [[#Economia]] determina a quantidade de [[Vaalaques]] (V$) que seu personagem possui ao começar a aventura. Essa reserva inicial servirá para comprar equipamentos, suprimentos e quaisquer itens que considerar necessários antes de enfrentar os perigos do mundo.
 
@@ -206,7 +288,7 @@ A riqueza inicial não define tudo: durante a aventura, os personagens podem gan
 
 Para determinar a Economia de um personagem, é necessário realizar um [[Teste de Rolagem]] com **2d4**. A partir do resultado atingido pela soma de ambos os dados, o valor resultande determinará sua economia inicial, ou seja, quantos [[Vaalaques|V$]] você possui inicialmente.
 
-A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu inventário base.> 
+A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu inventário base.
 
 | **Resutdado da Rolagem (2d4)** | **Economia**  | **Vaalaques** |
 | ------------------------------ | ------------- | ------------- |
@@ -215,7 +297,6 @@ A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]
 | 6-7                            | **Abastado**  | V$900         |
 | 8                              | **Opulento**  | V$8100        |
 > [[Tabela de Economia Inicial]]
-
 
 # Vínculos
 
