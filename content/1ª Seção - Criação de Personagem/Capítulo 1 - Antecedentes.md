@@ -40,7 +40,7 @@ Seja um nome de família respeitado ou um apelido conquistado em circunstâncias
 > **Q3 —** Como seu personagem costuma se vestir ou se apresentar?</br>
 > **Q4 —** Seu personagem possui algum tique, vício de linguagem ou comportamento característico?
 
-![[task_01kn9xt7kcfeebbh2ffnb31f7w_1775228529_img_0.webp]]
+![[og-image1.webp]]
 
 A [[#Aparência]] do seu personagem define como ele é percebido à primeira vista. Antes mesmo de ouvir seu nome ou conhecer sua história, as pessoas formam primeiras impressões a partir de seu visual; da forma como você se veste, se porta e se comunica.
 
