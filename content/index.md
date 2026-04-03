@@ -70,7 +70,7 @@ Acredito que nenhuma regra aqui abrangerá todas as possibilidades narrativas. P
 > 
 > Nosso Império...
 > 
-> Que parte exatamente desse império é minha? E, afinal, do que adianta fazer parte de um império caído?
+> Que parte exatamente desse império é meu? E, afinal, do que adianta fazer parte de um império caído?
 > 
 > Um império com um trono vazio, de um imperador desaparecido há pelo menos duas décadas.
 > 
@@ -84,7 +84,7 @@ Acredito que nenhuma regra aqui abrangerá todas as possibilidades narrativas. P
 > 
 > Nesse dia, eu pude entender o lugar da humanidade.
 > 
-> Humanidade — acho que esse é o único adjetivo capaz de descrever a nossa espécie. Os humanos realmente não são inteligentes: são humanos. Não há outra coisa capaz de descrever como essa pequena espécie tenha domado esse mundo carrasco.
+> Humanidade — acho que esse é o único adjetivo capaz de descrever a nossa espécie. Os humanos realmente não são inteligentes: são apenas humanos. Não há outra forma de descrever como essa pequena espécie tenha domado esse mundo carrasco.
 > 
 > Humanos, esse é o nosso adjetivo.
 > 
