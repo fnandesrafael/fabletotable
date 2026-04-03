@@ -1,6 +1,6 @@
 ---
 title: Prefácio
-cover: '"content/Assets/Ambientação/capa.png"'
+cover: '"quartz/static/og-image.png"'
 ---
 ## Mito e Imaginação
 
