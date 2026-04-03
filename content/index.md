@@ -100,9 +100,9 @@ Acredito que nenhuma regra aqui abrangerá todas as possibilidades narrativas. P
 > 
 > O mundo somos nós.
 > 
-> Urbana, é a humanidade.*
+> Urbana, é a humanidade.
 > 
-> *Diário de Viajem</br>
+> Diário de Viajem</br>
 > — Autor não identificado.*
 
 ## O Continente Vermelho
