@@ -26,12 +26,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.DesktopOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.Darkmode()),
+    Component.PageTitle(),
     Component.DesktopOnly(Component.Flex({
-      components: [        {
+      components: [        
          { Component: Component.Darkmode() },
-         { Component: Component.ReaderMode() }
+         { Component: Component.ReaderMode() },
        ],
      })),
     Component.DesktopOnly(Component.Flex({
@@ -41,13 +40,15 @@ export const defaultContentPageLayout: PageLayout = {
          },
        ],
      })),
-    Component.MobileOnly(Component.PageTitle()),
+    Component.MobileOnly(Component.Darkmode()),
     Component.MobileOnly(Component.Search()),
     Component.DesktopOnly(Component.Explorer()),
     Component.MobileOnly(Component.Spacer()),
   ],
   right: [
     Component.TableOfContents(),
+    Component.MobileOnly(TableOfContents()),
+    Component.MobileOnly(Explorer()),
     // Component.Backlinks(),
     // Component.Graph(),
   ],
