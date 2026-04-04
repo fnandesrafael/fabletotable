@@ -27,7 +27,13 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.Darkmode(),
+    Component.MobileOnly(Component.Darkmode()),
+    Component.DesktopOnly(Component.Flex({
+      components: [        {
+         { Component: Component.DarkMode() },
+         { Component: Component.ReaderMode() }
+       ],
+     })),
     Component.DesktopOnly(Component.Flex({
       components: [        {
            Component: Component.Search(),
