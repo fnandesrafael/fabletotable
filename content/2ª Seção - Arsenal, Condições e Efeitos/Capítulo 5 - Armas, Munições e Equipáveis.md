@@ -1,5 +1,8 @@
 
-# Armas Brancas
+# Armas
+
+Lorem ipsum
+## Armas Brancas
 
 | Arma                | Tipo de Munição | Capacidade | Perícia Base    | Tipo de Dano | Dano Base | Outros Efeitos | Armazenamento | Peso (kg) | Preço (V$) |
 | ------------------- | --------------- | ---------- | --------------- | ------------ | --------- | -------------- | ------------- | --------- | ---------- |
@@ -24,7 +27,7 @@
 | Punhal              | —               | —          | Precisão        | Perfurante   | 1d6       | —              | Bainha        | 3         | 10         |
 | Soqueira            | —               | —          | Condicionamento | Contundente  | 3d4       | —              | Acoplado      | 2         | 35         |
 
-# Armas de Fogo
+## Armas de Fogo
 
 | Arma              | Tipo de Munição        | Capacidade        | Perícia Base | Tipo de Dano | Dano Base | Outros Efeitos | Armazenamento      | Peso (kg) | Preço (V$) |
 | ----------------- | ---------------------- | ----------------- | ------------ | ------------ | --------- | -------------- | ------------------ | --------- | ---------- |
@@ -46,7 +49,7 @@
 | Lança Chamas      | Combustível Inflamável | 1 Frasco de 800ml | Manipulação  | Abrasador    | 2d10      | —              | Coldre             | 5         | 335        |
 
 
-# Explosivos e Arremessáveis
+## Explosivos e Arremessáveis
 
 | Arma                 | Tipo de Munição | Capacidade | Perícia Base | Tipo de Dano | Dano Base                                | **Outros Efeitos** | Armazenamento | Peso (kg) | Preço (V$) |
 | -------------------- | --------------- | ---------- | ------------ | ------------ | ---------------------------------------- | ------------------ | ------------- | --------- | ---------- |
@@ -62,7 +65,7 @@
 | Machado de Arremesso | —               | —          | Precisão     | Cortante     | 1d8 + Bônus de Proficiência de Fortiude  | —                  | Bolsa         | 2         | 18         |
 | Mina de Proximidade  | —               | —          | Manipulaçâo  | Contundente  | 3d10                                     | —                  | Bolsa         | 4         | 120        |
 
-# Armas Ocultas
+## Armas Ocultas
 
 | Arma                      | Tipo de Munição | Capacidade | Perícia Base | Tipo de Dano | Dano Base | Outros Efeitos | Armazenamento | Peso (kg) | Preço (V$) |
 | ------------------------- | --------------- | ---------- | ------------ | ------------ | --------- | -------------- | ------------- | --------- | ---------- |
@@ -81,3 +84,11 @@
 | Pó Cegante                | —               | 2          | Arremesso    | Status       | —         | Cegueira 1     | Bolsa         | 0.2       | 60         |
 | Punhal de Salto/Bota      | —               | —          | Mobilidade   | Cortante     | 1d8       | —              | Acoplado      | 0.3       | 110        |
 | Chapéu com Navalhas       | —               | —          | Manipulação  | Cortante     | 1d8       | —              | Acoplado      | 0.3       | 95         |
+
+# Munições
+
+Lorem ipsum
+
+# Equipáveis
+
+Lorem ipsum
