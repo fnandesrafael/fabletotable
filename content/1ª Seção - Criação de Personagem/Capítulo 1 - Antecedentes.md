@@ -315,9 +315,9 @@ A relação entre duas Classes Sociais influencia diretamente a dificuldade de [
 
 > [!info] Distância Social  
 > A Distância Social é o número de níveis que separam dois personagens dentro da hierarquia social.
-> 
-> Exemplo:  
-> Um personagem **Opulento (1ª Classe)** interagindo com um **Plebeu (3ª Classe)** possui uma distância de **2 Classes**.
+
+> [!example] Exemplo
+> Exemplo: Um personagem **Opulento (1ª Classe)** interagindo com um **Plebeu (3ª Classe)** possui uma distância de **2 Classes**.
 
 ### Influência Sobre Classes Inferiores
 
@@ -337,8 +337,7 @@ Quando personagens pertencem à mesma Classe Social, há um reconhecimento mútu
 Isso favorece interações mais sutis e sofisticadas.
 
 > [!tip] Equivalência Social  
-> Ao interagir socialmente com personagens de mesma [[Classe Social]], reduza em **1** a [[Classe de Dificuldade|CD]] de testes envolvendo:  
-> **Retórica, Linguística**e **Empatia**
+> Ao interagir socialmente com personagens de mesma [[Classe Social]], reduza em **1** a [[Classe de Dificuldade|CD]] de testes envolvendo: **Retórica, Linguística** e **Empatia**
 
 ### Interações com Classes Superiores
 
@@ -347,8 +346,7 @@ Ao lidar com indivíduos de Classe Social superior, a dinâmica se inverte. A pr
 Nessas situações, tentativas de impressionar, convencer ou se portar adequadamente tornam-se mais exigentes.
 
 > [!warning] Pressão Social  
-> Ao interagir socialmente contra alvos de [[Classe Social]] superior, aumente a [[Classe de Dificuldade|CD]] em um valor igual à [[Distância Social]] nos testes de:  
-> **Expressividade, Presença, Carisma e Atuação**
+> Ao interagir socialmente contra alvos de [[Classe Social]] superior, aumente a [[Classe de Dificuldade|CD]] em um valor igual à [[Distância Social]] nos testes de:**Expressividade, Presença, Carisma e Atuação**.
 
 Essa penalidade reflete a dificuldade de navegar em ambientes onde o personagem não possui legitimidade social.
 
