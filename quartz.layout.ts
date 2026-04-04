@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Flex({
       components: [        {
-         { Component: Component.DarkMode() },
+         { Component: Component.Darkmode() },
          { Component: Component.ReaderMode() }
        ],
      })),
