@@ -286,7 +286,7 @@ A riqueza inicial não define tudo: durante a aventura, os personagens podem gan
 
 ## Classe Social
 
-Para além de determinar a quantidade de dinheiro inicial, ou seja, sua economia base — que sobretudo depende de sorte — é preciso considerar que Classes Sociais, no geral, não importam apenas para determinar quanto recurso monetário você possui, mas também quanto recursos sociais e políticos estão ao seu dispor.
+Para além de determinar a quantidade de dinheiro inicial, ou seja, sua economia base — que sobretudo depende de sorte — é preciso considerar que Classes Sociais, no geral, não importam apenas para determinar quanto recurso monetário você possui, mas também quantos recursos sociais e políticos estão ao seu dispor.
 
 A [[Classe Social]] representa a posição estrutural do personagem dentro da hierarquia econômica do mundo. Mais do que riqueza, ela define autoridade, pertencimento e legitimidade em diferentes contextos sociais.
 
@@ -326,7 +326,7 @@ Quando um personagem interage com indivíduos de Classe Social inferior, sua pos
 Nessas situações, testes baseados em **Presença** e **Carisma** tornam-se mais eficazes.
 
 > [!tip] Autoridade Social  
-Ao realizar testes de **Presença** ou **Carisma** contra alvos de [[Classe Social]] inferior, reduza a [[Classe de Dificuldade|CD]] em um valor igual à [[Distância Social.]]
+ Ao realizar testes de **Presença** ou **Carisma** contra alvos de [[Classe Social]] inferior, reduza a [[Classe de Dificuldade|CD]] em um valor igual à [[Distância Social.]]
 
 Essa regra representa a facilidade com que classes superiores intimidam, persuadem ou impõem sua vontade sobre classes inferiores.
 
