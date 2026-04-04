@@ -181,7 +181,7 @@ Artistas são indivíduos dedicados à expressão estética, emocional ou simbó
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Subjetividade / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Atuação / Expressividade / Impressão / 1 Perícia de Percepção (à escolha do [[Protagonista]])**.
 
 ## Artífice
 
@@ -247,7 +247,7 @@ Medicantes dedicam suas vidas ao cuidado e à preservação da vida. Podem ser m
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Intuição / Empatia / Precisão**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Erudição / Pressentimento / Empatia / Precisão**.
 
 ## Militar
 
@@ -263,7 +263,7 @@ Operários são trabalhadores que lidam diariamente com esforço físico, ferram
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Intuição / Empatia**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Tolerância / Pressentimento / Empatia**.
 
 ## Pária
 
@@ -275,7 +275,7 @@ Seja por escolha ou necessidade, párias vivem guiados por seus próprios códig
 
 > [!info] Bônus de Ofício
 > 
-> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Intuição**.
+> Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Pressentimento**.
 
 
 # Economia e Classe Econômica

@@ -45,7 +45,7 @@ A [[#Personalidades|Personalidade]] representa o aspecto **psíquico** do person
 
 É através da personalidade que compreendemos como o personagem raciocina, como se relaciona com outras pessoas e como percebe aquilo que não é imediatamente tangível. Ela influencia não apenas suas ações, mas também **a forma como ele escolhe agir**, funcionando como um direcionamento interpretativo para o jogador.
 
-Em termos mecânicos, a personalidade está diretamente ligada aos [[Atributo Mental|Atributos Mentais]] ([[Capítulo 2 - Atributos#Cognição (COG)|Cognição]], [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia]] e [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência]]), organizando-os de acordo com o foco e a inclinação do personagem. Essa organização define em quais áreas ele tende à especialização, em quais apresenta competência e em quais encontra maior dificuldade.
+Em termos mecânicos, a personalidade está diretamente ligada aos [[Atributo Mental|Atributos Mentais]] ([[Capítulo 2 - Atributos#Cognição (COG)|Cognição]], [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia]] e [[Capítulo 2 - Atributos#Intuição (INT)|Intuição]]), organizando-os de acordo com o foco e a inclinação do personagem. Essa organização define em quais áreas ele tende à especialização, em quais apresenta competência e em quais encontra maior dificuldade.
 
 Cada personalidade, portanto, não apenas estabelece uma distribuição de aptidões, mas também sugere um **modo de enxergar o mundo**. Ao escolhê-la, considere não apenas os benefícios mecânicos, mas também o tipo de personagem que você deseja interpretar.
 
@@ -73,7 +73,7 @@ E você foi feito para resolvê-lo.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
 > - **Especialista:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
-> - **Imperito:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]], [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]], [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 
 ## Urbano
 
@@ -97,7 +97,7 @@ E você sabe como passar por elas.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
 > - **Especialista:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
-> - **Imperito:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]], [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]], [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 ***
 
 ## Místico
@@ -121,7 +121,7 @@ No fim, nem tudo precisa ser compreendido.
 Algumas coisas apenas precisam ser sentidas.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
-> - **Especialista:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Especialista:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]], [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
 
 ## Cético
@@ -149,7 +149,7 @@ No fim, a questão não é apenas duvidar.
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
-> - **Imperito:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 
 ## Líder
 
@@ -176,7 +176,7 @@ No fim, liderar não é apenas estar à frente.
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
-> - **Imperito:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Imperito:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 
 ## Lúdico
 
@@ -188,7 +188,7 @@ Confie no seu **raciocínio criativo**. Você conecta pontos distantes, resolve 
 
 E você sente o momento.
 
-Sua percepção do ambiente, do ritmo, da atmosfera… tudo isso guia suas decisões. Você sabe quando agir, quando provocar, quando quebrar a tensão. Sua senciência não é profunda ou contemplativa, é **intuitiva e responsiva**. Você lê o fluxo das situações e se adapta a ele com naturalidade.
+Sua percepção do ambiente, do ritmo, da atmosfera… tudo isso guia suas decisões. Você sabe quando agir, quando provocar, quando quebrar a tensão. Sua Intuição não é profunda ou contemplativa, é **intuitiva e responsiva**. Você lê o fluxo das situações e se adapta a ele com naturalidade.
 
 Mas nem tudo é jogo.
 
@@ -204,7 +204,7 @@ Mas chega um momento em que você precisa decidir:
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
-> - **Competente:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
 
 ## Visionário
@@ -230,7 +230,7 @@ No fim, visão não é apenas enxergar à frente.
 É saber **o que fazer com aquilo que você viu**.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
-> - **Versado:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Versado:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
 
@@ -257,7 +257,7 @@ No fim, sentir não é o bastante.
 É preciso saber **o que fazer com aquilo que te atravessa**.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
-> - **Versado:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Versado:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 > - **Competente:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
 
@@ -285,7 +285,7 @@ No fim, acreditar não é apenas sentir.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
 > - **Versado:** [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]]
-> - **Competente:** [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 > - **Imperito:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]]
 
 ## Polímata
@@ -313,7 +313,7 @@ No fim, saber um pouco de tudo não é uma fraqueza.
 Mas também não é o mesmo que **dominar aquilo que realmente importa**.
 
 > [!info] Categoria de [[Atributo Mental|Atributos Mentais]]
-> - **Competente:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]], [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]], [[Capítulo 2 - Atributos#Senciência (SEN)|Senciência (SEN)]]
+> - **Competente:** [[Capítulo 2 - Atributos#Cognição (COG)|Cognição (COG)]], [[Capítulo 2 - Atributos#Psicologia (PSI)|Psicologia (PSI)]], [[Capítulo 2 - Atributos#Intuição (INT)|Intuição (INT)]]
 # Posturas
 
 A [[#Posturas|Postura]] representa o aspecto **somático** do personagem. Ela define como ele se manifesta fisicamente no mundo, como se move, reage e se posiciona diante de situações concretas.
@@ -601,7 +601,7 @@ Mas às vezes… é exatamente o que mantém você de pé.
 > Como **Cético**, Darian possui:
 > - **Cognição (COG) — Versado → +10 pontos por NP**
 > - **Psicologia (PSI) — Competente → +6 pontos por NP**
-> - **Senciência (SEN) — Imperito → +2 pontos por NP**
+> - **Intuição (INT) — Imperito → +2 pontos por NP**
 >
 > Como **Reativo**, ele possui:
 > - **Motricidade (MOT) — Versado → +10 pontos por NP**
@@ -614,7 +614,7 @@ Mas às vezes… é exatamente o que mantém você de pé.
 >
 > Ele atua com boa competência em **Psicologia** (como *Compostura* ou *Empatia*) e **Percepção** (como *Observação* e *Escuta*), o que reforça sua habilidade de ler pessoas e ambientes, ainda que de forma mais analítica do que intuitiva.
 >
-> Por outro lado, possui limitações claras em **Senciência** (como *Intuição* ou *Subjetividade*) e **Constituição** (como *Fortitude* ou *Vitalidade*), indicando dificuldade em confiar em percepções subjetivas e menor resistência física em situações extremas.
+> Por outro lado, possui limitações claras em **Intuição** (como *Intuição* ou *Subjetividade*) e **Constituição** (como *Fortitude* ou *Vitalidade*), indicando dificuldade em confiar em percepções subjetivas e menor resistência física em situações extremas.
 >
 > No fim, seu arquétipo não apenas define quem Darian é mas também **onde ele brilha, onde se sustenta e onde inevitavelmente falha** dentro das profundezas sufocantes da mina.
 # Conclusão

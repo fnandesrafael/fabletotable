@@ -21,11 +21,11 @@ Ao [[Mestre]], cabe avaliar se há coerência entre a ação descrita e a períc
 > | **Linguística**     | [[#Cognição (COG)\|COG]]     | **Mobilidade**     | [[#Motricidade (MOT)\|MOT]] | **Compostura**    | [[#Psicologia (PSI)\|PSI]]  |
 > | **Lógica**          | [[#Cognição (COG)\|COG]]     | **Precisão**       | [[#Motricidade (MOT)\|MOT]] | **Empatia**       | [[#Psicologia (PSI)\|PSI]]  |
 > | **Retórica**        | [[#Cognição (COG)\|COG]]     | **Reflexo**        | [[#Motricidade (MOT)\|MOT]] | **Presença**      | [[#Psicologia (PSI)\|PSI]]  |
-> | **Condicionamento** | [[#Constituição (CON\|CON]]  | **Aromatismo**     | [[#Percepção (PER)\|PER]]   | **Criatividade**  | [[#Senciência (SEN)\|SEN]] |
-> | **Fortitude**       | [[#Constituição (CON)\|CON]] | **Contato**        | [[#Percepção (PER)\|PER]]   | **Intuição**      | [[#Senciência (SEN\|SEN]]  |
-> | **Primalidade**     | [[#Constituição (CON)\|CON]] | **Escuta**         | [[#Percepção (PER)\|PER]]   | **Memória**       | [[#Senciência (SEN)\|SEN]] |
-> | **Tolerância**      | [[#Constituição (CON)\|CON]] | **Gustação**       | [[#Percepção (PER)\|PER]]   | **Perspectiva**   | [[#Senciência (SEN)\|SEN]] |
-> | **Vitalidade**      | [[#Constituição (CON)\|CON]] | **Observação**     | [[#Percepção (PER)\|PER]]   | **Subjetividade** | [[#Senciência (SEN)\|SEN]] |
+> | **Condicionamento** | [[#Constituição (CON\|CON]]  | **Aromatismo**     | [[#Percepção (PER)\|PER]]   | **Criatividade**  | [[#Intuição (INT)\|INT]] |
+> | **Fortitude**       | [[#Constituição (CON)\|CON]] | **Contato**        | [[#Percepção (PER)\|PER]]   | **Pressentimento**      | [[#Intuição (SEN\|INT]]  |
+> | **Primalidade**     | [[#Constituição (CON)\|CON]] | **Escuta**         | [[#Percepção (PER)\|PER]]   | **Reminiscência**       | [[#Intuição (INT)\|INT]] |
+> | **Tolerância**      | [[#Constituição (CON)\|CON]] | **Gustação**       | [[#Percepção (PER)\|PER]]   | **Perspectiva**   | [[#Intuição (INT)\|INT]] |
+> | **Vitalidade**      | [[#Constituição (CON)\|CON]] | **Observação**     | [[#Percepção (PER)\|PER]]   | **Impressão** | [[#Intuição (INT)\|INT]] |
 >
 > [[Tabela de Relação Perícia-Atributo 1]]
 
@@ -34,7 +34,7 @@ Ao [[Mestre]], cabe avaliar se há coerência entre a ação descrita e a períc
 
 > Interprete o mundo através do olfato. Detecte presenças, substâncias e alterações no ambiente pelo cheiro. Bom para: rastreadores, alquimistas, investigadores atentos, sobreviventes experientes
 
-Aromatismo é a capacidade de interpretar o mundo através do olfato. Esta perícia permite ao personagem identificar cheiros, distinguir substâncias, reconhecer padrões olfativos e extrair informações que passam despercebidas pelos demais sentidos. Não se trata apenas de sentir odores, mas de **compreendê-los**, associando fragrâncias a memórias, ambientes, estados ou presenças específicas.
+Aromatismo é a capacidade de interpretar o mundo através do olfato. Esta perícia permite ao personagem identificar cheiros, distinguir substâncias, reconhecer padrões olfativos e extrair informações que passam despercebidas pelos demais sentidos. Não se trata apenas de sentir odores, mas de **compreendê-los**, associando fragrâncias a Reminiscências, ambientes, estados ou presenças específicas.
 
 Personagens com bom aromatismo conseguem perceber nuances no ar — o cheiro metálico de sangue recente, resíduos químicos quase imperceptíveis, a presença de alguém que passou por um local ou até alterações sutis no ambiente que indicam perigo ou deterioração. Em contextos mais refinados, podem identificar ingredientes, venenos, perfumes ou até estados emocionais através do odor.
 
@@ -170,15 +170,15 @@ Personagens com alta gustação conseguem reconhecer componentes em alimentos ou
 
 No uso cotidiano, a gustação auxilia na avaliação de alimentos, bebidas e substâncias ingeríveis. Em níveis mais elevados, o personagem pode identificar compostos complexos ou alterações quase imperceptíveis. Em níveis baixos, porém, seu paladar é limitado, dificultando a distinção entre sabores e reduzindo sua capacidade de perceber irregularidades.
 
-## Intuição
+## Pressentimento
 
 > Perceba o que não é dito. Sinta padrões ocultos e pressinta o que está além do evidente. Bom para: investigadores, sobreviventes, pessoas perceptivas, indivíduos instintivos
 
-Intuição é a capacidade de perceber o que não está explícito. Esta perícia mede o quanto o personagem consegue captar sinais sutis, padrões invisíveis e significados implícitos sem depender de análise lógica direta. Não se trata de raciocinar, mas de **sentir que algo está errado — ou certo — antes mesmo de entender o porquê**.
+Pressentimento é a capacidade de perceber o que não está explícito. Esta perícia mede o quanto o personagem consegue captar sinais sutis, padrões invisíveis e significados implícitos sem depender de análise lógica direta. Não se trata de raciocinar, mas de **sentir que algo está errado — ou certo — antes mesmo de entender o porquê**.
 
-Personagens com alta intuição conseguem perceber quando algo não se encaixa, identificar perigos iminentes, ler situações nas entrelinhas e antecipar acontecimentos com base em impressões quase inconscientes. São capazes de captar nuances que escapam à razão, guiando suas decisões por uma percepção mais instintiva do mundo.
+Personagens com alta Pressentimento conseguem perceber quando algo não se encaixa, identificar perigos iminentes, ler situações nas entrelinhas e antecipar acontecimentos com base em impressões quase inconscientes. São capazes de captar nuances que escapam à razão, guiando suas decisões por uma percepção mais instintiva do mundo.
 
-No uso cotidiano, a intuição auxilia na leitura de situações ambíguas, na identificação de riscos e na tomada de decisões rápidas sem informações completas. Em níveis mais elevados, o personagem pode prever tendências e perceber padrões complexos de forma quase imediata. Em níveis baixos, porém, tende a ignorar sinais importantes ou confiar excessivamente em interpretações literais da realidade.
+No uso cotidiano, a Pressentimento auxilia na leitura de situações ambíguas, na identificação de riscos e na tomada de decisões rápidas sem informações completas. Em níveis mais elevados, o personagem pode prever tendências e perceber padrões complexos de forma quase imediata. Em níveis baixos, porém, tende a ignorar sinais importantes ou confiar excessivamente em interpretações literais da realidade.
 
 ## Linguística
 
@@ -210,15 +210,15 @@ Personagens com alta manipulação conseguem realizar tarefas como abrir fechadu
 
 No uso cotidiano, a manipulação auxilia na execução de tarefas manuais, uso de ferramentas e interação com objetos pequenos ou complexos. Em níveis mais elevados, o personagem pode realizar ações quase imperceptíveis ou extremamente refinadas com as mãos. Em níveis baixos, porém, tende a ser desajeitado, impreciso ou incapaz de lidar com tarefas que exigem destreza manual.
 
-## Memória
+## Reminiscência
 
 > Recorde experiências, sensações e informações com clareza e profundidade. Bom para: estudiosos, testemunhas, investigadores, indivíduos atentos ao passado
 
-Memória é a capacidade de armazenar, recuperar e reviver informações, experiências e sensações. Esta perícia mede o quão bem o personagem consegue lembrar detalhes, reconhecer padrões já vividos e acessar lembranças de forma clara e útil. Não se trata apenas de recordar fatos, mas de **reviver e reinterpretar o que já foi experienciado**.
+Reminiscência é a capacidade de armazenar, recuperar e reviver informações, experiências e sensações. Esta perícia mede o quão bem o personagem consegue lembrar detalhes, reconhecer padrões já vividos e acessar lembranças de forma clara e útil. Não se trata apenas de recordar fatos, mas de **reviver e reinterpretar o que já foi experienciado**.
 
-Personagens com alta memória conseguem se lembrar de rostos, eventos, diálogos e detalhes específicos com precisão, além de associar situações presentes a experiências passadas. São capazes de reconhecer padrões recorrentes e utilizar lembranças como ferramenta para compreender o presente.
+Personagens com alta Reminiscência conseguem se lembrar de rostos, eventos, diálogos e detalhes específicos com precisão, além de associar situações presentes a experiências passadas. São capazes de reconhecer padrões recorrentes e utilizar lembranças como ferramenta para compreender o presente.
 
-No uso cotidiano, a memória auxilia na recordação de informações relevantes, reconhecimento de pessoas e compreensão de contextos já vividos. Em níveis mais elevados, o personagem pode acessar lembranças com riqueza de detalhes, quase como se estivesse revivendo a situação. Em níveis baixos, porém, tende a esquecer informações importantes, confundir detalhes ou perder referências úteis para interpretar o mundo ao seu redor.
+No uso cotidiano, a Reminiscência auxilia na recordação de informações relevantes, reconhecimento de pessoas e compreensão de contextos já vividos. Em níveis mais elevados, o personagem pode acessar lembranças com riqueza de detalhes, quase como se estivesse revivendo a situação. Em níveis baixos, porém, tende a esquecer informações importantes, confundir detalhes ou perder referências úteis para interpretar o mundo ao seu redor.
 
 ## Mobilidade
 
@@ -300,15 +300,15 @@ Personagens com alta retórica conseguem formular argumentos sólidos, identific
 
 No uso cotidiano, a retórica auxilia em negociações, debates e situações onde a argumentação é essencial. Em níveis mais elevados, o personagem pode influenciar decisões, reverter situações desfavoráveis e conduzir discussões complexas com domínio. Em níveis baixos, porém, tende a se expressar de forma confusa, inconsistente ou pouco convincente.
 
-## Subjetividade
+## Impressão
 
 > Interprete significados, símbolos e mensagens além do que é explícito. Bom para: artistas, filósofos, intérpretes, indivíduos sensíveis ao abstrato
 
-Subjetividade é a capacidade de compreender significados implícitos, simbólicos e interpretativos em elementos do mundo. Esta perícia mede o quão bem o personagem consegue extrair sentido de palavras, imagens, comportamentos e expressões que vão além do literal. Não se trata de saber fatos, mas de **entender o que aquilo representa**.
+Impressão é a capacidade de compreender significados implícitos, simbólicos e interpretativos em elementos do mundo. Esta perícia mede o quão bem o personagem consegue extrair sentido de palavras, imagens, comportamentos e expressões que vão além do literal. Não se trata de saber fatos, mas de **entender o que aquilo representa**.
 
-Personagens com alta subjetividade conseguem interpretar obras de arte, discursos, gestos e situações sob uma ótica simbólica, identificando intenções, mensagens ocultas e camadas de significado. São capazes de perceber metáforas, ironias e construções subjetivas que não estão diretamente expressas.
+Personagens com alta Impressão conseguem interpretar obras de arte, discursos, gestos e situações sob uma ótica simbólica, identificando intenções, mensagens ocultas e camadas de significado. São capazes de perceber metáforas, ironias e construções subjetivas que não estão diretamente expressas.
 
-No uso cotidiano, a subjetividade auxilia na interpretação de textos, interações e elementos culturais. Em níveis mais elevados, o personagem pode extrair significados profundos de praticamente qualquer coisa, compreendendo contextos e intenções de forma refinada. Em níveis baixos, porém, tende a interpretar tudo de forma literal, ignorando nuances e significados implícitos.
+No uso cotidiano, a Impressão auxilia na interpretação de textos, interações e elementos culturais. Em níveis mais elevados, o personagem pode extrair significados profundos de praticamente qualquer coisa, compreendendo contextos e intenções de forma refinada. Em níveis baixos, porém, tende a interpretar tudo de forma literal, ignorando nuances e significados implícitos.
 
 ## Tolerância
 

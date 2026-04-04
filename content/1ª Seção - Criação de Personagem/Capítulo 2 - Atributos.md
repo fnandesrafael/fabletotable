@@ -229,15 +229,15 @@ Psicologia representa a inteligência emocional e a capacidade de interação so
 > 
 > O [[Atributo Mental]] Psicologia é utilizado como base para as [[Perícias]]: **Atuação / Compostura / Empatia / Carisma / Presença**.
 
-## Senciência (SEN)
+## Intuição (INT)
 
 > [[Atributo Mental]]
 
-Senciência mede a percepção subjetiva, intuição e criatividade do personagem. Este atributo reflete a capacidade de imaginar possibilidades, perceber sutilezas e reagir de forma inspirada a situações menos racionais e mais discretas. Um personagem com alta Senciência pode ser inventivo, criativo e perspicaz, enquanto um personagem com baixa Senciência pode ter dificuldade em captar nuances ou elaborar soluções originais.
+Intuição mede a percepção subjetiva, intuição e criatividade do personagem. Este atributo reflete a capacidade de imaginar possibilidades, perceber sutilezas e reagir de forma inspirada a situações menos racionais e mais discretas. Um personagem com alta Intuição pode ser inventivo, criativo e perspicaz, enquanto um personagem com baixa Intuição pode ter dificuldade em captar nuances ou elaborar soluções originais.
 
-> [!info] Perícias Baseadas em Senciência
+> [!info] Perícias Baseadas em Intuição
 > 
-> O [[Atributo Mental]] Senciência é utilizado como base para as [[Perícias]]: **Subjetividade / Criatividade / Memória / Intuição / Perspectiva**.
+> O [[Atributo Mental]] Intuição é utilizado como base para as [[Perícias]]: **Impressão / Criatividade / Reminiscência / Pressentimento / Perspectiva**.
 
 ## Constituição (CON)
 
@@ -306,7 +306,7 @@ Inicialmente todos os seus atributos serão considerados como **-5**. E cada gra
 > 
 > **Mestre:** Muito bem, Luan. Preciso que você distribua seus **20 pontos** de atributo na ficha do seu personagem. Como vai ser?
 > 
-> **Luan:** Bom... acho que [[#Motricidade (MOT)]], [[#Percepção (PER)]] e [[#Senciência (SEN)]] serão atributos importantes para ele. Afinal esses atributos baseiam perícias que provavelmente eu vou usar bastante. Quer dizer, eu quero que ele seja alguém preciso, com boa mobilidade e observação. Sem contar que intuição pode ser muito valioso.
+> **Luan:** Bom... acho que [[#Motricidade (MOT)]], [[#Percepção (PER)]] e [[#Intuição (INT)]] serão atributos importantes para ele. Afinal esses atributos baseiam perícias que provavelmente eu vou usar bastante. Quer dizer, eu quero que ele seja alguém preciso, com boa mobilidade e observação. Sem contar que intuição pode ser muito valioso.
 > 
 > **Mestre:** É uma boa linha de raciocínio! Distribuir os atributos pensando em como você pretende jogar — ou seja — tendo em vista as perícias. Mas você já tem uma ideia de quantos pontos vão ser pra cada um?
 > 
