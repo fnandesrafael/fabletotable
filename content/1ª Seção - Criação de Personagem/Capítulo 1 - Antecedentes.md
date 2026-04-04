@@ -278,22 +278,114 @@ Seja por escolha ou necessidade, párias vivem guiados por seus próprios códig
 > Seu personagem receberá de **1** à **4** graus de redução na [[Classe de Dificuldade]] (CD) para [[Teste de Rolagem|Testes de Rolagem]] com as seguintes perícias: **Fortitude / Vitalidade / Presença / Pressentimento**.
 
 
-# Economia e Classe Econômica
+# Economia e Classe Social
 
 A [[#Economia]] determina a quantidade de [[Vaalaques]] (V$) que seu personagem possui ao começar a aventura. Essa reserva inicial servirá para comprar equipamentos, suprimentos e quaisquer itens que considerar necessários antes de enfrentar os perigos do mundo.
 
 A riqueza inicial não define tudo: durante a aventura, os personagens podem ganhar, perder ou trocar Vaalaques, permitindo que até os mais miseráveis busquem conforto ou que os opulentos enfrentem perdas inesperadas.
 
-Para determinar a Economia de um personagem, é necessário realizar um [[Teste de Rolagem]] com **2d4**. A partir do resultado atingido pela soma de ambos os dados, o valor resultande determinará sua economia inicial, ou seja, quantos [[Vaalaques|V$]] você possui inicialmente.
+## Classe Social
+
+Para além de determinar a quantidade de dinheiro inicial, ou seja, sua economia base — que sobretudo depende de sorte — é preciso considerar que Classes Sociais, no geral, não importam apenas para determinar quanto recurso monetário você possui, mas também quanto recursos sociais e políticos estão ao seu dispor.
+
+A [[Classe Social]] representa a posição estrutural do personagem dentro da hierarquia econômica do mundo. Mais do que riqueza, ela define autoridade, pertencimento e legitimidade em diferentes contextos sociais.
+
+As Classes Sociais são divididas em quatro níveis:
+
+| Classe        | Categoria       |
+| ------------- | --------------- |
+| **Opulento**  | Primeira Classe |
+| **Abastado**  | Segunda Classe  |
+| **Plebeu**    | Terceira Classe |
+| **Miserável** | Quarta Classe   |
+### Interações entre Classes Sociais
+
+A relação entre duas Classes Sociais influencia diretamente a dificuldade de [[Teste de Rolagem|Testes de Rolagem]] sociais. Essa influência é determinada pela **diferença de níveis entre as classes envolvidas**, chamada de **Distância Social**.
+
+| **Relação Social**      | **Diferença de Classe** | **Modificador de CD** | **Testes de Rolagem Afetados**              |
+| ----------------------- | ----------------------- | --------------------- | ------------------------------------------- |
+| **Entre Iguais**        | 0 Classes               | **-1 CD**             | Retórica, Linguística e Empatia             |
+| **Superior → Inferior** | 1 Classe                | **-1 CD**             | Presença e Carisma                          |
+| **Superior → Inferior** | 2 Classes               | **-2 CD**             | Presença e Carisma                          |
+| **Superior → Inferior** | 3 Classes               | **-3 CD**             | Presença e Carisma                          |
+| **Inferior → Superior** | 1 Classes               | **+1 CD**             | Expressividade, Presença, Carisma e Atuação |
+| **Inferior → Superior** | 2 Classes               | **+2 CD**             | Expressividade, Presença, Carisma e Atuação |
+| **Inferior → Superior** | 3 Classes               | **+3 CD**             | Expressividade, Presença, Carisma e Atuação |
+> [[Tabela de Distância Social]]
+
+> [!info] Distância Social  
+> A Distância Social é o número de níveis que separam dois personagens dentro da hierarquia social.
+> 
+> Exemplo:  
+> Um personagem **Opulento (1ª Classe)** interagindo com um **Plebeu (3ª Classe)** possui uma distância de **2 Classes**.
+
+### Influência Sobre Classes Inferiores
+
+Quando um personagem interage com indivíduos de Classe Social inferior, sua posição garante maior autoridade, imponência e poder de influência.
+
+Nessas situações, testes baseados em **Presença** e **Carisma** tornam-se mais eficazes.
+
+> [!tip] Autoridade Social  
+Ao realizar testes de **Presença** ou **Carisma** contra alvos de [[Classe Social]] inferior, reduza a [[Classe de Dificuldade|CD]] em um valor igual à [[Distância Social.]]
+
+Essa regra representa a facilidade com que classes superiores intimidam, persuadem ou impõem sua vontade sobre classes inferiores.
+
+### Interações Entre Iguais
+
+Quando personagens pertencem à mesma Classe Social, há um reconhecimento mútuo de linguagem, costumes e códigos sociais.
+
+Isso favorece interações mais sutis e sofisticadas.
+
+> [!tip] Equivalência Social  
+> Ao interagir socialmente com personagens de mesma [[Classe Social]], reduza em **1** a [[Classe de Dificuldade|CD]] de testes envolvendo:  
+> **Retórica, Linguística**e **Empatia**
+
+### Interações com Classes Superiores
+
+Ao lidar com indivíduos de Classe Social superior, a dinâmica se inverte. A pressão social, a diferença de status e a falta de pertencimento tornam a interação mais difícil.
+
+Nessas situações, tentativas de impressionar, convencer ou se portar adequadamente tornam-se mais exigentes.
+
+> [!warning] Pressão Social  
+> Ao interagir socialmente contra alvos de [[Classe Social]] superior, aumente a [[Classe de Dificuldade|CD]] em um valor igual à [[Distância Social]] nos testes de:  
+> **Expressividade, Presença, Carisma e Atuação**
+
+Essa penalidade reflete a dificuldade de navegar em ambientes onde o personagem não possui legitimidade social.
+
+## Economia
+
+Para determinar a Economia inicial, realize um [[Teste de Rolagem]] com **2d4**.
+
+O resultado obtido será multiplicado de acordo com sua [[Classe Social]], determinando a quantidade final de [[Vaalaques|V$]] disponíveis.
+
+> [!info] Cálculo de Vaalaques:
+> **Vaalaques Iniciais = (Resultado de 2d4) × (Multiplicador da Classe Social)**
 
 A partir dessa quantidade, você poderá consultar a [[Tabela de Itens Iniciais]] e "comprar" seu inventário base.
 
-| **Resutdado da Rolagem (2d4)** | **Economia**  | **Vaalaques** |
-| ------------------------------ | ------------- | ------------- |
-| 2                              | **Miserável** | V$50          |
-| 3-5                            | **Plebeu**    | V$150         |
-| 6-7                            | **Abastado**  | V$900         |
-| 8                              | **Opulento**  | V$8100        |
+### Multiplicadores por Classe Social
+
+Cada Classe Social determina não apenas o posicionamento do personagem no mundo, mas também sua capacidade econômica inicial.
+
+| **Classe Social**         | **Multiplicador** |
+| ------------------------- | ----------------- |
+| **Opulento (1ª Classe)**  | ×720              |
+| **Abastado (2ª Classe)**  | ×120              |
+| **Plebeu (3ª Classe)**    | ×40               |
+| **Miserável (4ª Classe)** | ×20               |
+### Referência de Valores Iniciais
+
+A tabela abaixo apresenta exemplos de valores possíveis com base na rolagem de **2d4**, já considerando os multiplicadores de cada Classe Social.
+
+| **2d4** | **Miserável (×20)** | **Plebeu (×40)** | **Abastado (×120)** | **Opulento (×720)** |
+| ------- | ------------------- | ---------------- | ------------------- | ------------------- |
+| 2       | **V$40**            | V$80             | **V$240**               | V$1440              |
+| 3       | **V$60**            | V$120            | **V$360**               | V$2160              |
+| 4       | **V$80**            | V$160            | **V$480**               | V$2880              |
+| 5       | **V$100**           | V$200            | **V$600**               | V$3600              |
+| 6       | **V$120**           | V$240            | **V$720**               | V$4320              |
+| 7       | **V$140**           | V$280            | **V$840**               | V$5040              |
+| 8       | **V$160**           | V$320            | **V$960**               | V$5760              |
 > [[Tabela de Economia Inicial]]
 
 # Vínculos
