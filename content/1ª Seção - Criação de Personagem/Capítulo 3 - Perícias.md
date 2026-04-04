@@ -170,15 +170,15 @@ Personagens com alta gustação conseguem reconhecer componentes em alimentos ou
 
 No uso cotidiano, a gustação auxilia na avaliação de alimentos, bebidas e substâncias ingeríveis. Em níveis mais elevados, o personagem pode identificar compostos complexos ou alterações quase imperceptíveis. Em níveis baixos, porém, seu paladar é limitado, dificultando a distinção entre sabores e reduzindo sua capacidade de perceber irregularidades.
 
-## Pressentimento
+## Impressão
 
-> Perceba o que não é dito. Sinta padrões ocultos e pressinta o que está além do evidente. Bom para: investigadores, sobreviventes, pessoas perceptivas, indivíduos instintivos
+> Interprete significados, símbolos e mensagens além do que é explícito. Bom para: artistas, filósofos, intérpretes, indivíduos sensíveis ao abstrato
 
-Pressentimento é a capacidade de perceber o que não está explícito. Esta perícia mede o quanto o personagem consegue captar sinais sutis, padrões invisíveis e significados implícitos sem depender de análise lógica direta. Não se trata de raciocinar, mas de **sentir que algo está errado — ou certo — antes mesmo de entender o porquê**.
+Impressão é a capacidade de compreender significados implícitos, simbólicos e interpretativos em elementos do mundo. Esta perícia mede o quão bem o personagem consegue extrair sentido de palavras, imagens, comportamentos e expressões que vão além do literal. Não se trata de saber fatos, mas de **entender o que aquilo representa**.
 
-Personagens com alta Pressentimento conseguem perceber quando algo não se encaixa, identificar perigos iminentes, ler situações nas entrelinhas e antecipar acontecimentos com base em impressões quase inconscientes. São capazes de captar nuances que escapam à razão, guiando suas decisões por uma percepção mais instintiva do mundo.
+Personagens com alta Impressão conseguem interpretar obras de arte, discursos, gestos e situações sob uma ótica simbólica, identificando intenções, mensagens ocultas e camadas de significado. São capazes de perceber metáforas, ironias e construções subjetivas que não estão diretamente expressas.
 
-No uso cotidiano, a Pressentimento auxilia na leitura de situações ambíguas, na identificação de riscos e na tomada de decisões rápidas sem informações completas. Em níveis mais elevados, o personagem pode prever tendências e perceber padrões complexos de forma quase imediata. Em níveis baixos, porém, tende a ignorar sinais importantes ou confiar excessivamente em interpretações literais da realidade.
+No uso cotidiano, a Impressão auxilia na interpretação de textos, interações e elementos culturais. Em níveis mais elevados, o personagem pode extrair significados profundos de praticamente qualquer coisa, compreendendo contextos e intenções de forma refinada. Em níveis baixos, porém, tende a interpretar tudo de forma literal, ignorando nuances e significados implícitos.
 
 ## Linguística
 
@@ -209,16 +209,6 @@ Manipulação é a capacidade de utilizar as mãos com controle, precisão e hab
 Personagens com alta manipulação conseguem realizar tarefas como abrir fechaduras, esconder ou trocar objetos sem serem notados, manusear mecanismos complexos ou executar trabalhos minuciosos com as mãos. São capazes de agir com precisão em espaços pequenos e situações que exigem discrição e controle absoluto.
 
 No uso cotidiano, a manipulação auxilia na execução de tarefas manuais, uso de ferramentas e interação com objetos pequenos ou complexos. Em níveis mais elevados, o personagem pode realizar ações quase imperceptíveis ou extremamente refinadas com as mãos. Em níveis baixos, porém, tende a ser desajeitado, impreciso ou incapaz de lidar com tarefas que exigem destreza manual.
-
-## Reminiscência
-
-> Recorde experiências, sensações e informações com clareza e profundidade. Bom para: estudiosos, testemunhas, investigadores, indivíduos atentos ao passado
-
-Reminiscência é a capacidade de armazenar, recuperar e reviver informações, experiências e sensações. Esta perícia mede o quão bem o personagem consegue lembrar detalhes, reconhecer padrões já vividos e acessar lembranças de forma clara e útil. Não se trata apenas de recordar fatos, mas de **reviver e reinterpretar o que já foi experienciado**.
-
-Personagens com alta Reminiscência conseguem se lembrar de rostos, eventos, diálogos e detalhes específicos com precisão, além de associar situações presentes a experiências passadas. São capazes de reconhecer padrões recorrentes e utilizar lembranças como ferramenta para compreender o presente.
-
-No uso cotidiano, a Reminiscência auxilia na recordação de informações relevantes, reconhecimento de pessoas e compreensão de contextos já vividos. Em níveis mais elevados, o personagem pode acessar lembranças com riqueza de detalhes, quase como se estivesse revivendo a situação. Em níveis baixos, porém, tende a esquecer informações importantes, confundir detalhes ou perder referências úteis para interpretar o mundo ao seu redor.
 
 ## Mobilidade
 
@@ -270,6 +260,16 @@ Personagens com alta presença naturalmente chamam atenção, impõem respeito e
 
 No uso cotidiano, a presença auxilia em situações sociais onde impacto e autoridade são relevantes. Em níveis mais elevados, o personagem pode dominar ambientes inteiros apenas com sua postura, influenciando grupos sem precisar agir diretamente. Em níveis baixos, porém, tende a passar despercebido, ser ignorado ou não ser levado a sério, independentemente do que diga ou faça.
 
+## Pressentimento
+
+> Perceba o que não é dito. Sinta padrões ocultos e pressinta o que está além do evidente. Bom para: investigadores, sobreviventes, pessoas perceptivas, indivíduos instintivos
+
+Pressentimento é a capacidade de perceber o que não está explícito. Esta perícia mede o quanto o personagem consegue captar sinais sutis, padrões invisíveis e significados implícitos sem depender de análise lógica direta. Não se trata de raciocinar, mas de **sentir que algo está errado — ou certo — antes mesmo de entender o porquê**.
+
+Personagens com alta Pressentimento conseguem perceber quando algo não se encaixa, identificar perigos iminentes, ler situações nas entrelinhas e antecipar acontecimentos com base em impressões quase inconscientes. São capazes de captar nuances que escapam à razão, guiando suas decisões por uma percepção mais instintiva do mundo.
+
+No uso cotidiano, a Pressentimento auxilia na leitura de situações ambíguas, na identificação de riscos e na tomada de decisões rápidas sem informações completas. Em níveis mais elevados, o personagem pode prever tendências e perceber padrões complexos de forma quase imediata. Em níveis baixos, porém, tende a ignorar sinais importantes ou confiar excessivamente em interpretações literais da realidade.
+
 ## Primalidade
 
 > Supere seus limites sob pressão. Reaja com instinto, adrenalina e sobrevivência. Bom para: sobreviventes, combatentes, indivíduos intensos, pessoas sob pressão extrema
@@ -290,6 +290,16 @@ Personagens com alta reflexo conseguem desviar de ataques, reagir a movimentos s
 
 No uso cotidiano, o reflexo auxilia em situações que exigem respostas rápidas, desde evitar acidentes até reagir a perigos repentinos. Em níveis mais elevados, o personagem pode agir antes mesmo que outros percebam o que está acontecendo. Em níveis baixos, porém, tende a reagir com atraso, sendo facilmente surpreendido ou incapaz de responder a tempo.
 
+## Reminiscência
+
+> Recorde experiências, sensações e informações com clareza e profundidade. Bom para: estudiosos, testemunhas, investigadores, indivíduos atentos ao passado
+
+Reminiscência é a capacidade de armazenar, recuperar e reviver informações, experiências e sensações. Esta perícia mede o quão bem o personagem consegue lembrar detalhes, reconhecer padrões já vividos e acessar lembranças de forma clara e útil. Não se trata apenas de recordar fatos, mas de **reviver e reinterpretar o que já foi experienciado**.
+
+Personagens com alta Reminiscência conseguem se lembrar de rostos, eventos, diálogos e detalhes específicos com precisão, além de associar situações presentes a experiências passadas. São capazes de reconhecer padrões recorrentes e utilizar lembranças como ferramenta para compreender o presente.
+
+No uso cotidiano, a Reminiscência auxilia na recordação de informações relevantes, reconhecimento de pessoas e compreensão de contextos já vividos. Em níveis mais elevados, o personagem pode acessar lembranças com riqueza de detalhes, quase como se estivesse revivendo a situação. Em níveis baixos, porém, tende a esquecer informações importantes, confundir detalhes ou perder referências úteis para interpretar o mundo ao seu redor.
+
 ## Retórica
 
 > Convença através da palavra. Estruture argumentos, influencie opiniões e conduza discursos. Bom para: advogados, diplomatas, oradores, debatedores
@@ -299,16 +309,6 @@ Retórica é a capacidade de construir e articular argumentos de forma clara, l�
 Personagens com alta retórica conseguem formular argumentos sólidos, identificar falhas em discursos alheios, conduzir debates e persuadir através da lógica e da linguagem bem aplicada. São capazes de adaptar seu discurso ao público, utilizando palavras com precisão para alcançar o efeito desejado.
 
 No uso cotidiano, a retórica auxilia em negociações, debates e situações onde a argumentação é essencial. Em níveis mais elevados, o personagem pode influenciar decisões, reverter situações desfavoráveis e conduzir discussões complexas com domínio. Em níveis baixos, porém, tende a se expressar de forma confusa, inconsistente ou pouco convincente.
-
-## Impressão
-
-> Interprete significados, símbolos e mensagens além do que é explícito. Bom para: artistas, filósofos, intérpretes, indivíduos sensíveis ao abstrato
-
-Impressão é a capacidade de compreender significados implícitos, simbólicos e interpretativos em elementos do mundo. Esta perícia mede o quão bem o personagem consegue extrair sentido de palavras, imagens, comportamentos e expressões que vão além do literal. Não se trata de saber fatos, mas de **entender o que aquilo representa**.
-
-Personagens com alta Impressão conseguem interpretar obras de arte, discursos, gestos e situações sob uma ótica simbólica, identificando intenções, mensagens ocultas e camadas de significado. São capazes de perceber metáforas, ironias e construções subjetivas que não estão diretamente expressas.
-
-No uso cotidiano, a Impressão auxilia na interpretação de textos, interações e elementos culturais. Em níveis mais elevados, o personagem pode extrair significados profundos de praticamente qualquer coisa, compreendendo contextos e intenções de forma refinada. Em níveis baixos, porém, tende a interpretar tudo de forma literal, ignorando nuances e significados implícitos.
 
 ## Tolerância
 
