@@ -1,10 +1,9 @@
 # To-do
 
 - [ ] Capítulo 5 - Armas, Munições e Equipáveis
-	- [ ] Armas
+	- [x] Armas
 		- [x] Armas Flexíveis (Chicotes, Manguais e Correntes)
 		- [x] Armas Ocultas
-		- [ ] Armas Químicas, Inflamáveis e Elétricas
 	- [ ] Munições
 	- [ ] Equipáveis
 		- [ ] Equipando Itens
